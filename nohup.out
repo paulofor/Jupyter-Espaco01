@@ -1,0 +1,66 @@
+[I 16:46:42.710 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 16:46:42.710 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 16:46:42.710 NotebookApp] http://localhost:8970/?token=29a08277c2bd0343031307e954a4744e6c5b88ccd3587b5d
+[I 16:46:42.710 NotebookApp]  or http://127.0.0.1:8970/?token=29a08277c2bd0343031307e954a4744e6c5b88ccd3587b5d
+[I 16:46:42.710 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:46:42.718 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-1251-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=29a08277c2bd0343031307e954a4744e6c5b88ccd3587b5d
+     or http://127.0.0.1:8970/?token=29a08277c2bd0343031307e954a4744e6c5b88ccd3587b5d
+[I 16:47:16.352 NotebookApp] 302 GET / (127.0.0.1) 1.140000ms
+[I 07:27:24.456 NotebookApp] 302 GET / (127.0.0.1) 576.060000ms
+[I 07:27:24.766 NotebookApp] 302 GET /tree? (127.0.0.1) 172.330000ms
+[W 07:27:51.067 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 14.940000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 07:28:20.593 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.420000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 07:30:43.877 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 24.980000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 07:32:47.246 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 7.320000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 07:33:53.759 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.300000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 07:35:02.925 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 147.610000ms
+[W 07:37:13.514 NotebookApp] Notebook Validador/Untitled.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f4e18450400>(<Future finis...3d5"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f4e18450400>(<Future finis...3d5"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-57' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...73d5"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f4e16551ee0>(<Future finis...3d5"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f4e16551ee0>(<Future finis...3d5"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-65' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...73d5"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 07:37:14.079 NotebookApp] Kernel started: 2defaa68-de94-45b0-a44c-82313bd1db93, name: python3
+[I 07:37:21.347 NotebookApp] Creating new notebook in /Validador
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f4e183c2ee0>(<Future finis...3d5"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f4e183c2ee0>(<Future finis...3d5"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-67' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...73d5"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-43' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:695]> is being executed.
+[I 07:37:23.242 NotebookApp] Kernel started: 385df0ca-33ec-4f56-be41-e7a792240d61, name: python3
+[I 07:39:23.850 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[I 07:41:26.357 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:0bec6a9465ac46b39ee4f2ecc71d62d0
+[I 07:41:27.231 NotebookApp] Kernel restarted: 385df0ca-33ec-4f56-be41-e7a792240d61
+[I 07:41:27.514 NotebookApp] Restoring connection for 385df0ca-33ec-4f56-be41-e7a792240d61:0bec6a9465ac46b39ee4f2ecc71d62d0
+[I 07:41:29.869 NotebookApp] Replaying 3 buffered messages
+[I 07:43:23.288 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[W 07:44:54.401 NotebookApp] Notebook Validador/versao01.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f4e18442a00>(<Future finis...3d5"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f4e18442a00>(<Future finis...3d5"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-64' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...73d5"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-460' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 07:44:54.684 NotebookApp] Kernel started: c39940f8-0f91-41ad-9392-fd3ce3d0905a, name: python3
+[I 07:45:23.263 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[I 07:47:23.801 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[I 07:47:55.096 NotebookApp] Starting buffering for 2defaa68-de94-45b0-a44c-82313bd1db93:78f31b1be43d4e59896e5453de9144e1
+[I 07:48:19.431 NotebookApp] Starting buffering for c39940f8-0f91-41ad-9392-fd3ce3d0905a:aeaa846095aa4038837294227c8b2c85
+[I 07:48:57.687 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:0bec6a9465ac46b39ee4f2ecc71d62d0
+[I 11:28:59.531 NotebookApp] 302 GET / (127.0.0.1) 198.920000ms
+[W 11:29:11.671 NotebookApp] Notebook Validador/Resquest2Dataframe.ipynb is not trusted
+[I 11:57:12.190 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[I 11:59:06.576 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:0ad76452bd1b42ac9bc5038ed77a4607
