@@ -64,3 +64,26 @@ RuntimeError: Cannot enter into task <Task pending name='Task-64' coro=<HTTP1Ser
 [W 11:29:11.671 NotebookApp] Notebook Validador/Resquest2Dataframe.ipynb is not trusted
 [I 11:57:12.190 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
 [I 11:59:06.576 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:0ad76452bd1b42ac9bc5038ed77a4607
+[I 19:47:29.628 NotebookApp] 302 GET / (127.0.0.1) 127.450000ms
+[I 19:47:38.166 NotebookApp] Creating new directory in 
+[W 19:48:35.376 NotebookApp] delete /Untitled Folder
+[I 19:48:44.759 NotebookApp] Creating new directory in 
+[I 19:49:22.268 NotebookApp] Creating new notebook in /Untitled Folder
+[I 19:49:26.450 NotebookApp] Kernel started: f3e6d9ae-d101-497e-8572-357400347411, name: python3
+[I 19:51:26.168 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 19:53:27.121 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 19:54:13.740 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 19:54:28.283 NotebookApp] New terminal with automatic name: 1
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 19:55:26.133 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 19:57:26.114 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 19:59:26.084 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 20:01:26.171 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 20:02:24.249 NotebookApp] EOF on FD 72; stopping reading
+[I 20:02:24.360 NotebookApp] Terminal 1 closed
+[I 20:03:26.217 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 20:05:27.075 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 20:13:54.627 NotebookApp] Saving file at /Untitled Folder/Resultado Futuro - ABEV3.ipynb
+[I 20:13:58.313 NotebookApp] Starting buffering for f3e6d9ae-d101-497e-8572-357400347411:d1726c7e73ee4633b73a8c325517c0bc
+[I 20:14:00.952 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
+[I 20:14:02.814 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:3f0d8afe39f640c8854adb9ed6cbda97
