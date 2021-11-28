@@ -87,3 +87,22 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 20:13:58.313 NotebookApp] Starting buffering for f3e6d9ae-d101-497e-8572-357400347411:d1726c7e73ee4633b73a8c325517c0bc
 [I 20:14:00.952 NotebookApp] Saving file at /Validador/Resquest2Dataframe.ipynb
 [I 20:14:02.814 NotebookApp] Starting buffering for 385df0ca-33ec-4f56-be41-e7a792240d61:3f0d8afe39f640c8854adb9ed6cbda97
+[I 12:25:15.320 NotebookApp] 302 GET / (127.0.0.1) 129.220000ms
+[W 12:25:24.692 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:25:25.444 NotebookApp] Kernel started: 19005701-50eb-4eb9-8a67-a0496a5ebcf6, name: python3
+[I 12:27:25.183 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:27:25.212 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:35:24.974 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:35:24.980 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:37:24.986 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:37:24.989 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:39:24.975 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:39:24.981 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:41:25.027 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:41:25.028 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:43:24.974 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:43:24.974 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:45:06.509 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[W 12:45:06.510 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 12:47:25.207 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
+[I 14:18:27.918 NotebookApp] Starting buffering for 19005701-50eb-4eb9-8a67-a0496a5ebcf6:d2243173d9e843c780c2667157e13731
