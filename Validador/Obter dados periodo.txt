@@ -1,0 +1,8 @@
+import requests
+import pandas as pd
+
+r = requests.get('http://vps-40d69db1.vps.ovh.ca:21046/api/ExecucaoSimulacaos/melhorValidacaoPeriodoFlat?idPeriodo=7')
+
+j = r.json()
+
+df2 = pd.DataFrame.from_dict(j)
