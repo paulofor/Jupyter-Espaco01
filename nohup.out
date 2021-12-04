@@ -170,3 +170,15 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 19:20:26.041 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - ABEV3.ipynb
 [W 19:20:26.041 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
 [I 20:16:58.854 NotebookApp] Starting buffering for 19005701-50eb-4eb9-8a67-a0496a5ebcf6:e7a1c1ccb766432a8563cd721b8d3fbd
+[I 11:02:35.949 NotebookApp] 302 GET / (127.0.0.1) 152.700000ms
+[I 11:02:57.585 NotebookApp] Creating new directory in 
+[I 11:03:29.854 NotebookApp] Creating new notebook in /Curso Python
+[I 11:03:36.060 NotebookApp] Kernel started: 1ca5d311-836e-49cb-b8df-79100c3404ed, name: python3
+[I 11:05:35.621 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:07:35.482 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:09:35.668 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:11:35.523 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:13:35.519 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:15:35.476 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:15:57.432 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
+[I 11:49:40.795 NotebookApp] Starting buffering for 1ca5d311-836e-49cb-b8df-79100c3404ed:fd4dbb7799d74a12869cac8bc6443fe5
