@@ -182,3 +182,37 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 11:15:35.476 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
 [I 11:15:57.432 NotebookApp] Saving file at /Curso Python/Tipos e Sequencias.ipynb
 [I 11:49:40.795 NotebookApp] Starting buffering for 1ca5d311-836e-49cb-b8df-79100c3404ed:fd4dbb7799d74a12869cac8bc6443fe5
+[I 23:53:39.070 NotebookApp] 302 GET / (127.0.0.1) 13.350000ms
+[I 23:54:01.775 NotebookApp] Copying ResultadoFuturo/Pesquisando ABEV3-2.ipynb to /ResultadoFuturo
+[W 23:54:01.810 NotebookApp] Notebook ResultadoFuturo/Pesquisando ABEV3-2.ipynb is not trusted
+[W 23:54:01.817 NotebookApp] Notebook ResultadoFuturo/Pesquisando ABEV3-2-Copy1.ipynb is not trusted
+[W 23:54:29.949 NotebookApp] Notebook ResultadoFuturo/Pesquisando B3SA3.ipynb is not trusted
+[I 23:54:30.490 NotebookApp] Kernel started: 33cd04b1-1deb-4832-ab37-004c3e19fff3, name: python3
+[I 23:56:30.554 NotebookApp] Saving file at /ResultadoFuturo/Pesquisando B3SA3.ipynb
+[I 00:00:32.591 NotebookApp] Copying ResultadoFuturo/Resultado Futuro - ABEV3.ipynb to /ResultadoFuturo
+[W 00:00:32.663 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[W 00:00:32.678 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3-Copy1.ipynb is not trusted
+[W 00:01:07.938 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 00:01:08.739 NotebookApp] Kernel started: a7833316-76be-4250-a7e9-ad5e356e18f9, name: python3
+[I 00:03:09.056 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - B3SA3.ipynb
+[W 00:03:09.197 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 00:12:22.512 NotebookApp] Starting buffering for a7833316-76be-4250-a7e9-ad5e356e18f9:9e19821d838b426c83c18006e4d20071
+[I 00:12:23.159 NotebookApp] Starting buffering for 33cd04b1-1deb-4832-ab37-004c3e19fff3:e6238b05af674ed281179beccf538ca5
+[I 15:46:16.139 NotebookApp] 302 GET / (127.0.0.1) 229.730000ms
+[I 15:46:30.006 NotebookApp] Creating new notebook in /Validador
+[I 15:46:34.215 NotebookApp] Kernel started: 2005e75f-e0e6-48ca-9f21-643b3c60cbc6, name: python3
+[W 15:46:53.698 NotebookApp] Notebook Validador/Observação de Periodo 7.ipynb is not trusted
+[I 15:48:33.976 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 15:50:33.941 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 15:52:34.661 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 15:54:35.178 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 15:56:33.895 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 15:58:33.865 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:00:34.541 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:04:33.798 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:06:33.788 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:08:34.471 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:11:26.557 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:11:26.730 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 16:11:27.763 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:748ba986d6df454082f62661a8a70fa5
+[I 16:11:31.792 NotebookApp] Starting buffering for f77565ef-ebfc-414e-9a54-02b3da58b181:af2fd10faf3c4f82aafba4ee4afdb27e
