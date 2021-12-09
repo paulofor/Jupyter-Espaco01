@@ -216,3 +216,36 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 16:11:26.730 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
 [I 16:11:27.763 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:748ba986d6df454082f62661a8a70fa5
 [I 16:11:31.792 NotebookApp] Starting buffering for f77565ef-ebfc-414e-9a54-02b3da58b181:af2fd10faf3c4f82aafba4ee4afdb27e
+[I 11:42:42.372 NotebookApp] Creating new notebook in /Curso Python
+[I 11:42:50.479 NotebookApp] Kernel started: 74c43036-637f-4363-97ae-3aaf1154e92a, name: python3
+[I 11:44:50.696 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:46:50.001 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:48:49.990 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:50:49.963 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:52:50.705 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:54:50.856 NotebookApp] Saving file at /Curso Python/Map Lamba.ipynb
+[I 11:54:53.369 NotebookApp] Starting buffering for 74c43036-637f-4363-97ae-3aaf1154e92a:608800f5129b4cb78dd2247c39846d7d
+[I 13:39:36.968 NotebookApp] Creating new directory in 
+[I 13:39:53.682 NotebookApp] Creating new notebook in /Exercicios
+[I 13:39:55.640 NotebookApp] Kernel started: 83ef129a-763e-49c9-a0bf-8330ee6aea77, name: python3
+[I 13:41:55.637 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 13:43:55.594 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 13:47:55.599 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 13:49:55.873 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 14:29:01.730 NotebookApp] Starting buffering for 83ef129a-763e-49c9-a0bf-8330ee6aea77:e2036a77171d48a6b10571161a151e9a
+[I 14:33:06.195 NotebookApp] Restoring connection for 83ef129a-763e-49c9-a0bf-8330ee6aea77:e2036a77171d48a6b10571161a151e9a
+[I 14:54:47.583 NotebookApp] Starting buffering for 83ef129a-763e-49c9-a0bf-8330ee6aea77:e2036a77171d48a6b10571161a151e9a
+[W 18:28:04.212 NotebookApp] Notebook Exercicios/Duplicação em dataframe pandas.ipynb is not trusted
+[I 18:30:04.483 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[W 18:30:04.490 NotebookApp] Notebook Exercicios/Duplicação em dataframe pandas.ipynb is not trusted
+[W 18:31:42.543 NotebookApp] 404 GET /lab (127.0.0.1) 483.050000ms referer=None
+[I 18:32:04.876 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 18:34:04.724 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 18:34:51.712 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 18:38:04.860 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 18:38:19.529 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[I 18:38:21.635 NotebookApp] Starting buffering for 83ef129a-763e-49c9-a0bf-8330ee6aea77:9af5f9a114834b71b8980f976edabdf9
+[W 18:40:00.749 NotebookApp] Notebook Exercicios/Duplicação em dataframe pandas.ipynb is not trusted
+[I 18:46:01.909 NotebookApp] Saving file at /Exercicios/Duplicação em dataframe pandas.ipynb
+[W 18:46:01.913 NotebookApp] Notebook Exercicios/Duplicação em dataframe pandas.ipynb is not trusted
+[I 18:49:37.506 NotebookApp] Starting buffering for 83ef129a-763e-49c9-a0bf-8330ee6aea77:ee9198e3f8a54bd18196b99199896fee
