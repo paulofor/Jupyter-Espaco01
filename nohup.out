@@ -262,3 +262,64 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 23:15:59.963 NotebookApp] Saving file at /Validador/Periodo 7 - Passo a Passo.ipynb
 [I 23:18:55.869 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:4637f5d53c0b42488e63070e5e72349b
 [I 23:18:57.553 NotebookApp] Starting buffering for 536f7346-cf82-42a7-9b6e-e56c7d867087:8df39595f3b2419b9445f17d20653289
+[I 05:40:29.980 NotebookApp] 302 GET / (127.0.0.1) 140.990000ms
+[W 05:40:44.005 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 05:42:14.095 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 05:42:14.108 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 05:42:45.231 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 05:42:45.231 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 05:44:52.218 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 05:44:52.221 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 05:46:46.021 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 05:46:46.027 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 05:47:39.483 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 05:47:39.484 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 10:12:51.307 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:8335ad8067504be787d739860c50e9ea
+[I 11:04:53.216 NotebookApp] 302 GET / (127.0.0.1) 180.620000ms
+[I 11:04:53.433 NotebookApp] 302 GET /tree? (127.0.0.1) 118.120000ms
+[W 11:05:02.510 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 20.140000ms referer=http://localhost:8889/login?next=%2Ftree%3F
+[I 11:05:28.399 NotebookApp] 302 GET / (127.0.0.1) 4.940000ms
+[W 11:05:37.323 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:07:37.825 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:07:37.842 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:09:38.999 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:09:39.002 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:11:37.743 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:11:37.744 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:13:37.727 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:13:37.744 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:14:25.432 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:14:25.433 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:15:38.535 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:15:38.571 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:17:37.692 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:17:37.692 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:18:16.438 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:18:16.439 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:19:37.670 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:19:37.671 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:19:38.214 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 11:19:38.215 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 11:19:40.621 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:eea800f4663e46b4bf82b0264377888f
+[I 12:54:35.706 NotebookApp] 302 GET / (127.0.0.1) 24.610000ms
+[I 12:54:35.745 NotebookApp] 302 GET /tree? (127.0.0.1) 13.610000ms
+[I 12:54:58.207 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 236.040000ms
+[W 12:55:39.308 NotebookApp] Notebook ResultadoFuturo/Pesquisando ABEV3-2.ipynb is not trusted
+[I 12:55:48.556 NotebookApp] Starting buffering for 6aeeb1ad-d8f5-41cc-ba97-61a7c9b35578:ebad853dbe27419db83afd1066db4635
+[W 12:55:49.430 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 12:56:44.352 NotebookApp] Kernel interrupted: a7833316-76be-4250-a7e9-ad5e356e18f9
+[I 12:57:51.108 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - B3SA3.ipynb
+[W 12:57:51.112 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 12:58:17.190 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 12:58:19.066 NotebookApp] Kernel started: b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0, name: python3
+[W 12:59:11.866 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 13:00:19.789 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[I 13:02:19.790 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[I 13:04:19.119 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[I 13:04:28.605 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[I 13:05:24.684 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[I 13:05:27.032 NotebookApp] Starting buffering for b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0:f74e733cf595458698071109093e9dc1
+[I 13:05:29.844 NotebookApp] Saving file at /ResultadoFuturo/Resultado Futuro - B3SA3.ipynb
+[W 13:05:29.849 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 13:05:30.865 NotebookApp] Starting buffering for a7833316-76be-4250-a7e9-ad5e356e18f9:a45c24e8aca6435c9992f0c7f9805545
+[I 13:05:34.651 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:78be43e7613444e08e2644dda40e8641
