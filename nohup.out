@@ -323,3 +323,13 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [W 13:05:29.849 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
 [I 13:05:30.865 NotebookApp] Starting buffering for a7833316-76be-4250-a7e9-ad5e356e18f9:a45c24e8aca6435c9992f0c7f9805545
 [I 13:05:34.651 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:78be43e7613444e08e2644dda40e8641
+[W 07:41:20.618 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 07:42:39.178 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 07:42:39.196 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 07:42:54.697 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:965a4932db6f438b96407655e029008e
+[W 07:48:35.920 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 07:49:40.174 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 07:49:40.175 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 07:49:41.763 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 07:49:41.764 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 07:49:44.618 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:21358b27daf14e448ff10f0413e9f3fe
