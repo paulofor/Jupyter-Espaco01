@@ -333,3 +333,15 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 07:49:41.763 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
 [W 07:49:41.764 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
 [I 07:49:44.618 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:21358b27daf14e448ff10f0413e9f3fe
+[I 11:28:02.947 NotebookApp] 302 GET /tree? (127.0.0.1) 604.070000ms
+[W 11:30:46.575 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 11:32:47.220 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[W 11:32:47.233 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 11:34:47.719 NotebookApp] Saving file at /ResultadoFuturo/Avaliando ABEV3.ipynb
+[W 11:34:47.720 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 12:09:24.434 NotebookApp] Starting buffering for b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0:3cb97dfd496944109d1d65f225020bc3
+[I 12:40:55.665 NotebookApp] Creating new directory in 
+[I 12:41:11.763 NotebookApp] Creating new notebook in /Criptomoeda
+[I 12:41:13.501 NotebookApp] Kernel started: 3cbcbaa6-afeb-4798-84fe-c23222a9f759, name: python3
+[I 12:43:14.013 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 12:55:24.246 NotebookApp] Starting buffering for 3cbcbaa6-afeb-4798-84fe-c23222a9f759:b2101d51da4a4f0d824be47bdbccbf87
