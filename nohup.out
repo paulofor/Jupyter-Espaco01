@@ -345,3 +345,29 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 12:41:13.501 NotebookApp] Kernel started: 3cbcbaa6-afeb-4798-84fe-c23222a9f759, name: python3
 [I 12:43:14.013 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
 [I 12:55:24.246 NotebookApp] Starting buffering for 3cbcbaa6-afeb-4798-84fe-c23222a9f759:b2101d51da4a4f0d824be47bdbccbf87
+[I 08:20:09.719 NotebookApp] Creating new notebook in /Curso Python
+[I 08:20:17.934 NotebookApp] Kernel started: e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f, name: python3
+[I 08:22:17.712 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:24:17.677 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:26:17.693 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:28:17.451 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:30:17.502 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:32:17.646 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:34:17.468 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:36:17.519 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:38:17.533 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:40:17.449 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:41:50.423 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:45:10.631 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[I 08:45:14.220 NotebookApp] Starting buffering for e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f:66b650e091ba49b484b82ea48635d457
+[W 12:01:47.671 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:03:48.245 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 12:03:48.298 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:05:48.416 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:07:48.369 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:09:48.161 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:11:48.296 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:21:48.246 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:25:48.196 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:27:48.161 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:28:49.877 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:9783dfc760864348a8a91e8918fddf90
