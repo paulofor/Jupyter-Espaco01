@@ -371,3 +371,29 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 12:25:48.196 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
 [I 12:27:48.161 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
 [I 12:28:49.877 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:9783dfc760864348a8a91e8918fddf90
+[I 10:39:23.883 NotebookApp] 302 GET /tree? (127.0.0.1) 302.910000ms
+[I 10:40:05.504 NotebookApp] 302 GET /tree? (127.0.0.1) 1.550000ms
+[W 10:40:09.333 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 38.550000ms referer=http://localhost:8898/login?next=%2Ftree%3F
+[I 10:41:34.817 NotebookApp] 302 GET / (127.0.0.1) 18.170000ms
+[I 10:41:34.852 NotebookApp] 302 GET /tree? (127.0.0.1) 5.120000ms
+[I 10:42:07.971 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 52.210000ms
+[I 10:42:12.824 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.840000ms
+[W 10:42:33.425 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 10:44:34.481 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 10:48:34.568 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 10:54:33.898 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 10:56:34.327 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 10:58:33.846 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:00:33.807 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:02:34.287 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:04:34.248 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:46:33.451 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:48:33.517 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:50:37.647 NotebookApp] Creating new notebook in /Validador
+[I 11:50:42.704 NotebookApp] Kernel started: 78e1946d-3be1-45b3-a65f-534086544dd4, name: python3
+[I 11:52:42.659 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 11:54:42.806 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 11:56:15.593 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 11:56:16.538 NotebookApp] Starting buffering for 78e1946d-3be1-45b3-a65f-534086544dd4:fbaa9ea50bf64705b9b23eca2376e401
+[I 11:56:18.917 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 11:56:20.291 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:b3bfefca533c46f680b2d3cd09b80761
