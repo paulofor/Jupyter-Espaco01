@@ -397,3 +397,53 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 11:56:16.538 NotebookApp] Starting buffering for 78e1946d-3be1-45b3-a65f-534086544dd4:fbaa9ea50bf64705b9b23eca2376e401
 [I 11:56:18.917 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
 [I 11:56:20.291 NotebookApp] Starting buffering for 2005e75f-e0e6-48ca-9f21-643b3c60cbc6:b3bfefca533c46f680b2d3cd09b80761
+[I 10:49:18.469 NotebookApp] 302 GET / (127.0.0.1) 218.810000ms
+[W 10:49:29.361 NotebookApp] Notebook Criptomoeda/Bitcoin.ipynb is not trusted
+[W 10:49:46.211 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 10:51:29.783 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:22:21.969 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:23:29.486 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:23:54.091 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:25:29.478 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:27:29.580 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:29:29.331 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:35:29.533 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:37:29.244 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:39:29.235 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:46:08.715 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:46:10.406 NotebookApp] Starting buffering for 3cbcbaa6-afeb-4798-84fe-c23222a9f759:2099fcf2a3be4d97842046c4b6b3efef
+[I 11:46:14.390 NotebookApp] Starting buffering for b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0:55f68147f24c499f824ff7834a472864
+[W 11:51:29.149 NotebookApp] Notebook Criptomoeda/Bitcoin.ipynb is not trusted
+[I 11:53:31.146 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 11:57:31.182 NotebookApp] Saving file at /Criptomoeda/Bitcoin.ipynb
+[I 12:06:35.390 NotebookApp] Starting buffering for 3cbcbaa6-afeb-4798-84fe-c23222a9f759:8f655ad598ba45f9b1c167c3ac38341e
+[I 12:09:25.335 NotebookApp] 302 GET / (127.0.0.1) 2.980000ms
+[W 12:09:35.466 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 12:24:21.000 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 12:24:23.861 NotebookApp] Kernel started: d5ee8f1b-50c7-4daa-bf9a-06eb7b63fcb4, name: python3
+[I 12:26:24.195 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:28:23.852 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:30:23.981 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:31:55.526 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:33:23.434 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:34:02.063 NotebookApp] Starting buffering for b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0:694a534933e9452380b02d6494bc1910
+[I 12:34:03.984 NotebookApp] Starting buffering for d5ee8f1b-50c7-4daa-bf9a-06eb7b63fcb4:0dffac68e9544e7f8fe02181eedab3be
+[W 12:38:42.398 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:46:43.016 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:46:43.019 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:48:43.313 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:48:43.314 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:50:27.914 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:50:27.915 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:52:43.000 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:52:43.001 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:54:42.985 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:54:42.986 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:56:43.168 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:56:43.168 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:58:43.333 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:58:43.334 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 13:00:43.320 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 13:00:43.321 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 13:06:54.814 NotebookApp] Kernel interrupted: e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f
+[I 13:07:08.335 NotebookApp] Starting buffering for e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f:bd32e856930340668b1734d61992d353
