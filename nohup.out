@@ -447,3 +447,41 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [W 13:00:43.321 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
 [I 13:06:54.814 NotebookApp] Kernel interrupted: e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f
 [I 13:07:08.335 NotebookApp] Starting buffering for e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f:bd32e856930340668b1734d61992d353
+[I 12:11:59.509 NotebookApp] 302 GET / (127.0.0.1) 198.990000ms
+[I 12:12:09.939 NotebookApp] Kernel shutdown: 385df0ca-33ec-4f56-be41-e7a792240d61
+[I 12:12:11.383 NotebookApp] Kernel shutdown: f3e6d9ae-d101-497e-8572-357400347411
+[I 12:12:13.396 NotebookApp] Kernel shutdown: 19005701-50eb-4eb9-8a67-a0496a5ebcf6
+[I 12:12:14.701 NotebookApp] Kernel shutdown: 6aeeb1ad-d8f5-41cc-ba97-61a7c9b35578
+[I 12:12:15.914 NotebookApp] Kernel shutdown: f77565ef-ebfc-414e-9a54-02b3da58b181
+[I 12:12:17.269 NotebookApp] Kernel shutdown: 1ca5d311-836e-49cb-b8df-79100c3404ed
+[I 12:12:20.008 NotebookApp] Kernel shutdown: 33cd04b1-1deb-4832-ab37-004c3e19fff3
+[I 12:12:21.275 NotebookApp] Kernel shutdown: 83ef129a-763e-49c9-a0bf-8330ee6aea77
+[I 12:12:23.370 NotebookApp] Kernel shutdown: 536f7346-cf82-42a7-9b6e-e56c7d867087
+[I 12:12:24.313 NotebookApp] Kernel shutdown: b7f34d3a-3a51-4a06-b06a-87d3dc5d42d0
+[I 12:12:27.044 NotebookApp] Kernel shutdown: 3cbcbaa6-afeb-4798-84fe-c23222a9f759
+[I 12:12:27.089 NotebookApp] Kernel shutdown: e85dc6a5-c43d-4f14-a5b7-7df8f03ab34f
+[I 12:12:28.760 NotebookApp] Kernel shutdown: d5ee8f1b-50c7-4daa-bf9a-06eb7b63fcb4
+[I 12:12:38.875 NotebookApp] Kernel shutdown: a7833316-76be-4250-a7e9-ad5e356e18f9
+[I 12:12:42.830 NotebookApp] Kernel shutdown: 74c43036-637f-4363-97ae-3aaf1154e92a
+[I 12:12:43.510 NotebookApp] Kernel shutdown: 78e1946d-3be1-45b3-a65f-534086544dd4
+[I 12:12:48.891 NotebookApp] Kernel shutdown: 2005e75f-e0e6-48ca-9f21-643b3c60cbc6
+[W 12:13:17.522 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:13:18.003 NotebookApp] Kernel started: 37d8dc9d-19c5-429e-8c7c-71606698db8e, name: python3
+[I 12:15:18.333 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:25:17.830 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:27:18.188 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:28:41.403 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:35:17.663 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:37:17.666 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:39:17.939 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:41:17.610 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 12:42:05.288 NotebookApp] Starting buffering for 37d8dc9d-19c5-429e-8c7c-71606698db8e:9759227b7cce4fde87b7d12ae6b6d355
+[I 12:42:05.301 NotebookApp] Kernel shutdown: 37d8dc9d-19c5-429e-8c7c-71606698db8e
+[I 12:42:07.381 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[I 14:35:21.859 NotebookApp] 302 GET / (127.0.0.1) 2.840000ms
+[W 14:35:32.057 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 14:35:32.540 NotebookApp] Kernel started: 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a, name: python3
+[I 14:36:32.965 NotebookApp] Kernel interrupted: 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a
+[I 14:36:37.824 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 14:36:37.828 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 14:36:39.787 NotebookApp] Starting buffering for 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a:c5d8edd969d54d8388b9e8dd5cc3e371
