@@ -485,3 +485,12 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 14:36:37.824 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
 [W 14:36:37.828 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
 [I 14:36:39.787 NotebookApp] Starting buffering for 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a:c5d8edd969d54d8388b9e8dd5cc3e371
+[I 12:43:50.970 NotebookApp] 302 GET / (127.0.0.1) 164.630000ms
+[W 12:44:00.310 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 12:44:02.142 NotebookApp] Kernel started: 29210bcd-2868-401f-99fd-9a9684dd7f82, name: python3
+[I 12:46:01.957 NotebookApp] Saving file at /Curso Python/Expressões Regulares.ipynb
+[W 12:46:01.979 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 18:43:53.948 NotebookApp] Kernel interrupted: 29210bcd-2868-401f-99fd-9a9684dd7f82
+[I 18:44:05.058 NotebookApp] Starting buffering for 29210bcd-2868-401f-99fd-9a9684dd7f82:4f6a800030874f0ca3fc6b59f40de676
+[I 18:44:13.763 NotebookApp] Kernel shutdown: 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a
+[I 18:44:18.320 NotebookApp] Kernel shutdown: 29210bcd-2868-401f-99fd-9a9684dd7f82
