@@ -494,3 +494,55 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 18:44:05.058 NotebookApp] Starting buffering for 29210bcd-2868-401f-99fd-9a9684dd7f82:4f6a800030874f0ca3fc6b59f40de676
 [I 18:44:13.763 NotebookApp] Kernel shutdown: 81b1fbd6-9bcf-4479-9a56-e2402aef9c3a
 [I 18:44:18.320 NotebookApp] Kernel shutdown: 29210bcd-2868-401f-99fd-9a9684dd7f82
+[I 10:43:16.294 NotebookApp] 302 GET / (127.0.0.1) 202.640000ms
+[W 10:43:35.294 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 10:43:35.923 NotebookApp] Kernel started: 6071e51e-76a3-40d3-b20c-57a13fa1d330, name: python3
+[I 10:45:36.151 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 10:45:36.174 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 10:55:35.574 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 10:55:35.577 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 10:57:35.525 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 10:57:35.526 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:05:35.944 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 11:05:35.945 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:25:35.291 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 11:25:35.291 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:27:35.733 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 11:27:35.734 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:01:35.462 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:01:35.480 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[W 12:01:50.644 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:01:51.920 NotebookApp] Kernel started: badf385c-fb85-4311-b8d5-044880df562b, name: python3
+[W 12:02:12.001 NotebookApp] Notebook Validador/Periodo 7 - Passo a Passo.ipynb is not trusted
+[I 12:02:12.541 NotebookApp] Kernel started: 0ddc0387-f86f-4bd9-974a-f76e2a1a3e29, name: python3
+[W 12:02:32.160 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 12:02:32.825 NotebookApp] Kernel started: eee678cf-c531-46c9-8a3d-4dee2d1683da, name: python3
+[I 12:05:21.748 NotebookApp] Starting buffering for badf385c-fb85-4311-b8d5-044880df562b:29a2205ac93640ce88945a57577ef710
+[I 12:05:35.412 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:05:35.426 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:07:34.975 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:07:34.981 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:08:23.304 NotebookApp] Starting buffering for 0ddc0387-f86f-4bd9-974a-f76e2a1a3e29:8d13f11f57564817a2a993895a96f98c
+[I 12:09:34.991 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:09:34.992 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:11:34.923 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:11:34.924 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:13:34.921 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:13:34.929 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:15:34.950 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:15:34.951 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:20:17.591 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 12:20:19.837 NotebookApp] Kernel started: 4cd8f778-512f-4da3-9d3f-d74f3d1d96b3, name: python3
+[I 12:20:54.799 NotebookApp] Starting buffering for eee678cf-c531-46c9-8a3d-4dee2d1683da:c4e93ccaac65476088d5a2772b7b44c4
+[I 12:22:20.315 NotebookApp] Saving file at /ResultadoFuturo/RegraGeral1-IdentificandoMelhoresPiores.ipynb
+[I 12:24:19.769 NotebookApp] Saving file at /ResultadoFuturo/RegraGeral1-IdentificandoMelhoresPiores.ipynb
+[I 12:27:34.832 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:27:34.843 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:28:00.052 NotebookApp] Starting buffering for 4cd8f778-512f-4da3-9d3f-d74f3d1d96b3:23be11dfe592451d97d3819f1269ef2e
+[I 12:29:34.795 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:29:34.807 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:33:34.765 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:33:34.774 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:39:34.709 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 12:39:34.711 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 12:41:19.290 NotebookApp] Starting buffering for 6071e51e-76a3-40d3-b20c-57a13fa1d330:22f2dc31b036453d893be1c6975c0a94
