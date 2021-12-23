@@ -546,3 +546,37 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 12:39:34.709 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
 [W 12:39:34.711 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
 [I 12:41:19.290 NotebookApp] Starting buffering for 6071e51e-76a3-40d3-b20c-57a13fa1d330:22f2dc31b036453d893be1c6975c0a94
+[I 12:02:54.995 NotebookApp] 302 GET / (127.0.0.1) 255.670000ms
+[W 12:03:10.848 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:03:48.398 NotebookApp] Starting buffering for badf385c-fb85-4311-b8d5-044880df562b:66ac311c961948508da460e84dbeb8cc
+[I 12:03:50.380 NotebookApp] Kernel restarted: badf385c-fb85-4311-b8d5-044880df562b
+[I 12:03:50.451 NotebookApp] Restoring connection for badf385c-fb85-4311-b8d5-044880df562b:66ac311c961948508da460e84dbeb8cc
+[I 12:03:54.058 NotebookApp] Replaying 6 buffered messages
+[W 12:04:28.148 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:04:28.845 NotebookApp] Kernel started: 6dfb9d76-8267-4946-add8-f647c1bfee73, name: python3
+[I 12:05:12.391 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[W 12:05:12.581 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:06:28.729 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:07:12.817 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:10:28.663 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:12:28.655 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:14:28.507 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:15:11.745 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:16:28.916 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:17:13.083 NotebookApp] Saving file at /Validador/Avaliando Periodo 7.ipynb
+[I 12:18:28.597 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 12:37:21.874 NotebookApp] Starting buffering for badf385c-fb85-4311-b8d5-044880df562b:66ac311c961948508da460e84dbeb8cc
+[I 12:37:21.890 NotebookApp] Starting buffering for 6dfb9d76-8267-4946-add8-f647c1bfee73:5fb176ddbb4945068b759a4f8f38deee
+[I 17:04:49.165 NotebookApp] Creating new notebook in /Curso Python
+[I 17:05:02.265 NotebookApp] Kernel started: 85d86ec5-0376-453f-8563-a62bd324948c, name: python3
+[I 17:05:04.190 NotebookApp] Saving file at /Curso Python/Untitled.ipynb
+[I 17:07:02.222 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:39:01.980 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:41:02.190 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:43:02.302 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:45:02.253 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:47:02.005 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:49:02.010 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:51:02.261 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[I 17:55:42.941 NotebookApp] Kernel interrupted: 85d86ec5-0376-453f-8563-a62bd324948c
+[I 17:55:45.787 NotebookApp] Starting buffering for 85d86ec5-0376-453f-8563-a62bd324948c:971a6f0dc6d64019afce8bc6ee826425
