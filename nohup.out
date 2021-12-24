@@ -580,3 +580,13 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 17:51:02.261 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
 [I 17:55:42.941 NotebookApp] Kernel interrupted: 85d86ec5-0376-453f-8563-a62bd324948c
 [I 17:55:45.787 NotebookApp] Starting buffering for 85d86ec5-0376-453f-8563-a62bd324948c:971a6f0dc6d64019afce8bc6ee826425
+[I 17:07:23.369 NotebookApp] 302 GET / (127.0.0.1) 270.650000ms
+[I 17:07:24.164 NotebookApp] 302 GET / (127.0.0.1) 5.460000ms
+[W 17:07:35.859 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 17:09:37.228 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 17:11:08.580 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 17:11:36.287 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 17:13:36.307 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 17:15:36.541 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 18:31:49.895 NotebookApp] Starting buffering for badf385c-fb85-4311-b8d5-044880df562b:3a701514bce04077866ff24459010083
+[I 18:35:43.410 NotebookApp] Starting buffering for 6dfb9d76-8267-4946-add8-f647c1bfee73:b68a63fa3c6c4d8187deb5b5f9d087c0
