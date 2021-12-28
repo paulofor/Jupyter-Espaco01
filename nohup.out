@@ -611,3 +611,33 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [W 19:06:34.468 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
 [I 19:06:35.615 NotebookApp] Kernel started: 2ecc7aad-e19b-42e8-acda-d27d5a732253, name: python3
 [I 19:09:46.621 NotebookApp] Starting buffering for 2ecc7aad-e19b-42e8-acda-d27d5a732253:995d6c55494640b387076e241324dbfd
+[I 12:09:18.576 NotebookApp] 302 GET / (127.0.0.1) 175.440000ms
+[W 12:09:41.827 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:24:32.981 NotebookApp] Starting buffering for 2ecc7aad-e19b-42e8-acda-d27d5a732253:96814ca6cceb4a1182dcbc4762107579
+[I 17:04:28.259 NotebookApp] 302 GET /tree? (127.0.0.1) 1.620000ms
+[W 17:04:37.541 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 5.120000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 17:05:33.544 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.240000ms
+[W 17:06:09.449 NotebookApp] Notebook Curso Python/Expressões Regulares.ipynb is not trusted
+[I 17:06:09.931 NotebookApp] Kernel started: 55504e02-f049-45c2-b817-a31a1ad59ff2, name: python3
+[I 17:06:15.658 NotebookApp] Kernel shutdown: 8c16ff46-397b-4b68-88c8-ae7055cc66ca
+[I 17:06:17.152 NotebookApp] Kernel shutdown: 1f040cdb-4236-4046-bc56-b5f1d9963b60
+[I 17:06:17.799 NotebookApp] Kernel shutdown: 2ecc7aad-e19b-42e8-acda-d27d5a732253
+[I 17:06:18.541 NotebookApp] Kernel shutdown: 55504e02-f049-45c2-b817-a31a1ad59ff2
+[W 17:06:18.559 NotebookApp] zmq message arrived on closed channel
+[W 17:06:18.568 NotebookApp] zmq message arrived on closed channel
+[W 17:06:18.571 NotebookApp] zmq message arrived on closed channel
+[W 17:06:25.967 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:06:26.288 NotebookApp] Kernel started: ce1ff7e3-5a17-4697-b144-3b4089403caf, name: python3
+[I 17:12:26.305 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:12:26.308 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:14:27.245 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:14:27.248 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:18:26.311 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:18:26.311 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:20:27.226 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:20:27.227 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:24:26.284 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:24:26.288 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:26:27.218 NotebookApp] Saving file at /Curso Python/Pandas - Series.ipynb
+[W 17:26:27.219 NotebookApp] Notebook Curso Python/Pandas - Series.ipynb is not trusted
+[I 17:30:56.975 NotebookApp] Starting buffering for ce1ff7e3-5a17-4697-b144-3b4089403caf:45f77337fa5a4415ba103e8dde7ca4a5
