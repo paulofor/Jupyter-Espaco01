@@ -673,3 +673,43 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 18:56:23.075 NotebookApp] Saving file at /Curso Python/Series - Consultas.ipynb
 [I 19:00:23.094 NotebookApp] Saving file at /Curso Python/Series - Consultas.ipynb
 [I 19:33:11.323 NotebookApp] Starting buffering for 8f8089b5-547a-47a0-89ce-e4ad4fa5bd86:d3c14199c05840278ee4cac0957f21b0
+[I 11:11:56.604 NotebookApp] 302 GET / (127.0.0.1) 207.910000ms
+[I 11:12:04.164 NotebookApp] Kernel shutdown: 8f8089b5-547a-47a0-89ce-e4ad4fa5bd86
+[W 11:34:08.907 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:34:09.467 NotebookApp] Kernel started: bfd25347-06d1-49b6-97e4-302be71a519d, name: python3
+[I 11:36:09.597 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 11:36:09.613 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:40:20.096 NotebookApp] Copying ResultadoFuturo/PesquisaGeral-Regra1.ipynb to /ResultadoFuturo
+[W 11:40:20.232 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[W 11:40:20.247 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[W 11:40:24.076 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 11:40:29.006 NotebookApp] Kernel started: 1aa78b65-d536-426a-b83a-f0594a364615, name: python3
+[W 11:40:55.046 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:41:20.241 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 11:41:20.243 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 11:42:24.551 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[I 11:44:25.470 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[I 11:45:00.632 NotebookApp] Starting buffering for 1aa78b65-d536-426a-b83a-f0594a364615:cf014420b8154c998e9ce58451ed266c
+[I 11:46:19.215 NotebookApp] Starting buffering for bfd25347-06d1-49b6-97e4-302be71a519d:e50a8ca750634c599c06ed8f467acb38
+[I 11:46:29.349 NotebookApp] 302 GET / (127.0.0.1) 4.690000ms
+[W 11:46:41.117 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 11:46:41.902 NotebookApp] Kernel started: 6f77d736-ee84-4ec4-aa75-c94f9da0798b, name: python3
+[I 11:52:41.501 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[W 11:52:41.537 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 11:54:41.478 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 11:58:41.449 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:00:41.442 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[W 12:18:01.825 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:18:02.655 NotebookApp] Kernel started: 2f262239-a425-4c5d-a8c4-33947f142056, name: python3
+[I 12:20:41.280 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:22:41.251 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:24:41.238 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:26:41.202 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:28:41.184 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:30:41.138 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[W 12:31:31.965 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 12:32:42.076 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 12:34:42.042 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[I 13:26:42.044 NotebookApp] Starting buffering for 2f262239-a425-4c5d-a8c4-33947f142056:7dcc03708dfe47c78c221aa0acff9beb
+[I 13:26:56.905 NotebookApp] Starting buffering for 6f77d736-ee84-4ec4-aa75-c94f9da0798b:d0d69d5ae27848b69473a2620ccc1fc9
+[I 13:31:17.797 NotebookApp] Starting buffering for 1aa78b65-d536-426a-b83a-f0594a364615:745c5ba99e6347948bc0551cd6e95f11
