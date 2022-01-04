@@ -789,3 +789,23 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 15:25:47.505 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
 [W 15:25:47.509 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
 [I 15:26:29.350 NotebookApp] Starting buffering for ad5b29d6-5d26-48cd-9d1a-946d004e2628:93b8c3c6061241d98907a156a09e3de8
+[I 20:27:28.594 NotebookApp] Creating new notebook in /Curso Python
+[I 20:27:40.097 NotebookApp] Kernel started: 330727f5-59d6-4478-967d-37fd41ea0467, name: python3
+[I 20:29:39.971 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:31:39.858 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:33:40.335 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:34:10.843 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:35:39.915 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:37:40.671 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:39:45.441 NotebookApp] Shutting down on /api/shutdown request.
+[I 20:39:45.518 NotebookApp] Shutting down 6 kernels
+[I 20:39:45.559 NotebookApp] Kernel shutdown: c69c5192-a5f7-43d5-84d8-0485a9e419e1
+[I 20:39:48.215 NotebookApp] Kernel shutdown: ad5b29d6-5d26-48cd-9d1a-946d004e2628
+[I 20:39:50.873 NotebookApp] Kernel shutdown: 603fce65-d09d-41f4-8cc2-d665cc68c773
+[I 20:39:53.550 NotebookApp] Kernel shutdown: bfcb3f7c-4513-4bfb-adc4-c05bc6c73342
+[I 20:39:56.199 NotebookApp] Kernel shutdown: 5360583d-2b47-46e3-8706-f5846e6d4d8d
+[I 20:39:57.879 NotebookApp] Saving file at /Curso Python/DataFrame.ipynb
+[I 20:39:58.822 NotebookApp] Kernel shutdown: 330727f5-59d6-4478-967d-37fd41ea0467
+[I 20:39:58.989 NotebookApp] Starting buffering for 330727f5-59d6-4478-967d-37fd41ea0467:4598c9338f3949a58de8abd0c9d5bc41
+[I 20:39:58.999 NotebookApp] Kernel shutdown: 330727f5-59d6-4478-967d-37fd41ea0467
+[I 20:39:59.524 NotebookApp] Shutting down 0 terminals
