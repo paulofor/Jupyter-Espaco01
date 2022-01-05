@@ -809,3 +809,112 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 20:39:58.989 NotebookApp] Starting buffering for 330727f5-59d6-4478-967d-37fd41ea0467:4598c9338f3949a58de8abd0c9d5bc41
 [I 20:39:58.999 NotebookApp] Kernel shutdown: 330727f5-59d6-4478-967d-37fd41ea0467
 [I 20:39:59.524 NotebookApp] Shutting down 0 terminals
+[I 13:27:56.453 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 13:27:56.457 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 13:27:56.457 NotebookApp] http://localhost:8970/?token=510df6f8ade9b17e8222a6ea328e3635dc71f272a541e094
+[I 13:27:56.457 NotebookApp]  or http://127.0.0.1:8970/?token=510df6f8ade9b17e8222a6ea328e3635dc71f272a541e094
+[I 13:27:56.457 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:27:56.468 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-1320-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=510df6f8ade9b17e8222a6ea328e3635dc71f272a541e094
+     or http://127.0.0.1:8970/?token=510df6f8ade9b17e8222a6ea328e3635dc71f272a541e094
+[I 13:28:42.457 NotebookApp] 302 GET / (127.0.0.1) 1.260000ms
+[I 13:28:49.064 NotebookApp] Creating new notebook in 
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fb04f27da90>(<Future finished result=None>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fb04f27da90>(<Future finished result=None>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-12' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=None> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-39' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> is being executed.
+ERROR:asyncio:Exception in callback <TaskStepMethWrapper object at 0x7fb04e9a1730>()
+handle: <Handle <TaskStepMethWrapper object at 0x7fb04e9a1730>()>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-9' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:840> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-39' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fb04f27d970>(<Future finis... GMT\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fb04f27d970>(<Future finis... GMT\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-1' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...7 GMT\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fb04f248ee0>(<Future finis... GMT\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fb04f248ee0>(<Future finis... GMT\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /static...7 GMT\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 13:28:51.872 NotebookApp] Kernel started: 8f9197b1-9d6b-4489-81b5-063430e5fbbf, name: python3
+[I 13:29:03.056 NotebookApp] Kernel shutdown: 8f9197b1-9d6b-4489-81b5-063430e5fbbf
+[I 13:29:03.154 NotebookApp] Starting buffering for 8f9197b1-9d6b-4489-81b5-063430e5fbbf:5ae83120504b4e839d79d1c22e387dd4
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fb04e930100>(<Future finis...8958\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fb04e930100>(<Future finis...8958\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'DELETE /api...48958\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-24' coro=<KernelManager._async_shutdown_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:443>> is being executed.
+[I 13:29:23.102 NotebookApp] Creating new directory in 
+[W 13:29:57.701 NotebookApp] 404 GET /api/contents/notebook/meus-arquivos?type=directory&_=1641313090426 (127.0.0.1): No such file or directory: notebook/meus-arquivos
+[W 13:29:57.701 NotebookApp] No such file or directory: notebook/meus-arquivos
+[W 13:29:57.702 NotebookApp] 404 GET /api/contents/notebook/meus-arquivos?type=directory&_=1641313090426 (127.0.0.1) 2.700000ms referer=http://localhost:8888/tree/notebook/meus-arquivos
+[W 13:30:02.555 NotebookApp] 404 POST /api/contents/notebook/meus-arquivos (127.0.0.1): No such directory: /notebook/meus-arquivos
+[W 13:30:02.556 NotebookApp] No such directory: /notebook/meus-arquivos
+[W 13:30:02.557 NotebookApp] 404 POST /api/contents/notebook/meus-arquivos (127.0.0.1) 3.050000ms referer=http://localhost:8888/tree/notebook/meus-arquivos
+[W 13:30:15.380 NotebookApp] 404 POST /api/contents/notebook/meus-arquivos (127.0.0.1): No such directory: /notebook/meus-arquivos
+[W 13:30:15.381 NotebookApp] No such directory: /notebook/meus-arquivos
+[W 13:30:15.381 NotebookApp] 404 POST /api/contents/notebook/meus-arquivos (127.0.0.1) 3.210000ms referer=http://localhost:8888/tree/notebook/meus-arquivos
+[W 13:30:15.543 NotebookApp] 404 GET /api/contents/notebook/meus-arquivos?type=directory&_=1641313090429 (127.0.0.1): No such file or directory: notebook/meus-arquivos
+[W 13:30:15.543 NotebookApp] No such file or directory: notebook/meus-arquivos
+[W 13:30:15.544 NotebookApp] 404 GET /api/contents/notebook/meus-arquivos?type=directory&_=1641313090429 (127.0.0.1) 2.490000ms referer=http://localhost:8888/tree/notebook/meus-arquivos
+[W 13:30:28.405 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090430 (127.0.0.1): No such file or directory: notebook
+[W 13:30:28.406 NotebookApp] No such file or directory: notebook
+[W 13:30:28.406 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090430 (127.0.0.1) 2.170000ms referer=http://localhost:8888/tree/notebook
+[W 13:30:39.427 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090433 (127.0.0.1): No such file or directory: notebook
+[W 13:30:39.428 NotebookApp] No such file or directory: notebook
+[W 13:30:39.428 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090433 (127.0.0.1) 2.420000ms referer=http://localhost:8888/tree/notebook
+[I 13:30:43.998 NotebookApp] Creating new notebook in /Patrimonio
+[I 13:30:45.431 NotebookApp] Kernel started: 87c91c62-ca3a-4e21-a352-a23dc4c7b387, name: python3
+[I 13:30:52.337 NotebookApp] Saving file at /Untitled.ipynb
+[W 13:31:03.043 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090436 (127.0.0.1): No such file or directory: notebook
+[W 13:31:03.044 NotebookApp] No such file or directory: notebook
+[W 13:31:03.045 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090436 (127.0.0.1) 2.530000ms referer=http://localhost:8888/tree/notebook
+[I 13:32:14.843 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[W 14:26:55.589 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090439 (127.0.0.1): No such file or directory: notebook
+[W 14:26:55.595 NotebookApp] No such file or directory: notebook
+[W 14:26:55.596 NotebookApp] 404 GET /api/contents/notebook?type=directory&_=1641313090439 (127.0.0.1) 7.700000ms referer=http://localhost:8888/tree/notebook
+[I 14:27:14.186 NotebookApp] Starting buffering for 87c91c62-ca3a-4e21-a352-a23dc4c7b387:0f7538171e0a4b9b8b098ff5f5be3648
+[I 15:32:55.768 NotebookApp] 302 GET / (127.0.0.1) 0.900000ms
+[W 15:33:06.749 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 15:33:07.149 NotebookApp] Kernel started: cd152918-e2a1-47f5-8887-0de7d23a15f9, name: python3
+[W 15:33:26.771 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[I 15:33:27.293 NotebookApp] Kernel started: f36f9346-1969-4cac-9d91-eab3444e4c4b, name: python3
+[I 15:35:28.323 NotebookApp] Saving file at /ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb
+[W 15:35:28.341 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[I 15:42:12.256 NotebookApp] Starting buffering for cd152918-e2a1-47f5-8887-0de7d23a15f9:90968cdbe09248c7b7aa9e8be3aeb644
+[I 15:42:13.075 NotebookApp] Starting buffering for f36f9346-1969-4cac-9d91-eab3444e4c4b:03c9cc0190b849f0821b4f20c4faf171
+[W 15:42:53.824 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[W 15:43:56.515 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[W 15:44:13.832 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[W 15:44:28.902 NotebookApp] Notebook ResultadoFuturo/RegraGeral1-IdentificandoMelhoresPiores.ipynb is not trusted
+[I 15:44:29.326 NotebookApp] Kernel started: c8d64a74-1ab7-4050-b525-d8a705e1fd0a, name: python3
+[W 15:44:38.834 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 15:44:39.555 NotebookApp] Kernel started: 3ba209c3-f10b-4dd6-9e6e-97466026cf12, name: python3
+[I 15:44:55.474 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1.ipynb
+[W 15:44:55.481 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1.ipynb is not trusted
+[I 15:46:39.711 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 15:46:39.721 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 15:48:39.634 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 15:48:39.634 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 15:50:39.684 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 15:50:39.687 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 15:52:40.224 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 15:52:40.225 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 15:54:39.575 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 15:54:39.577 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 16:01:58.692 NotebookApp] Starting buffering for cd152918-e2a1-47f5-8887-0de7d23a15f9:3a427b4b6e7042a188aec8a0e1b6553c
+[I 16:01:59.532 NotebookApp] Starting buffering for f36f9346-1969-4cac-9d91-eab3444e4c4b:b255170e7e0845e5824a2140c92b74c1
+[I 16:02:00.199 NotebookApp] Starting buffering for c8d64a74-1ab7-4050-b525-d8a705e1fd0a:f103e88f0c264499896f553afcd684ca
+[I 16:02:00.855 NotebookApp] Starting buffering for 3ba209c3-f10b-4dd6-9e6e-97466026cf12:6da08db192494220a96c97e734c4fe2e
