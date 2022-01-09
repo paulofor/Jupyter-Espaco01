@@ -952,3 +952,43 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [W 12:15:48.595 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
 [I 20:17:17.333 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:1719a0d5e1224b338d2bd7f8267f532d
 [I 20:17:18.021 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:33772b5a8d194bea9a210bfcb43fb6fc
+[I 12:30:15.853 NotebookApp] 302 GET / (127.0.0.1) 188.670000ms
+[W 12:30:31.117 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[W 12:31:43.092 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 12:32:31.866 NotebookApp] Saving file at /ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb
+[W 12:32:31.869 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 12:33:43.954 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb
+[W 12:33:44.058 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 12:40:38.523 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:398c7a14eece41ef8150fd75e3d6905d
+[I 12:40:39.252 NotebookApp] Starting buffering for 2c9dae40-2f5d-4190-9bae-415f1a4d43a9:7b91c9b2a7b8404e8a4c6a184741fdc9
+[I 15:08:09.810 NotebookApp] 302 GET / (127.0.0.1) 8.290000ms
+[W 15:08:26.637 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[W 15:09:03.647 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:10:28.141 NotebookApp] Saving file at /Validador/Periodo 9 - simulador.ipynb
+[W 15:10:28.176 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 15:11:04.501 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:11:04.501 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:13:04.095 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:13:04.098 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[W 15:15:58.469 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 15:15:58.844 NotebookApp] Kernel started: 1f959a4f-4ab9-4030-bdeb-1f839e25df69, name: python3
+[I 15:16:05.673 NotebookApp] Kernel shutdown: 1f959a4f-4ab9-4030-bdeb-1f839e25df69
+[I 15:16:05.804 NotebookApp] Starting buffering for 1f959a4f-4ab9-4030-bdeb-1f839e25df69:e13e963d06a44ea787f57cc618ef07b7
+[I 15:16:05.811 NotebookApp] Kernel shutdown: 1f959a4f-4ab9-4030-bdeb-1f839e25df69
+[W 15:16:11.677 NotebookApp] delete /Untitled.ipynb
+[W 15:16:46.294 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 15:18:29.238 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:a1714991eb524b5c8c9f56e1095174d9
+[I 15:19:04.727 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:19:04.729 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:24:26.478 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:f327d8fda754498c8b4240e6aad91f52
+[I 15:25:04.045 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:25:04.045 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:27:04.024 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 15:33:04.132 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 15:34:13.902 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[I 15:37:48.146 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:8ddf214b561147bbbaaee3a0a14713a3
+[I 15:44:53.926 NotebookApp] 302 GET / (127.0.0.1) 15.300000ms
+[W 15:45:04.396 NotebookApp] Notebook Patrimonio/PainelPatrimonio.ipynb is not trusted
+[I 15:45:04.696 NotebookApp] Kernel started: 5362432f-0a90-4221-8b7b-55c493df0ba8, name: python3
+[I 15:47:05.135 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 16:12:18.929 NotebookApp] Starting buffering for 5362432f-0a90-4221-8b7b-55c493df0ba8:1af9616868b04c2081b31137f7aa6f7e
