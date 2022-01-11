@@ -992,3 +992,20 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 15:45:04.696 NotebookApp] Kernel started: 5362432f-0a90-4221-8b7b-55c493df0ba8, name: python3
 [I 15:47:05.135 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
 [I 16:12:18.929 NotebookApp] Starting buffering for 5362432f-0a90-4221-8b7b-55c493df0ba8:1af9616868b04c2081b31137f7aa6f7e
+[I 19:25:48.995 NotebookApp] Creating new notebook in /Curso Python
+[I 19:25:54.936 NotebookApp] Kernel started: d1beb666-0df3-40f3-8f70-1081b2b31218, name: python3
+[I 19:27:55.460 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[W 19:30:03.548 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[I 19:30:03.847 NotebookApp] Kernel started: 3763abab-89c3-475a-a4b4-58f331035ff9, name: python3
+[I 19:31:54.676 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 19:33:55.442 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 19:37:55.485 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 19:39:55.462 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 19:45:54.719 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 19:47:55.438 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[I 20:18:31.797 NotebookApp] Starting buffering for 3763abab-89c3-475a-a4b4-58f331035ff9:7312274bb4d340378a119ba018a3f792
+[I 20:18:31.801 NotebookApp] Starting buffering for d1beb666-0df3-40f3-8f70-1081b2b31218:a06eb9bd8a3241118da5a204e6eed844
+[I 20:26:47.702 NotebookApp] Restoring connection for 3763abab-89c3-475a-a4b4-58f331035ff9:7312274bb4d340378a119ba018a3f792
+[I 20:26:49.710 NotebookApp] Restoring connection for d1beb666-0df3-40f3-8f70-1081b2b31218:a06eb9bd8a3241118da5a204e6eed844
+[I 20:58:55.641 NotebookApp] Starting buffering for 3763abab-89c3-475a-a4b4-58f331035ff9:7312274bb4d340378a119ba018a3f792
+[I 20:58:55.642 NotebookApp] Starting buffering for d1beb666-0df3-40f3-8f70-1081b2b31218:a06eb9bd8a3241118da5a204e6eed844
