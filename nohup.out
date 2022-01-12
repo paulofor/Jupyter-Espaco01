@@ -1009,3 +1009,31 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 20:26:49.710 NotebookApp] Restoring connection for d1beb666-0df3-40f3-8f70-1081b2b31218:a06eb9bd8a3241118da5a204e6eed844
 [I 20:58:55.641 NotebookApp] Starting buffering for 3763abab-89c3-475a-a4b4-58f331035ff9:7312274bb4d340378a119ba018a3f792
 [I 20:58:55.642 NotebookApp] Starting buffering for d1beb666-0df3-40f3-8f70-1081b2b31218:a06eb9bd8a3241118da5a204e6eed844
+[I 11:38:09.472 NotebookApp] 302 GET / (127.0.0.1) 207.860000ms
+[W 11:38:39.090 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[I 11:40:21.769 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 11:41:20.113 NotebookApp] 302 GET / (127.0.0.1) 1.300000ms
+[I 11:46:21.648 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 11:47:44.523 NotebookApp] Kernel started: 52443018-b03b-4422-9cf6-6c67f61d4c18, name: python3
+[I 12:17:41.345 NotebookApp] Starting buffering for 52443018-b03b-4422-9cf6-6c67f61d4c18:be96379998de4eba87a32d41a09c6b57
+[W 12:17:48.482 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 12:17:53.292 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:eef378524ad0497bad45352b7c98840f
+[W 12:18:02.615 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 12:18:08.572 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:8e1e60ada5ba4cdc8595ad58fc5ff986
+[I 12:18:18.458 NotebookApp] Starting buffering for 52443018-b03b-4422-9cf6-6c67f61d4c18:f2c73fae2c20452b8212f0b2146403bb
+[W 12:18:22.339 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[I 12:18:24.002 NotebookApp] Kernel started: 87379844-34b8-4ace-a694-7cbb0a10043d, name: python3
+[W 12:18:36.318 NotebookApp] Notebook Validador/Periodo 7 - Passo a Passo.ipynb is not trusted
+[I 12:18:37.213 NotebookApp] Kernel started: c9fd790d-24d8-4330-a4f6-597327475ba0, name: python3
+[W 12:18:45.101 NotebookApp] Notebook Validador/Observação de Periodo 7.ipynb is not trusted
+[I 12:18:45.847 NotebookApp] Kernel started: c66ba594-a2c8-475c-828a-2af156420fb2, name: python3
+[W 12:18:57.106 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:20:21.515 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 12:22:20.466 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 12:30:20.003 NotebookApp] Starting buffering for c66ba594-a2c8-475c-828a-2af156420fb2:6e4c95989db54069a94417b567da2fc9
+[I 12:30:22.741 NotebookApp] Starting buffering for c9fd790d-24d8-4330-a4f6-597327475ba0:c42013852fd54df78c301b6a0be53586
+[I 12:30:23.718 NotebookApp] Starting buffering for 87379844-34b8-4ace-a694-7cbb0a10043d:10e46faa1bca46339598e3e4a9cf60c7
+[I 12:30:25.012 NotebookApp] Starting buffering for 3763abab-89c3-475a-a4b4-58f331035ff9:b2cae4d654034624a674a7cc42d0a530
+[I 12:32:21.383 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
+[I 13:02:44.950 NotebookApp] Starting buffering for 5362432f-0a90-4221-8b7b-55c493df0ba8:7b533e95263f48f3aecd8614a8d57fa8
+[I 13:02:47.174 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:4b721fa130c743499f3e4f6219b0df6e
