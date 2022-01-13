@@ -1037,3 +1037,30 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 12:32:21.383 NotebookApp] Saving file at /Patrimonio/PainelPatrimonio.ipynb
 [I 13:02:44.950 NotebookApp] Starting buffering for 5362432f-0a90-4221-8b7b-55c493df0ba8:7b533e95263f48f3aecd8614a8d57fa8
 [I 13:02:47.174 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:4b721fa130c743499f3e4f6219b0df6e
+[I 11:31:58.596 NotebookApp] 302 GET / (127.0.0.1) 79.370000ms
+[W 11:32:16.376 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:34:16.917 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:34:16.948 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[W 11:37:36.420 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[I 11:37:48.300 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:debcc8a38d0f4a93ae5525f5a2d7bb52
+[I 11:38:16.827 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:38:16.830 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:40:16.831 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:40:16.843 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:50:16.748 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:50:16.760 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:52:17.383 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:52:17.387 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[W 11:53:22.841 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 11:54:17.408 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:54:17.409 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:56:16.802 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:56:16.810 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:58:16.714 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:58:16.715 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:00:16.733 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 12:00:16.734 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:02:16.685 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 12:02:16.685 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:13:34.851 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:10e612fe10c34181b63d1255e9601133
+[I 12:13:36.831 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:3f0c7ca51dd3495c9e7439020e0a693d
