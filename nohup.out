@@ -1064,3 +1064,44 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [W 12:02:16.685 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
 [I 12:13:34.851 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:10e612fe10c34181b63d1255e9601133
 [I 12:13:36.831 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:3f0c7ca51dd3495c9e7439020e0a693d
+[I 23:57:09.606 NotebookApp] Creating new notebook in /Curso Python
+[I 23:57:17.130 NotebookApp] Kernel started: 9682bd35-18ec-4332-b2ef-69b15f13f98b, name: python3
+[W 23:57:29.003 NotebookApp] Notebook Curso Python/Mascara Booleana.ipynb is not trusted
+[I 23:59:17.474 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 23:59:29.472 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[W 23:59:29.473 NotebookApp] Notebook Curso Python/Mascara Booleana.ipynb is not trusted
+[I 00:01:16.790 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:03:17.471 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:07:17.535 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:09:16.773 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:11:17.481 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:15:16.762 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:16:57.296 NotebookApp] Kernel interrupted: d1beb666-0df3-40f3-8f70-1081b2b31218
+[I 00:17:00.960 NotebookApp] Saving file at /Curso Python/Mascara Booleana.ipynb
+[W 00:17:00.961 NotebookApp] Notebook Curso Python/Mascara Booleana.ipynb is not trusted
+[I 00:17:01.906 NotebookApp] Starting buffering for d1beb666-0df3-40f3-8f70-1081b2b31218:61bd682f61d0475e8096eab6c0c7374a
+[I 00:17:04.357 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:17:05.637 NotebookApp] Saving file at /Curso Python/Index.ipynb
+[I 00:17:07.340 NotebookApp] Kernel interrupted: 9682bd35-18ec-4332-b2ef-69b15f13f98b
+[I 00:17:09.195 NotebookApp] Starting buffering for 9682bd35-18ec-4332-b2ef-69b15f13f98b:73650d00ca094d5988c8314ae2b89657
+[I 11:13:16.151 NotebookApp] 302 GET / (127.0.0.1) 204.920000ms
+[W 11:13:52.955 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:15:54.785 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:15:54.836 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:31:53.611 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:31:53.615 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:39:53.533 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:39:53.539 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:43:53.549 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:43:53.556 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:45:54.215 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:45:54.217 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:45:56.025 NotebookApp] Creating new file in 
+[I 11:47:02.474 NotebookApp] Saving file at /Comandos Pandas
+[I 11:47:53.459 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:47:53.460 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:49:53.443 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:49:53.447 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 11:51:54.204 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 11:51:54.205 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:26:39.215 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:b9fd969160b04309b705f48722ee8f40
