@@ -1105,3 +1105,63 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 11:51:54.204 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
 [W 11:51:54.205 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
 [I 12:26:39.215 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:b9fd969160b04309b705f48722ee8f40
+[I 13:56:50.627 NotebookApp] 302 GET / (127.0.0.1) 217.260000ms
+[I 13:56:50.803 NotebookApp] 302 GET /tree? (127.0.0.1) 115.720000ms
+[W 13:57:10.513 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 12.130000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 13:58:44.353 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 3.580000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 14:00:08.703 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 5.550000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 14:00:49.901 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 129.060000ms
+[W 14:03:49.764 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 14:05:51.081 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb
+[W 14:05:51.090 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 14:07:04.723 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:ef3450dde60945fb9f3d1e298c48866b
+[I 15:44:59.600 NotebookApp] 302 GET / (127.0.0.1) 92.060000ms
+[W 15:45:24.414 NotebookApp] Notebook Validador/Observação de Periodo 7.ipynb is not trusted
+[W 15:45:54.270 NotebookApp] Notebook Validador/Observação de Periodo 7.ipynb is not trusted
+[W 15:46:04.168 NotebookApp] delete /Validador/Observação de Periodo 7.ipynb
+[I 15:46:04.373 NotebookApp] Kernel shutdown: c66ba594-a2c8-475c-828a-2af156420fb2
+[I 15:46:04.469 NotebookApp] Starting buffering for c66ba594-a2c8-475c-828a-2af156420fb2:6ef05119f65440e982e6f9625ffbcc02
+[I 15:46:04.478 NotebookApp] Kernel shutdown: c66ba594-a2c8-475c-828a-2af156420fb2
+[W 15:46:08.371 NotebookApp] Notebook Validador/Periodo 7 - Passo a Passo.ipynb is not trusted
+[I 15:46:44.568 NotebookApp] Starting buffering for c9fd790d-24d8-4330-a4f6-597327475ba0:d26ed6a2cf9f45ae8090c4eae183c933
+[W 15:46:49.929 NotebookApp] delete /Validador/Periodo 7 - Passo a Passo.ipynb
+[I 15:46:49.985 NotebookApp] Kernel shutdown: c9fd790d-24d8-4330-a4f6-597327475ba0
+[W 15:46:53.676 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[W 15:47:17.010 NotebookApp] Notebook Validador/Periodo 9 - simulador.ipynb is not trusted
+[W 15:47:24.852 NotebookApp] 404 GET /api/contents/Validador/Observa%C3%A7%C3%A3o%20de%20Periodo%207.ipynb?content=0&_=1642272340415 (127.0.0.1): No such file or directory: Validador/Observação de Periodo 7.ipynb
+[W 15:47:24.854 NotebookApp] No such file or directory: Validador/Observação de Periodo 7.ipynb
+[W 15:47:24.854 NotebookApp] 404 GET /api/contents/Validador/Observa%C3%A7%C3%A3o%20de%20Periodo%207.ipynb?content=0&_=1642272340415 (127.0.0.1) 8.190000ms referer=http://localhost:8888/notebooks/Validador/Observa%C3%A7%C3%A3o%20de%20Periodo%207.ipynb
+[I 15:47:24.896 NotebookApp] Uploading file to /Validador/Observação de Periodo 7.ipynb
+[I 15:47:53.771 NotebookApp] Starting buffering for 23087039-d0b8-4543-a81f-388c8d98ea6f:aee4152a652641a9bf05ee6043ec9360
+[I 15:47:59.571 NotebookApp] Kernel shutdown: 23087039-d0b8-4543-a81f-388c8d98ea6f
+[W 15:47:59.574 NotebookApp] delete /Validador/Periodo 9 - simulador.ipynb
+[W 15:48:20.777 NotebookApp] Notebook Validador/Avaliando Periodo 7.ipynb is not trusted
+[W 15:48:48.418 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:50:50.592 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:50:50.919 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:52:50.126 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:52:50.132 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:53:21.034 NotebookApp] Starting buffering for 52443018-b03b-4422-9cf6-6c67f61d4c18:95e9f4b7b45242c0b31c747f986cd6c7
+[I 15:53:23.610 NotebookApp] Starting buffering for 87379844-34b8-4ace-a694-7cbb0a10043d:abb09e2d1ccd400c8af119a4a13cc771
+[I 15:54:49.720 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:54:49.724 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:56:49.697 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:56:49.699 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 15:58:49.696 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 15:58:49.697 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 16:00:49.656 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 16:00:49.658 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 16:02:49.794 NotebookApp] Saving file at /Validador/Entendendo a Validação.ipynb
+[W 16:02:49.795 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 16:29:26.623 NotebookApp] Creating new notebook in /Validador
+[I 16:29:29.004 NotebookApp] Kernel started: 5de41e5e-1d37-4427-a612-7581bb4816f1, name: python3
+[I 16:31:28.590 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:33:28.910 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:35:28.622 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:37:29.495 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:38:57.766 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:39:59.099 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:41:28.492 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:42:50.728 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 17:05:27.612 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:8a24f74eb1104b5782a7dd868882c613
+[I 17:05:28.218 NotebookApp] Starting buffering for 5de41e5e-1d37-4427-a612-7581bb4816f1:bf7a391d44e746f8850b5f1c59d1e97c
