@@ -1165,3 +1165,53 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 16:42:50.728 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
 [I 17:05:27.612 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:8a24f74eb1104b5782a7dd868882c613
 [I 17:05:28.218 NotebookApp] Starting buffering for 5de41e5e-1d37-4427-a612-7581bb4816f1:bf7a391d44e746f8850b5f1c59d1e97c
+[I 00:11:48.904 NotebookApp] 302 GET / (127.0.0.1) 198.290000ms
+[W 00:12:07.707 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[W 00:14:00.013 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 00:14:09.389 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb
+[W 00:14:09.390 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 00:27:44.729 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:8d9be1d1d17a416b8e3755f6071a5f46
+[I 00:27:46.729 NotebookApp] Starting buffering for 2c9dae40-2f5d-4190-9bae-415f1a4d43a9:e66a196291954fd3b8724f1d93d8367a
+[I 14:22:29.127 NotebookApp] 302 GET / (127.0.0.1) 314.330000ms
+[W 14:22:50.743 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 14:24:51.292 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 14:24:51.328 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 14:26:51.847 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 14:26:51.857 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 14:32:51.038 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 14:32:51.039 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 14:34:51.018 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 14:34:51.019 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 14:35:18.599 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 14:35:28.744 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 14:36:51.096 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 14:48:51.002 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 14:50:50.935 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 14:52:51.564 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:00:50.848 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:02:50.853 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 15:04:09.950 NotebookApp] Notebook Curso Python/Mascara Booleana.ipynb is not trusted
+[I 15:04:50.824 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:06:50.760 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:08:50.744 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:10:50.837 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:12:51.432 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:13:11.375 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:14:51.374 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 19:41:50.086 NotebookApp] Creating new notebook in /Curso Python
+[I 19:41:59.099 NotebookApp] Kernel started: b681a52c-29bb-4c67-aeb9-c0d2831e61c4, name: python3
+[I 19:43:58.531 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[W 19:46:07.431 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 19:47:37.113 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 19:47:37.163 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 19:47:58.403 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 19:49:58.425 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 19:51:58.889 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[W 19:53:05.687 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 19:53:58.543 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 19:55:06.503 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 19:55:06.504 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 19:55:58.603 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 20:03:58.567 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 20:05:58.474 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
+[I 20:09:28.002 NotebookApp] Starting buffering for b681a52c-29bb-4c67-aeb9-c0d2831e61c4:d753f2710ace48108c7fe743304056ba
