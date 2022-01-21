@@ -1215,3 +1215,26 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 20:03:58.567 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
 [I 20:05:58.474 NotebookApp] Saving file at /Curso Python/Dados Ausentes.ipynb
 [I 20:09:28.002 NotebookApp] Starting buffering for b681a52c-29bb-4c67-aeb9-c0d2831e61c4:d753f2710ace48108c7fe743304056ba
+[I 14:46:01.205 NotebookApp] Starting buffering for 5de41e5e-1d37-4427-a612-7581bb4816f1:2a1dc8fd770941178a7e3a27e6762d45
+[I 14:46:01.375 NotebookApp] Starting buffering for 03a9cdbb-bf11-4c71-b3b2-bc07005a3ac1:3f7224e117b5480189a71d129adbe277
+[I 14:46:01.402 NotebookApp] Starting buffering for d1beb666-0df3-40f3-8f70-1081b2b31218:17f18265ab7b4dcf8a048162696edf6a
+[I 15:08:34.095 NotebookApp] 302 GET / (127.0.0.1) 26.740000ms
+[W 15:08:42.688 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 15:08:43.625 NotebookApp] Kernel started: cf2b8a8e-d40f-4ac9-8f37-388d4b7b46c8, name: python3
+[W 15:08:48.535 NotebookApp] Notebook ResultadoFuturo/RegraProjecao1 - Evolucao.ipynb is not trusted
+[I 15:41:32.530 NotebookApp] Starting buffering for e5d23274-6bf2-4cc1-aa26-1ab8e50d4943:3b68d1725cb54f2580e26a91eebb6c1e
+[I 15:41:33.188 NotebookApp] Starting buffering for cf2b8a8e-d40f-4ac9-8f37-388d4b7b46c8:e33873e7e93147cab059a2a372a84d7d
+[I 15:42:54.343 NotebookApp] 302 GET / (127.0.0.1) 1.020000ms
+[W 15:43:05.931 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:45:06.981 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:53:06.725 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:55:06.427 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:57:06.701 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:59:06.447 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:01:06.464 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:03:06.349 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:09:05.065 NotebookApp] Creating new notebook in /Validador
+[I 16:09:09.165 NotebookApp] Kernel started: 79371f55-edda-4260-8086-b1400734ee4e, name: python3
+[I 16:11:09.315 NotebookApp] Saving file at /Validador/Analise RENT3.ipynb
+[I 17:32:10.798 NotebookApp] Starting buffering for 5de41e5e-1d37-4427-a612-7581bb4816f1:57196eb19e524315ad8548511088e3cf
+[I 17:32:11.919 NotebookApp] Starting buffering for 79371f55-edda-4260-8086-b1400734ee4e:de698e7a96fa41ac93810ee4689eda12
