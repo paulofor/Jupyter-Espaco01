@@ -1269,3 +1269,45 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:09:48.396 NotebookApp] Starting buffering for 3ff2545e-b3ca-44d1-89a8-33e91b631fef:a33201e31b7b4d018a834efbe5e42ec6
 [I 19:09:48.481 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:370326acad49463c8d372a6763bf6088
 [I 19:09:48.493 NotebookApp] Starting buffering for 8539b2ad-8a4d-46dd-a3ad-f0da12ad7de8:1bfcef336bdf4e7d8f92fd103b3eacbe
+[I 10:43:29.986 NotebookApp] 302 GET / (127.0.0.1) 50.520000ms
+[W 10:43:44.869 NotebookApp] Notebook ResultadoFuturo/Usando Dataframe.ipynb is not trusted
+[I 10:45:45.656 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:47:45.634 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:49:45.612 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:51:45.647 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:53:45.589 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:55:45.570 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:57:45.596 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 10:59:45.543 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:01:45.488 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:03:45.501 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:04:49.814 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:05:45.505 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:07:45.498 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:09:45.454 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:13:45.414 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:15:45.401 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:17:45.408 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:19:45.384 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:21:45.815 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[W 11:23:15.350 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - ABEV3.ipynb is not trusted
+[I 11:23:16.737 NotebookApp] Kernel started: df887e0c-92cf-46ab-a4db-81c29583ce7e, name: python3
+[I 11:23:45.370 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:25:45.400 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:27:45.317 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:29:45.708 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:31:06.091 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:33:45.687 NotebookApp] Saving file at /ResultadoFuturo/Usando Dataframe.ipynb
+[I 11:48:12.704 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:f6ad0563cafb428b8501c13ad2ad5944
+[I 11:48:14.993 NotebookApp] Starting buffering for df887e0c-92cf-46ab-a4db-81c29583ce7e:7f6d8bdbdbe44c028b62e99efc1795c3
+[I 15:47:57.986 NotebookApp] 302 GET / (127.0.0.1) 17.230000ms
+[W 15:48:31.415 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:50:33.157 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 15:50:33.214 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:52:33.078 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 15:52:33.078 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:54:33.099 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 15:56:33.499 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:10:32.971 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 16:12:32.894 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[I 17:15:37.898 NotebookApp] Starting buffering for 3ff2545e-b3ca-44d1-89a8-33e91b631fef:76490f1370fa41eaaad3f8d225d79280
