@@ -1311,3 +1311,8 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 16:10:32.971 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
 [I 16:12:32.894 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
 [I 17:15:37.898 NotebookApp] Starting buffering for 3ff2545e-b3ca-44d1-89a8-33e91b631fef:76490f1370fa41eaaad3f8d225d79280
+[I 16:55:23.687 NotebookApp] Creating new notebook in /Curso Python
+[I 16:55:29.849 NotebookApp] Kernel started: 28dc558e-70d6-4b54-a2a4-8d1237efa524, name: python3
+[I 16:57:29.632 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 16:59:29.893 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 17:49:38.484 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:c5b3a5e75083498e8bbba4c06ddcef4a
