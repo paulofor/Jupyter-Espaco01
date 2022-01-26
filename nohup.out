@@ -1316,3 +1316,6 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 16:57:29.632 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
 [I 16:59:29.893 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
 [I 17:49:38.484 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:c5b3a5e75083498e8bbba4c06ddcef4a
+[I 19:31:58.707 NotebookApp] 302 GET / (127.0.0.1) 124.680000ms
+[W 19:32:18.375 NotebookApp] Notebook ResultadoFuturo/Usando Dataframe.ipynb is not trusted
+[I 19:52:02.199 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:28e8056aa9a3480f979579ff0a1a68f1
