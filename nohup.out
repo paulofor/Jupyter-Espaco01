@@ -1319,3 +1319,50 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:31:58.707 NotebookApp] 302 GET / (127.0.0.1) 124.680000ms
 [W 19:32:18.375 NotebookApp] Notebook ResultadoFuturo/Usando Dataframe.ipynb is not trusted
 [I 19:52:02.199 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:28e8056aa9a3480f979579ff0a1a68f1
+[I 14:58:13.658 NotebookApp] 302 GET / (127.0.0.1) 78.490000ms
+[W 14:58:25.015 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:00:28.021 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 15:00:28.086 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 15:01:24.039 NotebookApp] Kernel shutdown: 3ff2545e-b3ca-44d1-89a8-33e91b631fef
+[I 15:01:24.257 NotebookApp] Starting buffering for 3ff2545e-b3ca-44d1-89a8-33e91b631fef:3b37e0c50bc44f5693b3d7751bdffddc
+[I 15:01:24.268 NotebookApp] Kernel shutdown: 3ff2545e-b3ca-44d1-89a8-33e91b631fef
+[I 15:01:30.430 NotebookApp] Creating new notebook in /Validador
+[I 15:01:33.560 NotebookApp] Kernel started: 08b457b9-e84c-4a63-b1e6-c16b665e96fb, name: python3
+[I 15:02:27.857 NotebookApp] Saving file at /Validador/Apoio do Papel.ipynb
+[W 15:02:27.859 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[W 15:02:29.427 NotebookApp] 404 POST /api/kernels/3ff2545e-b3ca-44d1-89a8-33e91b631fef/interrupt (127.0.0.1): Kernel does not exist: 3ff2545e-b3ca-44d1-89a8-33e91b631fef
+[W 15:02:29.429 NotebookApp] Kernel does not exist: 3ff2545e-b3ca-44d1-89a8-33e91b631fef
+[W 15:02:29.430 NotebookApp] 404 POST /api/kernels/3ff2545e-b3ca-44d1-89a8-33e91b631fef/interrupt (127.0.0.1) 7.170000ms referer=http://localhost:8888/notebooks/Validador/Apoio%20do%20Papel.ipynb
+[I 15:03:33.556 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:05:33.508 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:07:34.293 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:09:33.473 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:11:33.445 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:13:34.689 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:15:33.451 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:17:33.400 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:19:33.381 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:21:34.091 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:23:33.352 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:25:34.053 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:27:34.066 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:29:33.344 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[I 15:30:36.420 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 15:31:26.298 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 18:03:11.129 NotebookApp] 302 GET /tree? (127.0.0.1) 24.250000ms
+[W 18:03:20.927 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 11.600000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 18:08:28.634 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 44.690000ms
+[W 18:08:42.190 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 18:10:43.385 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:12:42.350 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:14:42.373 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:16:42.879 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:18:42.887 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 18:19:21.431 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 18:20:43.016 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:21:05.846 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 18:21:05.847 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 18:24:42.421 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 18:26:42.912 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[I 19:41:25.281 NotebookApp] Starting buffering for 08b457b9-e84c-4a63-b1e6-c16b665e96fb:ba42b0606fd54833b12d331adc2842b7
+[I 19:41:25.330 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:ce5d231a348a49cd8a89b9cf4098da52
