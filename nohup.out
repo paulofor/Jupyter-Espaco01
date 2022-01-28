@@ -1366,3 +1366,20 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 18:26:42.912 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
 [I 19:41:25.281 NotebookApp] Starting buffering for 08b457b9-e84c-4a63-b1e6-c16b665e96fb:ba42b0606fd54833b12d331adc2842b7
 [I 19:41:25.330 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:ce5d231a348a49cd8a89b9cf4098da52
+[I 12:19:06.986 NotebookApp] 302 GET / (127.0.0.1) 136.660000ms
+[W 12:19:23.535 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 12:21:24.749 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 12:21:24.764 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[W 12:22:33.613 NotebookApp] Notebook Validador/Apoio do Papel.ipynb is not trusted
+[I 12:22:35.550 NotebookApp] Kernel started: 6e3eb999-56d8-4e2d-9e82-d9b440535702, name: python3
+[W 12:22:50.571 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 12:22:52.443 NotebookApp] Kernel started: 21768f24-ca73-41da-bdb5-00e296ab0376, name: python3
+[I 12:23:24.741 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 12:23:24.754 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 12:25:24.733 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 12:25:24.741 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 12:27:25.050 NotebookApp] Saving file at /Validador/Usando dados originais.ipynb
+[W 12:27:25.054 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 12:27:39.428 NotebookApp] Starting buffering for 21768f24-ca73-41da-bdb5-00e296ab0376:28447a889f3d49c980b912af544b9f6c
+[I 12:27:42.635 NotebookApp] Starting buffering for 6e3eb999-56d8-4e2d-9e82-d9b440535702:92a6323d4c00462f9382567954c3b1a2
+[I 14:03:56.776 NotebookApp] Starting buffering for 08b457b9-e84c-4a63-b1e6-c16b665e96fb:9b9f6794bbc14326a2390487ff2f4e9e
