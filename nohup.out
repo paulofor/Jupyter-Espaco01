@@ -1383,3 +1383,25 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 12:27:39.428 NotebookApp] Starting buffering for 21768f24-ca73-41da-bdb5-00e296ab0376:28447a889f3d49c980b912af544b9f6c
 [I 12:27:42.635 NotebookApp] Starting buffering for 6e3eb999-56d8-4e2d-9e82-d9b440535702:92a6323d4c00462f9382567954c3b1a2
 [I 14:03:56.776 NotebookApp] Starting buffering for 08b457b9-e84c-4a63-b1e6-c16b665e96fb:9b9f6794bbc14326a2390487ff2f4e9e
+[W 13:49:56.381 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 13:51:56.740 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 13:51:56.745 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 13:53:57.560 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 13:53:57.560 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 13:55:56.690 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 13:55:56.691 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:01:56.866 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:01:56.870 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:03:56.737 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:03:56.738 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:05:56.707 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:05:56.707 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:07:56.727 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:07:56.727 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:09:57.567 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:09:57.568 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:57:56.707 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:57:56.708 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:59:57.549 NotebookApp] Saving file at /Curso Python/Merge Dataframe.ipynb
+[W 14:59:57.550 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 15:32:40.538 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:6c8558d7acf441cdbfa0973d7bec9d79
