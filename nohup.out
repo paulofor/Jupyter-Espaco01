@@ -1437,3 +1437,7 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 20:14:53.892 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
 [I 20:17:06.082 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:ecc683637595414cbfc4353b63c607c7
 [I 20:17:49.162 NotebookApp] Starting buffering for 08b457b9-e84c-4a63-b1e6-c16b665e96fb:5e2b46740514408087c3174c29a34212
+[I 19:40:00.951 NotebookApp] 302 GET / (127.0.0.1) 152.010000ms
+[I 19:40:01.086 NotebookApp] 302 GET /tree? (127.0.0.1) 75.720000ms
+[W 19:40:18.249 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 27.170000ms referer=http://localhost:8898/login?next=%2Ftree%3F
+[W 19:40:47.600 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 104.940000ms referer=http://localhost:8898/login?next=%2Ftree%3F
