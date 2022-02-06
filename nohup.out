@@ -1441,3 +1441,26 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:40:01.086 NotebookApp] 302 GET /tree? (127.0.0.1) 75.720000ms
 [W 19:40:18.249 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 27.170000ms referer=http://localhost:8898/login?next=%2Ftree%3F
 [W 19:40:47.600 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 104.940000ms referer=http://localhost:8898/login?next=%2Ftree%3F
+[I 11:39:30.563 NotebookApp] 302 GET / (127.0.0.1) 261.260000ms
+[I 11:39:43.080 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 11:39:47.409 NotebookApp] Kernel started: 6d0d1a51-6260-4d33-9061-3fbff865fcc7, name: python3
+[I 11:41:47.851 NotebookApp] Saving file at /ResultadoFuturo/Analise Regra Projecao.ipynb
+[I 12:05:10.709 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:1d8a1b89508a4117b5cfeac95f15a0aa
+[W 13:55:32.121 NotebookApp] Notebook ResultadoFuturo/Analise Regra Projecao.ipynb is not trusted
+[I 13:55:42.669 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:5b9d8439339b4332834db6890d7423e0
+[W 13:56:00.380 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 13:58:02.668 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:00:01.759 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:02:02.628 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:14:01.647 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:16:01.597 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:18:01.594 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:20:02.494 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 14:20:03.973 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 14:22:01.561 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:24:01.544 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:26:01.555 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:28:01.557 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:30:02.391 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[I 14:35:40.484 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:40beb8c11a484c7e8d1932bdeca692dd
+[I 14:35:52.641 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:9e36371c6b9247f981a97e2c658160de
