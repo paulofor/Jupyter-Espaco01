@@ -1464,3 +1464,32 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 14:30:02.391 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
 [I 14:35:40.484 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:40beb8c11a484c7e8d1932bdeca692dd
 [I 14:35:52.641 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:9e36371c6b9247f981a97e2c658160de
+[I 17:18:55.453 NotebookApp] Creating new notebook in /Curso Python
+[I 17:19:07.479 NotebookApp] Kernel started: 183b97f3-95d5-4e69-bed8-e2677aefaa76, name: python3
+[I 17:21:07.216 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[W 17:21:50.376 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[W 17:22:05.438 NotebookApp] Notebook Curso Python/Series - Consultas.ipynb is not trusted
+[I 17:22:05.695 NotebookApp] Kernel started: b6235eeb-53b5-4fd6-8d70-e2cd964c29b0, name: python3
+[W 17:22:22.901 NotebookApp] Notebook ResultadoFuturo/Analise Regra Projecao.ipynb is not trusted
+[I 17:22:29.390 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:eebe470ed5f547869e0c018fd9ba6147
+[W 17:22:32.716 NotebookApp] Notebook ResultadoFuturo/Usando Dataframe.ipynb is not trusted
+[I 17:23:07.990 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:25:07.206 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:27:07.254 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:29:07.250 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:31:08.190 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:33:07.218 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 17:33:50.039 NotebookApp] Kernel interrupted: 183b97f3-95d5-4e69-bed8-e2677aefaa76
+[I 17:35:07.998 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[I 18:18:48.576 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:d5e01332d8f5488985535b575b31a25e
+[I 18:18:48.605 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:344ba9cb3b8e4bd18b758bb75a624baf
+[I 18:18:48.609 NotebookApp] Starting buffering for b6235eeb-53b5-4fd6-8d70-e2cd964c29b0:1828868d0346491da64eb8ac411f29ee
+[I 18:18:48.615 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:aed569d7a64f4d5780011003e0b67103
+[I 18:21:11.145 NotebookApp] Restoring connection for ef034e39-f9f0-4aa3-9fb9-5670562f5399:d5e01332d8f5488985535b575b31a25e
+[I 18:21:11.238 NotebookApp] Restoring connection for 183b97f3-95d5-4e69-bed8-e2677aefaa76:aed569d7a64f4d5780011003e0b67103
+[I 18:21:11.368 NotebookApp] Restoring connection for 28dc558e-70d6-4b54-a2a4-8d1237efa524:344ba9cb3b8e4bd18b758bb75a624baf
+[I 18:21:11.470 NotebookApp] Restoring connection for b6235eeb-53b5-4fd6-8d70-e2cd964c29b0:1828868d0346491da64eb8ac411f29ee
+[I 18:24:51.309 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:aed569d7a64f4d5780011003e0b67103
+[I 18:24:51.310 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:344ba9cb3b8e4bd18b758bb75a624baf
+[I 18:24:51.327 NotebookApp] Starting buffering for b6235eeb-53b5-4fd6-8d70-e2cd964c29b0:1828868d0346491da64eb8ac411f29ee
+[I 18:24:51.334 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:d5e01332d8f5488985535b575b31a25e
