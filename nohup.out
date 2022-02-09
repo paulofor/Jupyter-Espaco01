@@ -1493,3 +1493,25 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 18:24:51.310 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:344ba9cb3b8e4bd18b758bb75a624baf
 [I 18:24:51.327 NotebookApp] Starting buffering for b6235eeb-53b5-4fd6-8d70-e2cd964c29b0:1828868d0346491da64eb8ac411f29ee
 [I 18:24:51.334 NotebookApp] Starting buffering for ef034e39-f9f0-4aa3-9fb9-5670562f5399:d5e01332d8f5488985535b575b31a25e
+[I 10:53:33.458 NotebookApp] 302 GET / (127.0.0.1) 247.010000ms
+[W 10:53:48.765 NotebookApp] Notebook ResultadoFuturo/Analise Regra Projecao.ipynb is not trusted
+[I 10:54:21.994 NotebookApp] Creating new file in /ResultadoFuturo
+[W 10:54:35.463 NotebookApp] Notebook ResultadoFuturo/Melhores Compra-Venda 3 meses.ipynb is not trusted
+[I 10:54:37.036 NotebookApp] Kernel started: 3c52aef4-69c6-4170-94fc-f391f6819e76, name: python3
+[W 10:58:59.361 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[W 10:59:01.803 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 10:59:02.845 NotebookApp] Kernel started: 21a01e7b-3c24-4da7-ac66-07ddfecee524, name: python3
+[I 10:59:49.373 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:01:49.234 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:02:15.253 NotebookApp] Saving file at /ResultadoFuturo/untitled.txt
+[I 11:03:48.996 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:05:49.203 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:07:48.982 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:09:49.195 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:11:48.970 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:13:48.936 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:15:48.916 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 11:17:49.128 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 14:16:34.642 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:8b92e50218be4b6280aef30788a985ab
+[I 14:16:37.097 NotebookApp] Starting buffering for 3c52aef4-69c6-4170-94fc-f391f6819e76:54d3de8c2aad46869e1883a0e78adfdb
+[I 14:16:39.205 NotebookApp] Starting buffering for 21a01e7b-3c24-4da7-ac66-07ddfecee524:125f21c0b6cc4055bc6d02621931dbf1
