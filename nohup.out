@@ -1515,3 +1515,61 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 14:16:34.642 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:8b92e50218be4b6280aef30788a985ab
 [I 14:16:37.097 NotebookApp] Starting buffering for 3c52aef4-69c6-4170-94fc-f391f6819e76:54d3de8c2aad46869e1883a0e78adfdb
 [I 14:16:39.205 NotebookApp] Starting buffering for 21a01e7b-3c24-4da7-ac66-07ddfecee524:125f21c0b6cc4055bc6d02621931dbf1
+[I 00:35:24.315 NotebookApp] 302 GET / (127.0.0.1) 278.060000ms
+[W 00:35:50.626 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[I 00:51:51.490 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 00:53:51.424 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 00:59:51.405 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 01:01:51.855 NotebookApp] Saving file at /ResultadoFuturo/Compara Regra Projecao.ipynb
+[I 01:02:22.447 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:91240ac435e540bbb3be76c4f588d5f5
+[I 10:52:42.095 NotebookApp] 302 GET / (127.0.0.1) 61.130000ms
+[W 10:53:00.080 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 10:56:23.118 NotebookApp] Creating new notebook in /Validador
+[I 10:56:24.586 NotebookApp] Kernel started: 850dc2a9-8439-451c-87c4-16bfb5e22764, name: python3
+[I 10:58:24.486 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:00:24.437 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:02:24.418 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:04:24.408 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:06:24.419 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:08:24.369 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:10:24.347 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:12:25.246 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:22:24.290 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:24:25.140 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:26:24.221 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:28:24.193 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:29:01.156 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 11:29:01.158 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 11:32:24.157 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:34:25.065 NotebookApp] Saving file at /Validador/Analisando Periodo 9 - ANIM3.ipynb
+[I 11:35:00.409 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 11:35:00.410 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 11:37:01.053 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 11:37:01.054 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 11:38:34.787 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:7142d2bedfc642858a5fd9e9957aecba
+[I 11:38:36.216 NotebookApp] Starting buffering for 850dc2a9-8439-451c-87c4-16bfb5e22764:117fc5e2587542ebbde6a8627c5f6d88
+[W 17:51:14.455 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 17:59:15.229 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[W 17:59:15.232 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 18:01:14.781 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[W 18:01:14.781 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 18:03:15.233 NotebookApp] Saving file at /Curso Python/Apply.ipynb
+[W 18:03:15.240 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 18:10:43.232 NotebookApp] Creating new notebook in /Curso Python
+[I 18:10:44.364 NotebookApp] Kernel started: 872c17e0-4b12-468b-bf28-f7b150275998, name: python3
+[I 18:12:45.197 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[W 18:14:29.231 NotebookApp] Notebook Validador/Analisando Periodo 9 - TICKER.ipynb is not trusted
+[I 18:14:45.934 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[I 18:16:44.388 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[I 19:01:58.023 NotebookApp] Starting buffering for 850dc2a9-8439-451c-87c4-16bfb5e22764:f77270dd3bea4e3186bf66f793b61e36
+[I 19:01:58.068 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:cff39197bc974eacac3a6cf5ab443f37
+[I 19:01:58.076 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:9a30accda26847328bab87a4209b20d7
+[I 19:01:58.082 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:9839e883b2bb4ba5ae4c54ccbdcea7ed
+[I 19:12:27.638 NotebookApp] Restoring connection for 872c17e0-4b12-468b-bf28-f7b150275998:9a30accda26847328bab87a4209b20d7
+[I 19:12:27.737 NotebookApp] Restoring connection for 850dc2a9-8439-451c-87c4-16bfb5e22764:f77270dd3bea4e3186bf66f793b61e36
+[I 19:12:27.772 NotebookApp] Restoring connection for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:cff39197bc974eacac3a6cf5ab443f37
+[I 19:12:27.883 NotebookApp] Restoring connection for 183b97f3-95d5-4e69-bed8-e2677aefaa76:9839e883b2bb4ba5ae4c54ccbdcea7ed
+[I 19:12:42.287 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:cff39197bc974eacac3a6cf5ab443f37
+[I 19:12:42.959 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:9a30accda26847328bab87a4209b20d7
+[I 19:12:45.255 NotebookApp] Starting buffering for 850dc2a9-8439-451c-87c4-16bfb5e22764:f77270dd3bea4e3186bf66f793b61e36
+[I 19:12:58.757 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:9839e883b2bb4ba5ae4c54ccbdcea7ed
