@@ -1649,3 +1649,11 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:23:49.545 NotebookApp] Saving file at /Curso Python/groupby.ipynb
 [W 19:23:49.545 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
 [I 19:25:31.281 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:1af970a06bfc477ca0c92e87bf81198d
+[I 14:12:05.080 NotebookApp] 302 GET / (127.0.0.1) 137.320000ms
+[W 14:12:17.522 NotebookApp] Notebook Criptomoeda/Mercado Bitcoin.ipynb is not trusted
+[I 14:14:18.367 NotebookApp] Saving file at /Criptomoeda/Mercado Bitcoin.ipynb
+[W 14:14:18.378 NotebookApp] Notebook Criptomoeda/Mercado Bitcoin.ipynb is not trusted
+[I 14:16:18.138 NotebookApp] Saving file at /Criptomoeda/Mercado Bitcoin.ipynb
+[W 14:16:18.139 NotebookApp] Notebook Criptomoeda/Mercado Bitcoin.ipynb is not trusted
+[I 14:18:18.278 NotebookApp] Saving file at /Criptomoeda/Mercado Bitcoin.ipynb
+[I 15:13:27.881 NotebookApp] Starting buffering for 537d848f-4709-4226-9a73-d941a1b6c6cf:e6a33320805c42c98f119c456db18e08
