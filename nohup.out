@@ -1657,3 +1657,13 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [W 14:16:18.139 NotebookApp] Notebook Criptomoeda/Mercado Bitcoin.ipynb is not trusted
 [I 14:18:18.278 NotebookApp] Saving file at /Criptomoeda/Mercado Bitcoin.ipynb
 [I 15:13:27.881 NotebookApp] Starting buffering for 537d848f-4709-4226-9a73-d941a1b6c6cf:e6a33320805c42c98f119c456db18e08
+[I 12:30:29.899 NotebookApp] 302 GET / (127.0.0.1) 167.010000ms
+[I 12:30:45.731 NotebookApp] Creating new notebook in /Validador
+[I 12:30:49.709 NotebookApp] Kernel started: 88d6ac60-313b-4cf2-ba93-8b4151385651, name: python3
+[W 12:31:02.041 NotebookApp] Notebook Validador/Analisando Periodo 9 - TICKER.ipynb is not trusted
+[I 12:31:54.056 NotebookApp] Saving file at /Validador/Periodo 10.ipynb
+[I 12:34:49.430 NotebookApp] Saving file at /Validador/Periodo 10.ipynb
+[I 12:36:49.610 NotebookApp] Saving file at /Validador/Periodo 10.ipynb
+[I 13:20:49.054 NotebookApp] Saving file at /Validador/Periodo 10.ipynb
+[I 13:21:33.698 NotebookApp] Starting buffering for 88d6ac60-313b-4cf2-ba93-8b4151385651:3ffe2875b9454c5d83ccc4ef4b7cb74a
+[I 13:21:34.849 NotebookApp] Starting buffering for 850dc2a9-8439-451c-87c4-16bfb5e22764:810d5b615511481f81f057f3e200b8a5
