@@ -1667,3 +1667,13 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 13:20:49.054 NotebookApp] Saving file at /Validador/Periodo 10.ipynb
 [I 13:21:33.698 NotebookApp] Starting buffering for 88d6ac60-313b-4cf2-ba93-8b4151385651:3ffe2875b9454c5d83ccc4ef4b7cb74a
 [I 13:21:34.849 NotebookApp] Starting buffering for 850dc2a9-8439-451c-87c4-16bfb5e22764:810d5b615511481f81f057f3e200b8a5
+[W 23:01:18.656 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 23:07:19.150 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[W 23:07:19.154 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 23:09:19.290 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[W 23:09:19.291 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 23:11:19.164 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[W 23:11:19.165 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 23:13:05.291 NotebookApp] Saving file at /Curso Python/groupby.ipynb
+[W 23:13:05.300 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 23:32:46.696 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:60de8cc9d8834ced84e233ddf1b043ad
