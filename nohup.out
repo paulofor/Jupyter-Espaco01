@@ -1677,3 +1677,14 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 23:13:05.291 NotebookApp] Saving file at /Curso Python/groupby.ipynb
 [W 23:13:05.300 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
 [I 23:32:46.696 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:60de8cc9d8834ced84e233ddf1b043ad
+[I 06:38:07.231 NotebookApp] 302 GET / (127.0.0.1) 677.360000ms
+[W 06:38:24.437 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[W 06:38:53.937 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 06:39:27.619 NotebookApp] Creating new notebook in /Validador
+[I 06:39:42.390 NotebookApp] Kernel started: 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a, name: python3
+[I 06:39:45.812 NotebookApp] Saving file at /Validador/Untitled.ipynb
+[I 06:40:26.991 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 06:40:27.046 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 06:41:44.352 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 17:34:35.479 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:ff96ed2d541d4c5d9d3e28c4e1a56d05
+[I 17:34:37.489 NotebookApp] Starting buffering for 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a:89e26a85ecb64aba817faff3f8279215
