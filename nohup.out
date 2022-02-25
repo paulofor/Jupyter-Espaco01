@@ -1688,3 +1688,5 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 06:41:44.352 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
 [I 17:34:35.479 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:ff96ed2d541d4c5d9d3e28c4e1a56d05
 [I 17:34:37.489 NotebookApp] Starting buffering for 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a:89e26a85ecb64aba817faff3f8279215
+[I 22:56:34.077 NotebookApp] Creating new file in /Curso Python
+[I 23:14:16.445 NotebookApp] Saving file at /Curso Python/PivotTable

@@ -1,0 +1,12 @@
+
+df.pivot_table(values='score',index='country',columns='Rank Level',aggfunc=[np.mean])
+
+teremos:
+
+        Médias
+
+            RankLevelA  RankLevelB RankLevelC
+
+countryA
+countryB
+countryC
