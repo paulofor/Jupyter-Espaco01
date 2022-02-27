@@ -1690,3 +1690,30 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 17:34:37.489 NotebookApp] Starting buffering for 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a:89e26a85ecb64aba817faff3f8279215
 [I 22:56:34.077 NotebookApp] Creating new file in /Curso Python
 [I 23:14:16.445 NotebookApp] Saving file at /Curso Python/PivotTable
+[I 14:30:05.125 NotebookApp] 302 GET / (127.0.0.1) 226.970000ms
+[W 14:30:19.845 NotebookApp] Notebook Validador/Analisando Variaveis Individuais.ipynb is not trusted
+[I 14:32:20.831 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:36:20.688 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:38:20.216 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:40:20.209 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:42:20.207 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:44:20.181 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:46:20.219 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:48:20.151 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[W 14:49:59.894 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 14:50:20.097 NotebookApp] Saving file at /Validador/Analisando Variaveis Individuais.ipynb
+[I 14:50:43.774 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:b2f3868be5584c288b19c15a20be1554
+[I 14:50:46.524 NotebookApp] Kernel restarted: 9b679ced-0b77-4a0b-8268-028dd9ee43c0
+[I 14:50:46.609 NotebookApp] Restoring connection for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:b2f3868be5584c288b19c15a20be1554
+[W 14:50:49.655 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb04e7ead60>
+[I 14:50:49.679 NotebookApp] Replaying 3 buffered messages
+[I 14:52:02.645 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 14:52:02.675 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 14:54:02.848 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 14:54:02.850 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 14:56:02.612 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 14:56:02.613 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 14:58:01.688 NotebookApp] Saving file at /Validador/Analisando as Variaveis .ipynb
+[W 14:58:01.692 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 15:01:02.341 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:b2f3868be5584c288b19c15a20be1554
+[I 15:01:03.260 NotebookApp] Starting buffering for 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a:505f2def6e60417d93d7f18b7b812849
