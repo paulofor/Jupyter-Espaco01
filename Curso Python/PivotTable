@@ -10,3 +10,9 @@ teremos:
 countryA
 countryB
 countryC
+
+
+df.stak()
+
+
+df.unstack()

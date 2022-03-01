@@ -1717,3 +1717,18 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [W 14:58:01.692 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
 [I 15:01:02.341 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:b2f3868be5584c288b19c15a20be1554
 [I 15:01:03.260 NotebookApp] Starting buffering for 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a:505f2def6e60417d93d7f18b7b812849
+[I 06:53:21.670 NotebookApp] 302 GET / (127.0.0.1) 444.190000ms
+[I 19:33:48.056 NotebookApp] 302 GET / (127.0.0.1) 1.050000ms
+[I 19:34:16.090 NotebookApp] Creating new notebook in /Curso Python
+[I 19:34:21.701 NotebookApp] Kernel started: e0c8927d-bec3-44ca-8acb-82a2da1f9af9, name: python3
+[I 19:36:21.825 NotebookApp] Saving file at /Curso Python/Untitled.ipynb
+[I 19:44:21.145 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:44:59.691 NotebookApp] Saving file at /Curso Python/PivotTable
+[I 19:46:21.166 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:48:21.112 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:50:21.064 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:52:21.057 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:54:21.035 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:56:21.017 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:58:21.025 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[I 19:58:54.953 NotebookApp] Starting buffering for e0c8927d-bec3-44ca-8acb-82a2da1f9af9:8cf97602d6f34d42a2df1720f3791b95
