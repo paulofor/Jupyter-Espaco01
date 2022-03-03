@@ -1732,3 +1732,34 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:56:21.017 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
 [I 19:58:21.025 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
 [I 19:58:54.953 NotebookApp] Starting buffering for e0c8927d-bec3-44ca-8acb-82a2da1f9af9:8cf97602d6f34d42a2df1720f3791b95
+[I 19:18:09.426 NotebookApp] 302 GET / (127.0.0.1) 347.410000ms
+[W 19:18:37.311 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:22:38.518 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:22:38.524 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:24:38.537 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:24:38.538 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:26:38.483 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:26:38.484 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[W 19:26:59.342 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[W 19:27:17.920 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 19:27:33.848 NotebookApp] Starting buffering for 872c17e0-4b12-468b-bf28-f7b150275998:e7724af2c109477189e8510681fe9322
+[W 19:27:44.737 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 19:28:38.472 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:28:38.473 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:30:38.432 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:30:38.435 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:32:38.434 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:32:38.435 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:34:38.437 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:34:38.438 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:36:38.369 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:36:38.370 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:38:38.371 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:38:38.372 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:40:38.334 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:40:38.335 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:42:38.317 NotebookApp] Saving file at /Curso Python/Data e Hora.ipynb
+[W 19:42:38.318 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 19:43:42.998 NotebookApp] Starting buffering for e0c8927d-bec3-44ca-8acb-82a2da1f9af9:dcbb5fdb82c641928f3544ba44446ff0
+[I 19:43:46.187 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:4a9e67d197d247228c250d2dee96eb16
+[I 19:43:47.826 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:8a9f438a00014f79b76ccd2ed67dbb0a
