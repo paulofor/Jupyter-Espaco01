@@ -1763,3 +1763,35 @@ RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1Ser
 [I 19:43:42.998 NotebookApp] Starting buffering for e0c8927d-bec3-44ca-8acb-82a2da1f9af9:dcbb5fdb82c641928f3544ba44446ff0
 [I 19:43:46.187 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:4a9e67d197d247228c250d2dee96eb16
 [I 19:43:47.826 NotebookApp] Starting buffering for 183b97f3-95d5-4e69-bed8-e2677aefaa76:8a9f438a00014f79b76ccd2ed67dbb0a
+[I 20:02:05.690 NotebookApp] 302 GET / (127.0.0.1) 263.660000ms
+[I 20:02:06.056 NotebookApp] 302 GET /tree? (127.0.0.1) 166.920000ms
+[I 20:02:22.994 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 162.830000ms
+[W 20:02:40.469 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 20:10:34.878 NotebookApp] Starting buffering for e0c8927d-bec3-44ca-8acb-82a2da1f9af9:89f9931858484811a5065bd87e20f166
+[I 20:10:40.678 NotebookApp] Creating new notebook in /Curso Python
+[I 20:10:43.659 NotebookApp] Kernel started: 52545f4e-611e-45fe-9d14-828fa483d655, name: python3
+[I 20:12:43.626 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 20:14:12.212 NotebookApp] Creating new directory in /Curso Python
+[I 20:14:16.141 NotebookApp] New terminal with automatic name: 1
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 20:14:45.550 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 20:16:39.875 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:24fc57d3fc1b45f58aec2e60bd43b50e
+[I 20:16:43.136 NotebookApp] Kernel restarted: 52545f4e-611e-45fe-9d14-828fa483d655
+[I 20:16:43.466 NotebookApp] Restoring connection for 52545f4e-611e-45fe-9d14-828fa483d655:24fc57d3fc1b45f58aec2e60bd43b50e
+[I 20:16:46.272 NotebookApp] Replaying 3 buffered messages
+[I 20:17:00.808 NotebookApp] EOF on FD 267; stopping reading
+[I 20:17:00.921 NotebookApp] Terminal 1 closed
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[W 20:18:23.285 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[W 20:18:33.569 NotebookApp] Notebook Curso Python/Series - Consultas.ipynb is not trusted
+[I 20:18:43.499 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 20:19:07.964 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[I 20:20:43.519 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 20:20:46.289 NotebookApp] Starting buffering for b6235eeb-53b5-4fd6-8d70-e2cd964c29b0:cdf03671298c45378997575d24ba1025
+[I 20:20:47.120 NotebookApp] Starting buffering for 28dc558e-70d6-4b54-a2a4-8d1237efa524:f750c91e035941339afbf65c11f8a8ed
+[I 20:20:51.349 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:fabcad2c28fc420d84dbee7fd713f6de
+[I 20:22:43.502 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 20:23:00.474 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 20:24:43.508 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 20:25:10.694 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:24fc57d3fc1b45f58aec2e60bd43b50e
+[I 20:31:46.521 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:5717343b80f646498dc1bfe92fbe5b25
