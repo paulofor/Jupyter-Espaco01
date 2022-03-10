@@ -1795,3 +1795,16 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 20:24:43.508 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
 [I 20:25:10.694 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:24fc57d3fc1b45f58aec2e60bd43b50e
 [I 20:31:46.521 NotebookApp] Starting buffering for 9b679ced-0b77-4a0b-8268-028dd9ee43c0:5717343b80f646498dc1bfe92fbe5b25
+[I 18:00:41.155 NotebookApp] 302 GET / (127.0.0.1) 378.380000ms
+[W 18:00:57.837 NotebookApp] delete /Curso Python/Untitled Folder
+[W 18:01:07.189 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 18:08:39.462 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:158b5881dacd46e083d36e6979cde88e
+[I 18:08:48.230 NotebookApp] Creating new file in /Curso Python
+[W 18:17:59.387 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 18:20:00.121 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 18:20:00.122 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 18:21:59.743 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 18:21:59.743 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 18:23:59.728 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 18:23:59.728 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 18:51:49.326 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:e602e42a11034622ab7365316fcacf4d
