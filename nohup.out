@@ -1808,3 +1808,20 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 18:23:59.728 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
 [W 18:23:59.728 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
 [I 18:51:49.326 NotebookApp] Starting buffering for 52545f4e-611e-45fe-9d14-828fa483d655:e602e42a11034622ab7365316fcacf4d
+[I 12:45:26.441 NotebookApp] 302 GET / (127.0.0.1) 194.290000ms
+[I 12:45:50.514 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 12:45:55.400 NotebookApp] Kernel started: 426b2546-12af-439e-a957-9c839501b8e8, name: python3
+[I 12:45:58.733 NotebookApp] Saving file at /ResultadoFuturo/Untitled.ipynb
+[I 12:47:55.576 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 12:54:41.192 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[I 12:55:05.964 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:55:44.803 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:57:55.543 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:59:54.743 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:01:54.652 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:03:54.648 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:05:54.642 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:07:55.383 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:08:44.181 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:08:55.533 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:308fd2070e6b48f9869cab0813763ddf
+[I 13:08:56.353 NotebookApp] Starting buffering for 426b2546-12af-439e-a957-9c839501b8e8:042a2cef5c7546e8a57d4dbda9162e4c
