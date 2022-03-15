@@ -1825,3 +1825,40 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 13:08:44.181 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
 [I 13:08:55.533 NotebookApp] Starting buffering for 6d0d1a51-6260-4d33-9061-3fbff865fcc7:308fd2070e6b48f9869cab0813763ddf
 [I 13:08:56.353 NotebookApp] Starting buffering for 426b2546-12af-439e-a957-9c839501b8e8:042a2cef5c7546e8a57d4dbda9162e4c
+[I 12:37:30.228 NotebookApp] 302 GET / (127.0.0.1) 310.470000ms
+[I 12:37:49.483 NotebookApp] Creating new directory in 
+[I 12:38:12.959 NotebookApp] Kernel shutdown: 8539b2ad-8a4d-46dd-a3ad-f0da12ad7de8
+[I 12:38:14.949 NotebookApp] Kernel shutdown: ef034e39-f9f0-4aa3-9fb9-5670562f5399
+[I 12:38:15.641 NotebookApp] Kernel shutdown: df887e0c-92cf-46ab-a4db-81c29583ce7e
+[I 12:38:16.251 NotebookApp] Kernel shutdown: 28dc558e-70d6-4b54-a2a4-8d1237efa524
+[I 12:38:16.710 NotebookApp] Kernel shutdown: 08b457b9-e84c-4a63-b1e6-c16b665e96fb
+[I 12:38:17.522 NotebookApp] Kernel shutdown: 6e3eb999-56d8-4e2d-9e82-d9b440535702
+[I 12:38:20.230 NotebookApp] Kernel shutdown: 21768f24-ca73-41da-bdb5-00e296ab0376
+[I 12:38:20.459 NotebookApp] Kernel shutdown: 9b679ced-0b77-4a0b-8268-028dd9ee43c0
+[I 12:38:20.470 NotebookApp] Kernel shutdown: 6d0d1a51-6260-4d33-9061-3fbff865fcc7
+[I 12:38:25.870 NotebookApp] Kernel shutdown: 183b97f3-95d5-4e69-bed8-e2677aefaa76
+[I 12:38:25.969 NotebookApp] Kernel shutdown: b6235eeb-53b5-4fd6-8d70-e2cd964c29b0
+[I 12:38:28.631 NotebookApp] Kernel shutdown: 3c52aef4-69c6-4170-94fc-f391f6819e76
+[I 12:38:31.313 NotebookApp] Kernel shutdown: 21a01e7b-3c24-4da7-ac66-07ddfecee524
+[I 12:38:31.471 NotebookApp] Kernel shutdown: 850dc2a9-8439-451c-87c4-16bfb5e22764
+[I 12:38:31.471 NotebookApp] Kernel shutdown: 872c17e0-4b12-468b-bf28-f7b150275998
+[I 12:38:31.563 NotebookApp] Kernel shutdown: 426b2546-12af-439e-a957-9c839501b8e8
+[I 12:38:31.758 NotebookApp] Kernel shutdown: 52545f4e-611e-45fe-9d14-828fa483d655
+[I 12:38:31.758 NotebookApp] Kernel shutdown: e0c8927d-bec3-44ca-8acb-82a2da1f9af9
+[I 12:38:37.278 NotebookApp] Kernel shutdown: 426b2546-12af-439e-a957-9c839501b8e8
+[I 12:38:42.272 NotebookApp] Kernel shutdown: 8b3e05f2-9c9f-42e7-a9c9-083d0e8df15a
+[I 12:38:50.863 NotebookApp] Kernel shutdown: 88d6ac60-313b-4cf2-ba93-8b4151385651
+[I 12:38:54.195 NotebookApp] Kernel shutdown: 537d848f-4709-4226-9a73-d941a1b6c6cf
+[W 12:41:18.009 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 12:41:18.477 NotebookApp] Kernel started: a850143b-2ba5-4b30-af49-95dee55e7852, name: python3
+[I 12:41:35.930 NotebookApp] Creating new notebook in /Plataforma
+[I 12:41:37.499 NotebookApp] Kernel started: 4d91d54d-b63e-4a43-847e-9153227821fc, name: python3
+[I 12:43:37.966 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:07:37.299 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:09:37.707 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:15:37.738 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:21:37.265 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:23:37.140 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:25:37.546 NotebookApp] Saving file at /Plataforma/Trades.ipynb
+[I 13:38:11.716 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:c48072efe46f47d684a2f65cc25218d1
+[I 13:38:12.636 NotebookApp] Starting buffering for 4d91d54d-b63e-4a43-847e-9153227821fc:9ade888d121f41138ffb6415770fb348
