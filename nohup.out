@@ -1862,3 +1862,60 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 13:25:37.546 NotebookApp] Saving file at /Plataforma/Trades.ipynb
 [I 13:38:11.716 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:c48072efe46f47d684a2f65cc25218d1
 [I 13:38:12.636 NotebookApp] Starting buffering for 4d91d54d-b63e-4a43-847e-9153227821fc:9ade888d121f41138ffb6415770fb348
+[I 21:53:03.108 NotebookApp] 302 GET / (127.0.0.1) 23.160000ms
+[W 21:54:20.093 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 21:54:20.760 NotebookApp] Kernel started: dc413048-0e65-4452-8224-291297012537, name: python3
+[I 21:56:20.462 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[W 21:56:20.465 NotebookApp] Notebook Curso Python/Teste de Hipotese.ipynb is not trusted
+[I 21:58:20.442 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 22:00:20.424 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 23:20:19.713 NotebookApp] Saving file at /Curso Python/Teste de Hipotese.ipynb
+[I 23:37:52.633 NotebookApp] Starting buffering for dc413048-0e65-4452-8224-291297012537:be2209c66d604cbaaf4ee3c382e013bf
+[I 10:28:02.749 NotebookApp] 302 GET / (127.0.0.1) 172.190000ms
+[W 10:28:18.892 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 10:30:19.469 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 10:30:19.484 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 10:31:52.305 NotebookApp] Creating new file in 
+[I 10:32:19.428 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:32:41.468 NotebookApp] Saving file at /ajudas-basicas.txt
+[W 10:32:58.837 NotebookApp] Notebook ResultadoFuturo/Usando Dataframe.ipynb is not trusted
+[I 10:32:59.903 NotebookApp] Kernel started: 87688c3f-be30-473e-9f6f-fdfcd9c54f14, name: python3
+[I 10:33:24.711 NotebookApp] Starting buffering for 87688c3f-be30-473e-9f6f-fdfcd9c54f14:5a18d5c4bffa4415bd09139e086ed297
+[W 10:33:28.508 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[I 10:33:29.006 NotebookApp] Kernel started: bd2182ee-f8ae-479b-8e3d-b09cb6ab8d6b, name: python3
+[W 10:34:27.317 NotebookApp] Notebook ResultadoFuturo/PesquisaGeral-Regra1-Copy1.ipynb is not trusted
+[I 10:34:28.018 NotebookApp] Kernel started: 51e12f2e-3973-4cdf-9ed9-e3d31c10a950, name: python3
+[I 10:34:42.100 NotebookApp] Starting buffering for 51e12f2e-3973-4cdf-9ed9-e3d31c10a950:8189dafa8bff4ede90b90ffbcb1b0099
+[W 10:34:49.462 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 10:34:50.179 NotebookApp] Kernel started: 0148ce6d-4347-424b-b0b9-0735224e6ab6, name: python3
+[W 10:35:05.702 NotebookApp] Notebook ResultadoFuturo/Resultado Futuro - B3SA3.ipynb is not trusted
+[I 10:35:06.734 NotebookApp] Kernel started: 44bcf637-fb23-4e6c-85f5-b664984e335f, name: python3
+[W 10:35:29.573 NotebookApp] Notebook Validador/Analisando as Variaveis .ipynb is not trusted
+[I 10:35:30.814 NotebookApp] Kernel started: 0105c338-ee2e-4b7e-9569-9137b2f3cd29, name: python3
+[I 10:36:17.232 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 10:36:19.399 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:38:19.350 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:38:46.220 NotebookApp] Starting buffering for 0148ce6d-4347-424b-b0b9-0735224e6ab6:b6d5ed01bc264c3e85f77c8310ae9c23
+[I 10:40:19.317 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:42:19.361 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:44:19.281 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:46:19.370 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:48:19.307 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 10:48:21.003 NotebookApp] Starting buffering for bd2182ee-f8ae-479b-8e3d-b09cb6ab8d6b:1181880dec974dca8a558765da625c11
+[I 10:48:36.971 NotebookApp] Starting buffering for 0105c338-ee2e-4b7e-9569-9137b2f3cd29:3fba091e7b904d8cbcdb33f5f5288f6d
+[W 10:50:00.458 NotebookApp] Notebook Validador/Analisando Variaveis Individuais.ipynb is not trusted
+[I 10:50:01.872 NotebookApp] Kernel started: 8ac9c2d2-4761-4ca9-8457-7846e0d0f860, name: python3
+[W 10:50:08.796 NotebookApp] Notebook Validador/Periodo 10.ipynb is not trusted
+[I 10:50:09.921 NotebookApp] Kernel started: d254ac18-dd6a-49ba-aa00-0aac427f9fbc, name: python3
+[I 10:50:21.517 NotebookApp] Starting buffering for 8ac9c2d2-4761-4ca9-8457-7846e0d0f860:ca422d924e5e42b5899cda066ade3042
+[W 10:50:21.702 NotebookApp] Notebook Validador/Analisando Periodo 9 - TICKER.ipynb is not trusted
+[I 10:50:23.605 NotebookApp] Kernel started: c9880411-5c1e-4c6a-8ae2-b90fca653a68, name: python3
+[W 10:50:37.801 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[I 10:50:39.911 NotebookApp] Kernel started: 89624dba-d2f1-41ba-9b78-ca1430cc5be8, name: python3
+[I 10:51:15.151 NotebookApp] Kernel started: 291a93e5-e3de-418d-be37-cf34becd0c17, name: python3
+[I 11:00:00.905 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 11:46:18.840 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 11:48:18.836 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 11:49:26.903 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:845e159cf30446cd8865da319f4197f2
+[I 11:49:29.632 NotebookApp] Starting buffering for 44bcf637-fb23-4e6c-85f5-b664984e335f:1ae375cc17034941882139e6e6ed9583
+[I 11:49:31.063 NotebookApp] Starting buffering for 291a93e5-e3de-418d-be37-cf34becd0c17:5bbb8e0ce7b44ded9b7724cc882cea9f

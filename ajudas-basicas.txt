@@ -1,0 +1,19 @@
+1- como fazer um where com dataframes.
+
+dfRuim = df[df['saldoValidacao']<0]
+
+
+
+2- escolher colunas:
+
+dfGrupo.filter(items=['ano', 'mes', 'total_10' , 'total_15' , 'lucro_10' , 'lucro_15' , 'prejuizo_10', 'prejuizo_15'])
+
+
+
+3- agrupamento
+
+dfAgrupado = df.groupby(['anoMesNum','codigoRegraProjecao','target','stop']).sum(['totalLucro','totalPrejuizo'])
+
+dfAgrupado = df\
+        .groupby(['anoMesNum','codigoRegraProjecao','target','stop']).sum(['totalLucro','totalPrejuizo'])\
+        .filter(items=['totalLucro','totalPrejuizo'])
