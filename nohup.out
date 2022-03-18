@@ -1919,3 +1919,21 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 11:49:26.903 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:845e159cf30446cd8865da319f4197f2
 [I 11:49:29.632 NotebookApp] Starting buffering for 44bcf637-fb23-4e6c-85f5-b664984e335f:1ae375cc17034941882139e6e6ed9583
 [I 11:49:31.063 NotebookApp] Starting buffering for 291a93e5-e3de-418d-be37-cf34becd0c17:5bbb8e0ce7b44ded9b7724cc882cea9f
+[I 19:02:19.882 NotebookApp] 302 GET / (127.0.0.1) 502.030000ms
+[I 19:02:39.988 NotebookApp] 302 GET / (127.0.0.1) 1.090000ms
+[W 19:03:01.097 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[W 19:03:44.291 NotebookApp] Notebook Curso Python/groupby.ipynb is not trusted
+[I 19:03:45.995 NotebookApp] Kernel started: fe4086b5-818a-4359-8748-3d8fa3042acd, name: python3
+[W 19:05:46.583 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 19:05:47.664 NotebookApp] Kernel started: 55a40c33-be56-403b-817f-70aa382edb7f, name: python3
+[I 19:09:02.332 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 19:09:02.355 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 19:11:02.660 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 19:11:02.661 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 19:13:02.238 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 19:13:02.241 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 19:15:02.245 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 19:15:02.246 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 19:55:59.675 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:2623b6a6294f4ab883a9f7c76357b3c2
+[I 19:56:01.424 NotebookApp] Starting buffering for fe4086b5-818a-4359-8748-3d8fa3042acd:15c33325bc4f45cbb80024a67f702034
+[I 19:56:03.032 NotebookApp] Starting buffering for 55a40c33-be56-403b-817f-70aa382edb7f:bf2eb0c5661e44a2811e8ed5cd5068d4
