@@ -17,3 +17,7 @@ dfAgrupado = df.groupby(['anoMesNum','codigoRegraProjecao','target','stop']).sum
 dfAgrupado = df\
         .groupby(['anoMesNum','codigoRegraProjecao','target','stop']).sum(['totalLucro','totalPrejuizo'])\
         .filter(items=['totalLucro','totalPrejuizo'])
+        
+        
+4- Pivot Table
+

@@ -1937,3 +1937,74 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 19:55:59.675 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:2623b6a6294f4ab883a9f7c76357b3c2
 [I 19:56:01.424 NotebookApp] Starting buffering for fe4086b5-818a-4359-8748-3d8fa3042acd:15c33325bc4f45cbb80024a67f702034
 [I 19:56:03.032 NotebookApp] Starting buffering for 55a40c33-be56-403b-817f-70aa382edb7f:bf2eb0c5661e44a2811e8ed5cd5068d4
+[I 11:48:26.164 NotebookApp] 302 GET / (127.0.0.1) 265.940000ms
+[W 11:49:26.185 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 11:53:27.487 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 11:55:27.455 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 11:57:27.787 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 11:57:53.274 NotebookApp] Notebook Curso Python/Mascara Booleana.ipynb is not trusted
+[I 11:57:54.634 NotebookApp] Kernel started: ff9d1895-d1de-46ca-b42a-c1fa42960113, name: python3
+[I 11:59:27.461 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:01:27.806 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:01:28.891 NotebookApp] Starting buffering for 291a93e5-e3de-418d-be37-cf34becd0c17:aeb83db2d61c4aed92f08a64b0146bda
+[W 12:01:36.851 NotebookApp] Notebook Validador/Entendendo a Validação.ipynb is not trusted
+[W 12:01:41.547 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.778 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.832 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.859 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.879 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.905 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.919 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.923 NotebookApp] zmq message arrived on closed channel
+[W 12:01:41.926 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.023 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.034 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.043 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.055 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.066 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.071 NotebookApp] zmq message arrived on closed channel
+[W 12:01:42.074 NotebookApp] zmq message arrived on closed channel
+[I 12:01:52.669 NotebookApp] Starting buffering for 89624dba-d2f1-41ba-9b78-ca1430cc5be8:3c93d0c80838481a886192b55b4fe783
+[I 12:01:54.001 NotebookApp] Starting buffering for ff9d1895-d1de-46ca-b42a-c1fa42960113:3f1891e0ff84437189f535fa38a7fa16
+[W 12:01:59.702 NotebookApp] Notebook Validador/Analise RENT3.ipynb is not trusted
+[I 12:02:00.180 NotebookApp] Kernel started: b04f9e81-ce92-4022-8658-98606d023a97, name: python3
+[W 12:02:23.199 NotebookApp] Notebook Validador/Analisando Periodo 9 - TICKER.ipynb is not trusted
+[W 12:02:26.312 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.539 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.658 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.667 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.674 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.682 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.688 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.707 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.726 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.735 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.738 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.741 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.763 NotebookApp] zmq message arrived on closed channel
+[W 12:02:26.823 NotebookApp] zmq message arrived on closed channel
+[I 12:02:38.856 NotebookApp] Starting buffering for c9880411-5c1e-4c6a-8ae2-b90fca653a68:5a26e42ae3da4a98945b9b23a5b51349
+[I 12:02:40.957 NotebookApp] Starting buffering for b04f9e81-ce92-4022-8658-98606d023a97:9b330bf1f2154eb68499e53449ecf752
+[I 12:02:43.603 NotebookApp] Kernel shutdown: b04f9e81-ce92-4022-8658-98606d023a97
+[W 12:02:43.660 NotebookApp] delete /Validador/Analise RENT3.ipynb
+[W 12:02:49.164 NotebookApp] Notebook Validador/Analisando Variaveis Individuais.ipynb is not trusted
+[I 12:02:50.325 NotebookApp] Discarding 7 buffered messages for 8ac9c2d2-4761-4ca9-8457-7846e0d0f860:ca422d924e5e42b5899cda066ade3042
+[W 12:03:06.167 NotebookApp] Notebook Validador/Usando dados originais.ipynb is not trusted
+[I 12:03:08.296 NotebookApp] Kernel started: e7ce223d-9955-408a-b2b3-c47677133e94, name: python3
+[I 12:03:16.924 NotebookApp] Starting buffering for e7ce223d-9955-408a-b2b3-c47677133e94:005bf3a2b4b14ba289ee008602b32760
+[W 12:03:23.987 NotebookApp] Notebook Validador/Analisando Variaveis Individuais.ipynb is not trusted
+[W 12:03:35.180 NotebookApp] Notebook Validador/Analisando Periodo 9 - TICKER.ipynb is not trusted
+[W 12:03:36.232 NotebookApp] zmq message arrived on closed channel
+[W 12:03:36.237 NotebookApp] zmq message arrived on closed channel
+[W 12:03:36.477 NotebookApp] zmq message arrived on closed channel
+[W 12:03:36.479 NotebookApp] zmq message arrived on closed channel
+[W 12:03:36.516 NotebookApp] zmq message arrived on closed channel
+[W 12:03:36.519 NotebookApp] zmq message arrived on closed channel
+[I 12:05:27.927 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:07:27.380 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:09:27.485 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:11:27.740 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 12:15:23.171 NotebookApp] Starting buffering for a850143b-2ba5-4b30-af49-95dee55e7852:269d8ecd9b574648a2597add02121e75
+[I 12:15:23.895 NotebookApp] Starting buffering for 8ac9c2d2-4761-4ca9-8457-7846e0d0f860:e98b4e1f389346d4845e9a25abdccadb
+[I 12:15:24.528 NotebookApp] Starting buffering for c9880411-5c1e-4c6a-8ae2-b90fca653a68:0e2eafb8846f4b4a8600178bdaf4b725
+[I 12:15:34.504 NotebookApp] Saving file at /ajudas-basicas.txt
