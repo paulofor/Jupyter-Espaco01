@@ -20,4 +20,29 @@ dfAgrupado = df\
         
         
 4- Pivot Table
+df.pivot_table(<coluna-valor>,<colunas-agrupamento>,<coluna-nome>)
+df.pivot_table(values='score',index='country',columns='Rank Level',aggfunc=[np.mean])
 
+teremos:
+
+        Médias
+
+            RankLevelA  RankLevelB RankLevelC
+
+countryA
+countryB
+countryC
+
+
+df.stak()
+df.unstack()
+
+1 - Ordenacao
+dfVenda.sort_values(by='qtde', ascending=False)
+
+--> Datas integet --> date
+dfTop5['anoMesNum'] = dfTop5['anoMesNum'].apply(lambda x: pd.to_datetime(str(x), format='%Y%m'))
+
+--> Grafico
+dfTop5.plot(x="anoMesNum", y=["t10s17vy","t12s17vy","t14s17vy"], 
+             figsize=(18,5))

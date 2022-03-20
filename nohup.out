@@ -2008,3 +2008,57 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 12:15:23.895 NotebookApp] Starting buffering for 8ac9c2d2-4761-4ca9-8457-7846e0d0f860:e98b4e1f389346d4845e9a25abdccadb
 [I 12:15:24.528 NotebookApp] Starting buffering for c9880411-5c1e-4c6a-8ae2-b90fca653a68:0e2eafb8846f4b4a8600178bdaf4b725
 [I 12:15:34.504 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 06:47:49.695 NotebookApp] 302 GET / (127.0.0.1) 659.190000ms
+[I 06:49:44.820 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 06:49:59.649 NotebookApp] Kernel shutdown: a850143b-2ba5-4b30-af49-95dee55e7852
+[I 06:50:02.998 NotebookApp] Kernel shutdown: 4d91d54d-b63e-4a43-847e-9153227821fc
+[I 06:50:03.769 NotebookApp] Kernel shutdown: 87688c3f-be30-473e-9f6f-fdfcd9c54f14
+[I 06:50:04.640 NotebookApp] Kernel shutdown: bd2182ee-f8ae-479b-8e3d-b09cb6ab8d6b
+[I 06:50:05.152 NotebookApp] Kernel shutdown: 51e12f2e-3973-4cdf-9ed9-e3d31c10a950
+[I 06:50:05.829 NotebookApp] Kernel shutdown: 0148ce6d-4347-424b-b0b9-0735224e6ab6
+[I 06:50:06.707 NotebookApp] Kernel shutdown: 44bcf637-fb23-4e6c-85f5-b664984e335f
+[I 06:50:09.657 NotebookApp] Kernel shutdown: 0105c338-ee2e-4b7e-9569-9137b2f3cd29
+[I 06:50:12.425 NotebookApp] Kernel shutdown: 8ac9c2d2-4761-4ca9-8457-7846e0d0f860
+[I 06:50:12.608 NotebookApp] Kernel shutdown: d254ac18-dd6a-49ba-aa00-0aac427f9fbc
+[I 06:50:12.609 NotebookApp] Kernel shutdown: c9880411-5c1e-4c6a-8ae2-b90fca653a68
+[I 06:50:12.609 NotebookApp] Kernel shutdown: 89624dba-d2f1-41ba-9b78-ca1430cc5be8
+[I 06:50:12.610 NotebookApp] Kernel shutdown: e7ce223d-9955-408a-b2b3-c47677133e94
+[I 06:50:14.490 NotebookApp] Kernel shutdown: ff9d1895-d1de-46ca-b42a-c1fa42960113
+[I 06:50:17.184 NotebookApp] Kernel shutdown: fe4086b5-818a-4359-8748-3d8fa3042acd
+[W 06:50:19.077 NotebookApp] zmq message arrived on closed channel
+[W 06:50:19.259 NotebookApp] zmq message arrived on closed channel
+[W 06:50:19.437 NotebookApp] zmq message arrived on closed channel
+[W 06:50:21.358 NotebookApp] zmq message arrived on closed channel
+[W 06:50:21.805 NotebookApp] zmq message arrived on closed channel
+[W 06:50:22.101 NotebookApp] zmq message arrived on closed channel
+[W 06:50:24.590 NotebookApp] zmq message arrived on closed channel
+[I 06:50:54.650 NotebookApp] Kernel shutdown: 291a93e5-e3de-418d-be37-cf34becd0c17
+[I 06:50:58.142 NotebookApp] Kernel shutdown: dc413048-0e65-4452-8224-291297012537
+[I 06:51:01.701 NotebookApp] Kernel shutdown: 55a40c33-be56-403b-817f-70aa382edb7f
+[W 06:51:19.124 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 06:51:21.122 NotebookApp] Kernel started: fbc451e0-7452-4156-920f-3fe313e3c2ab, name: python3
+[I 06:53:21.554 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 06:55:20.877 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 06:57:21.014 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 06:59:20.822 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:04:10.875 NotebookApp] Kernel started: 9a27420c-31c7-4113-81cc-e6776fcf4ad0, name: python3
+[I 07:05:20.787 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:07:20.800 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 07:08:42.033 NotebookApp] Notebook Curso Python/Data e Hora.ipynb is not trusted
+[I 07:08:44.368 NotebookApp] Kernel started: 4f746eed-78d1-4e21-8d64-f202c4935fb7, name: python3
+[I 07:11:20.797 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:13:20.680 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:15:20.664 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:17:20.704 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:19:20.725 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:20:20.108 NotebookApp] Kernel interrupted: fbc451e0-7452-4156-920f-3fe313e3c2ab
+[I 07:20:25.847 NotebookApp] Starting buffering for fbc451e0-7452-4156-920f-3fe313e3c2ab:610956ec43894e9c8e9b10ed2b2a6969
+[I 07:20:28.780 NotebookApp] Kernel restarted: fbc451e0-7452-4156-920f-3fe313e3c2ab
+[I 07:20:28.927 NotebookApp] Restoring connection for fbc451e0-7452-4156-920f-3fe313e3c2ab:610956ec43894e9c8e9b10ed2b2a6969
+[I 07:20:31.510 NotebookApp] Replaying 3 buffered messages
+[I 07:21:21.650 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:23:21.611 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 07:24:38.669 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 07:24:40.940 NotebookApp] Starting buffering for fbc451e0-7452-4156-920f-3fe313e3c2ab:610956ec43894e9c8e9b10ed2b2a6969
+[I 07:24:44.422 NotebookApp] Starting buffering for 9a27420c-31c7-4113-81cc-e6776fcf4ad0:a6492210a1cf4bf588178c67aecc9fea
+[I 07:24:45.352 NotebookApp] Starting buffering for 4f746eed-78d1-4e21-8d64-f202c4935fb7:92168bc5e2124d4587e7c2ef43bfc2c7
