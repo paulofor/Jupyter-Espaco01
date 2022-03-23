@@ -2062,3 +2062,16 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 07:24:40.940 NotebookApp] Starting buffering for fbc451e0-7452-4156-920f-3fe313e3c2ab:610956ec43894e9c8e9b10ed2b2a6969
 [I 07:24:44.422 NotebookApp] Starting buffering for 9a27420c-31c7-4113-81cc-e6776fcf4ad0:a6492210a1cf4bf588178c67aecc9fea
 [I 07:24:45.352 NotebookApp] Starting buffering for 4f746eed-78d1-4e21-8d64-f202c4935fb7:92168bc5e2124d4587e7c2ef43bfc2c7
+[I 13:14:06.461 NotebookApp] 302 GET / (127.0.0.1) 109.230000ms
+[W 13:14:31.384 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 13:16:34.281 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 13:16:34.286 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 13:18:33.220 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:20:33.303 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 13:24:33.248 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:08:32.958 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:10:32.853 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:12:32.804 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:14:32.784 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:18:32.825 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[I 14:20:11.108 NotebookApp] Starting buffering for fbc451e0-7452-4156-920f-3fe313e3c2ab:51abc48d2d8044b385d040869a22ee92
