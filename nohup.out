@@ -2096,3 +2096,16 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 11:16:04.199 NotebookApp] Kernel started: e5e7dd59-ae14-4245-b8ab-8a85d6abd6c3, name: python3
 [I 16:12:35.874 NotebookApp] Starting buffering for 5e9d2ae5-6d2f-43f4-89fe-2b5d394cb51d:23dab20d727241429404d6f1cbf04cac
 [I 16:12:37.029 NotebookApp] Starting buffering for e5e7dd59-ae14-4245-b8ab-8a85d6abd6c3:160e3f748b5e4426b9f1b329b94ce515
+[I 06:37:52.534 NotebookApp] 302 GET / (127.0.0.1) 354.860000ms
+[W 06:44:39.083 NotebookApp] Notebook Curso Python/Graficos/Primeiro.ipynb is not trusted
+[I 06:46:39.679 NotebookApp] Saving file at /Curso Python/Graficos/Primeiro.ipynb
+[I 06:48:39.565 NotebookApp] Saving file at /Curso Python/Graficos/Primeiro.ipynb
+[I 06:52:52.711 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 06:52:54.620 NotebookApp] Kernel started: cc0a50d0-fdb5-4ffb-abee-d756aba32860, name: python3
+[I 06:54:54.510 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
+[I 06:56:54.504 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
+[I 06:58:54.522 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
+[I 07:00:54.469 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
+[I 07:02:54.411 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
+[I 07:03:53.762 NotebookApp] Starting buffering for b3ae90a1-6d34-45d0-99c8-338d6a1af9dd:47d568bf46584b3b8a27f1f2eaa307d2
+[I 07:03:53.788 NotebookApp] Starting buffering for cc0a50d0-fdb5-4ffb-abee-d756aba32860:3a10768642324c92a4feb55486a45b16
