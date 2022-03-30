@@ -2109,3 +2109,49 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 07:02:54.411 NotebookApp] Saving file at /Curso Python/Graficos/Graficos Iniciais.ipynb
 [I 07:03:53.762 NotebookApp] Starting buffering for b3ae90a1-6d34-45d0-99c8-338d6a1af9dd:47d568bf46584b3b8a27f1f2eaa307d2
 [I 07:03:53.788 NotebookApp] Starting buffering for cc0a50d0-fdb5-4ffb-abee-d756aba32860:3a10768642324c92a4feb55486a45b16
+[I 12:13:40.920 NotebookApp] 302 GET / (127.0.0.1) 331.310000ms
+[I 12:13:49.993 NotebookApp] Creating new notebook in /Plataforma
+[I 12:13:55.133 NotebookApp] Kernel started: fe2a6a0e-65e8-4382-803d-9ffa02f93b5b, name: python3
+[W 12:14:08.500 NotebookApp] Notebook Plataforma/Trades.ipynb is not trusted
+[I 12:14:09.263 NotebookApp] Kernel started: 2a304543-3c63-4e5a-b6c3-fb91fb53ff6a, name: python3
+[I 12:15:55.339 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:17:54.523 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:19:55.673 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:23:54.532 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:27:54.441 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:29:54.439 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:31:54.455 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:33:55.032 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:35:54.517 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 12:39:55.009 NotebookApp] Saving file at /Plataforma/FII.ipynb
+[I 13:57:43.303 NotebookApp] Starting buffering for fe2a6a0e-65e8-4382-803d-9ffa02f93b5b:9c4ad9ffd77e449f80bee0e0d51a4367
+[I 13:58:10.949 NotebookApp] Starting buffering for 2a304543-3c63-4e5a-b6c3-fb91fb53ff6a:6b25cd9d67a34feabfecc71eb364f28c
+[I 14:08:16.593 NotebookApp] 302 GET / (127.0.0.1) 1470.410000ms
+[I 14:09:10.486 NotebookApp] Creating new directory in 
+[I 14:09:13.787 NotebookApp] Creating new directory in 
+[W 14:09:46.231 NotebookApp] delete /Untitled Folder 1
+[I 14:10:02.057 NotebookApp] Creating new notebook in /Servico Web
+[I 14:11:02.934 NotebookApp] Kernel started: 7df00ae5-f708-4b3f-b91a-6db0e0a50064, name: python3
+[I 14:13:20.311 NotebookApp] Starting buffering for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
+[I 14:13:27.768 NotebookApp] Saving file at /Servico Web/Untitled.ipynb
+[I 14:13:46.618 NotebookApp] Kernel restarted: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 14:13:55.923 NotebookApp] Restoring connection for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
+[I 14:14:47.767 NotebookApp] Kernel shutdown: fbc451e0-7452-4156-920f-3fe313e3c2ab
+[I 14:14:49.834 NotebookApp] Kernel shutdown: 9a27420c-31c7-4113-81cc-e6776fcf4ad0
+[W 14:14:49.836 NotebookApp] Timeout waiting for kernel_info_reply: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 14:14:51.266 NotebookApp] Kernel shutdown: 4f746eed-78d1-4e21-8d64-f202c4935fb7
+[I 14:14:51.339 NotebookApp] Kernel shutdown: b3ae90a1-6d34-45d0-99c8-338d6a1af9dd
+[I 14:14:51.355 NotebookApp] Kernel shutdown: 5e9d2ae5-6d2f-43f4-89fe-2b5d394cb51d
+[I 14:14:51.376 NotebookApp] Kernel shutdown: e5e7dd59-ae14-4245-b8ab-8a85d6abd6c3
+[I 14:15:11.249 NotebookApp] Kernel shutdown: cc0a50d0-fdb5-4ffb-abee-d756aba32860
+[I 14:15:17.057 NotebookApp] Kernel shutdown: fe2a6a0e-65e8-4382-803d-9ffa02f93b5b
+[I 14:15:17.091 NotebookApp] Kernel shutdown: 2a304543-3c63-4e5a-b6c3-fb91fb53ff6a
+[I 14:15:18.260 NotebookApp] EOF on FD 78; stopping reading
+[I 14:15:20.317 NotebookApp] Terminal 1 closed
+[I 14:15:26.763 NotebookApp] Kernel interrupted: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 14:15:40.983 NotebookApp] Kernel interrupted: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 14:15:49.459 NotebookApp] Starting buffering for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
+[I 14:15:54.948 NotebookApp] Kernel restarted: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 14:15:55.926 NotebookApp] Restoring connection for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
+[I 14:21:54.838 NotebookApp] Saving file at /Servico Web/Untitled.ipynb
+[I 15:00:59.065 NotebookApp] Starting buffering for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
