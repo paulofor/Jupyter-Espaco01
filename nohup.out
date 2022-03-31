@@ -2155,3 +2155,27 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 14:15:55.926 NotebookApp] Restoring connection for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
 [I 14:21:54.838 NotebookApp] Saving file at /Servico Web/Untitled.ipynb
 [I 15:00:59.065 NotebookApp] Starting buffering for 7df00ae5-f708-4b3f-b91a-6db0e0a50064:46415d8ae1a24a31a49815e647f13d9f
+[I 18:19:16.539 NotebookApp] 302 GET /tree? (127.0.0.1) 375.020000ms
+[I 18:19:28.418 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 204.910000ms
+[I 18:19:51.360 NotebookApp] Creating new notebook in /Curso Python/Graficos
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+[I 18:20:01.082 NotebookApp] Kernel started: 88294fdc-ef82-41c8-8962-628bf02ff73b, name: python3
+[W 18:20:49.567 NotebookApp] Notebook Curso Python/Graficos/Graficos Iniciais.ipynb is not trusted
+[I 18:20:49.756 NotebookApp] Kernel started: 218c207d-3804-4cbe-a29e-c657b4313212, name: python3
+[I 18:22:00.768 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:24:01.522 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:26:01.417 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:28:00.769 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:30:01.777 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:32:01.785 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:34:00.805 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 18:36:00.781 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 18:36:49.668 NotebookApp] Notebook Curso Python/Graficos/Graficos Iniciais.ipynb is not trusted
+[W 18:36:56.715 NotebookApp] Notebook Curso Python/Graficos/Primeiro.ipynb is not trusted
+[I 18:36:57.125 NotebookApp] Kernel started: a6d6fd7c-087a-4366-9d34-9116e73fafc5, name: python3
+[I 18:38:02.023 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[I 19:07:54.602 NotebookApp] Starting buffering for 218c207d-3804-4cbe-a29e-c657b4313212:2b08196560224ae786ef3ebf0b8289b3
+[I 19:07:54.618 NotebookApp] Starting buffering for a6d6fd7c-087a-4366-9d34-9116e73fafc5:8fc0b373e1f041d19cad8caaaf1d33db
+[I 19:07:54.633 NotebookApp] Starting buffering for 88294fdc-ef82-41c8-8962-628bf02ff73b:631a14bb28a94c3287055c2afe6d48b8
