@@ -1,0 +1,19 @@
+Graficos:
+
+1- Grafico de linha com rotulo enclinado
+
+datas_observacao = np.arange('2017-01-01','2017-01-09',dtype='datetime64[D]')
+plt.plot(datas_observacao, dados_linear, '-o' ,
+        datas_observacao, dados_quadrado, '-o')
+observation_data = np.arange('2017-01-01','2017-01-09',dtype='datetime64[D]')
+
+plt.plot(observation_data, dados_linear, '-o' , observation_data, dados_quadrado, '-o')
+
+x = plt.gca().xaxis
+
+for item in x.get_ticklabels():
+    item.set_rotation(45)
+    
+plt.subplots_adjust(bottom=0.25)
+
+

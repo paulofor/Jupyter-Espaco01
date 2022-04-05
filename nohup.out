@@ -2179,3 +2179,27 @@ TimeoutError: Timeout waiting for restart
 [I 19:07:54.602 NotebookApp] Starting buffering for 218c207d-3804-4cbe-a29e-c657b4313212:2b08196560224ae786ef3ebf0b8289b3
 [I 19:07:54.618 NotebookApp] Starting buffering for a6d6fd7c-087a-4366-9d34-9116e73fafc5:8fc0b373e1f041d19cad8caaaf1d33db
 [I 19:07:54.633 NotebookApp] Starting buffering for 88294fdc-ef82-41c8-8962-628bf02ff73b:631a14bb28a94c3287055c2afe6d48b8
+[W 17:11:01.958 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:15:02.403 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:15:02.408 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:17:02.854 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:17:02.858 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:21:02.800 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:21:02.801 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:23:02.707 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:23:02.707 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:25:02.902 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:25:02.903 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:45:53.052 NotebookApp] Creating new file in /Curso Python
+[I 17:47:02.783 NotebookApp] Saving file at /Curso Python/Graficos/Graficos de linha.ipynb
+[W 17:47:02.787 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:48:42.607 NotebookApp] Starting buffering for 88294fdc-ef82-41c8-8962-628bf02ff73b:307e69ae86b0424abf244ff564fa8c46
+[I 17:48:48.742 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 17:48:50.253 NotebookApp] Kernel started: 28385e62-4daf-4bad-acff-04232b07f739, name: python3
+[W 17:49:09.285 NotebookApp] Notebook Curso Python/Graficos/Graficos de linha.ipynb is not trusted
+[I 17:50:50.208 NotebookApp] Saving file at /Curso Python/Graficos/Grafico de Barra.ipynb
+[I 17:52:50.385 NotebookApp] Saving file at /Curso Python/Graficos/Grafico de Barra.ipynb
+[I 17:54:50.631 NotebookApp] Saving file at /Curso Python/Graficos/Grafico de Barra.ipynb
+[I 17:55:14.378 NotebookApp] Saving file at /Curso Python/untitled.txt
+[I 17:55:17.495 NotebookApp] Starting buffering for 28385e62-4daf-4bad-acff-04232b07f739:28883741d41f456e9ce0533ea6455a95
+[I 17:55:18.568 NotebookApp] Starting buffering for 88294fdc-ef82-41c8-8962-628bf02ff73b:b54364149eed41ba8a3c6e123f97f729
