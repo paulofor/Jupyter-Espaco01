@@ -2225,3 +2225,33 @@ TimeoutError: Timeout waiting for restart
 [I 12:49:07.752 NotebookApp] Saving file at /Curso Python/Graficos/Exercicios - Grafico.ipynb
 [I 12:50:50.655 NotebookApp] Starting buffering for 7d314caf-54fd-4810-b3e0-a010f4092a94:2eef827c30cd45b98b1f4e54d1be2274
 [I 12:53:30.198 NotebookApp] Starting buffering for 28385e62-4daf-4bad-acff-04232b07f739:b7900ee858614507881c988fe6fbcbfa
+[I 16:39:20.357 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 16:39:34.216 NotebookApp] Kernel started: a57ed97b-9f80-4449-9aaf-8372babcc901, name: python3
+[I 16:41:34.276 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 16:43:33.856 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 16:45:34.636 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 16:47:35.109 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 16:49:35.139 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 17:21:34.528 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 17:23:34.400 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 17:25:34.671 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[I 18:00:15.878 NotebookApp] Starting buffering for a57ed97b-9f80-4449-9aaf-8372babcc901:decd528d1f7b4bb294512d4e7cc8a22c
+[W 18:06:47.936 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:14:49.318 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:14:49.321 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:16:52.411 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:16:52.418 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:18:50.048 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:18:50.049 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:20:50.955 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 18:20:51.127 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:20:51.127 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:20:53.132 NotebookApp] Kernel started: 681fe69d-679b-4e56-9379-4d18cb8129c4, name: python3
+[W 18:21:08.276 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:21:25.324 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 18:21:34.311 NotebookApp] Starting buffering for 681fe69d-679b-4e56-9379-4d18cb8129c4:bfbe5ccd0b1f41eb817fb937ae4e69ea
+[I 18:21:37.769 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:21:37.770 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:21:38.574 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
+[W 18:21:38.575 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:22:06.375 NotebookApp] Starting buffering for a57ed97b-9f80-4449-9aaf-8372babcc901:e81168a57dbf40ebb8beb3af07986294
