@@ -2255,3 +2255,23 @@ TimeoutError: Timeout waiting for restart
 [I 18:21:38.574 NotebookApp] Saving file at /Curso Python/Graficos/Subplot.ipynb
 [W 18:21:38.575 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
 [I 18:22:06.375 NotebookApp] Starting buffering for a57ed97b-9f80-4449-9aaf-8372babcc901:e81168a57dbf40ebb8beb3af07986294
+[I 17:04:43.355 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[W 17:04:59.033 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 17:10:59.312 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:12:59.211 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:13:51.624 NotebookApp] Kernel interrupted: 681fe69d-679b-4e56-9379-4d18cb8129c4
+[I 17:13:57.973 NotebookApp] Starting buffering for 681fe69d-679b-4e56-9379-4d18cb8129c4:5282bdde6afe4ea392b96df1cc62eb69
+[I 17:14:00.980 NotebookApp] Kernel restarted: 681fe69d-679b-4e56-9379-4d18cb8129c4
+[I 17:14:01.191 NotebookApp] Restoring connection for 681fe69d-679b-4e56-9379-4d18cb8129c4:5282bdde6afe4ea392b96df1cc62eb69
+[W 17:14:05.722 NotebookApp] Nudge: attempt 10 on kernel 681fe69d-679b-4e56-9379-4d18cb8129c4
+[I 17:14:07.370 NotebookApp] Replaying 3 buffered messages
+[I 17:15:00.038 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:16:59.688 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:18:59.459 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:21:00.210 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:22:59.413 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:25:00.223 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:26:59.999 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:28:59.926 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 17:31:00.529 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[I 18:05:37.491 NotebookApp] Starting buffering for 681fe69d-679b-4e56-9379-4d18cb8129c4:5282bdde6afe4ea392b96df1cc62eb69
