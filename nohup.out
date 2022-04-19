@@ -2275,3 +2275,23 @@ TimeoutError: Timeout waiting for restart
 [I 17:28:59.926 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
 [I 17:31:00.529 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
 [I 18:05:37.491 NotebookApp] Starting buffering for 681fe69d-679b-4e56-9379-4d18cb8129c4:5282bdde6afe4ea392b96df1cc62eb69
+[W 14:10:56.651 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 14:10:57.787 NotebookApp] Kernel started: 751748d6-df17-4bd2-a90c-8bd9beb1b4e1, name: python3
+[I 14:12:56.329 NotebookApp] Saving file at /Curso Python/Graficos/Untitled.ipynb
+[I 14:12:57.669 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[W 14:12:57.676 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 14:14:57.555 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[W 14:14:57.565 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 14:16:31.931 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[W 14:16:31.931 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 14:16:33.778 NotebookApp] Saving file at /Curso Python/Graficos/Histograma.ipynb
+[W 14:16:33.779 NotebookApp] Notebook Curso Python/Graficos/Histograma.ipynb is not trusted
+[I 14:16:34.466 NotebookApp] Starting buffering for 681fe69d-679b-4e56-9379-4d18cb8129c4:ce32d6e09e624a51859faf663999db7b
+[I 14:20:56.107 NotebookApp] Saving file at /Curso Python/Graficos/Caixa.ipynb
+[I 14:22:56.148 NotebookApp] Saving file at /Curso Python/Graficos/Caixa.ipynb
+[I 14:24:56.367 NotebookApp] Saving file at /Curso Python/Graficos/Caixa.ipynb
+[I 14:26:56.221 NotebookApp] Saving file at /Curso Python/Graficos/Caixa.ipynb
+[W 14:27:09.340 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 14:28:56.473 NotebookApp] Saving file at /Curso Python/Graficos/Caixa.ipynb
+[I 16:16:36.427 NotebookApp] Starting buffering for 751748d6-df17-4bd2-a90c-8bd9beb1b4e1:ca34489869694f328835e859beac3f12
+[I 16:16:37.671 NotebookApp] Starting buffering for a57ed97b-9f80-4449-9aaf-8372babcc901:13cb516f68124e30824469b5378dc99d
