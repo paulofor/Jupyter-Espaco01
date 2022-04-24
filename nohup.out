@@ -2344,3 +2344,77 @@ TimeoutError: Timeout waiting for restart
 [I 07:49:56.970 NotebookApp] Starting buffering for 28385e62-4daf-4bad-acff-04232b07f739:2ff5f86650ce4c22b41c5dbc77641e9c
 [I 07:49:56.979 NotebookApp] Starting buffering for 05fd2863-2bba-4d92-a243-c65f79e3e944:0341c5ca3d21476d8248409090f50152
 [I 08:34:37.773 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:57:58.375 NotebookApp] 302 GET / (127.0.0.1) 526.230000ms
+[I 17:57:58.753 NotebookApp] 302 GET /tree? (127.0.0.1) 167.990000ms
+[I 18:00:19.130 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 116.280000ms
+[I 18:00:27.410 NotebookApp] Kernel shutdown: 7df00ae5-f708-4b3f-b91a-6db0e0a50064
+[I 18:00:28.198 NotebookApp] Kernel shutdown: 88294fdc-ef82-41c8-8962-628bf02ff73b
+[I 18:00:28.899 NotebookApp] Kernel shutdown: 218c207d-3804-4cbe-a29e-c657b4313212
+[I 18:00:29.409 NotebookApp] Kernel shutdown: a6d6fd7c-087a-4366-9d34-9116e73fafc5
+[I 18:00:30.189 NotebookApp] Kernel shutdown: 28385e62-4daf-4bad-acff-04232b07f739
+[I 18:00:30.971 NotebookApp] Kernel shutdown: 7d314caf-54fd-4810-b3e0-a010f4092a94
+[I 18:00:34.001 NotebookApp] Kernel shutdown: a57ed97b-9f80-4449-9aaf-8372babcc901
+[I 18:00:34.254 NotebookApp] Kernel shutdown: 681fe69d-679b-4e56-9379-4d18cb8129c4
+[I 18:00:34.255 NotebookApp] Kernel shutdown: 751748d6-df17-4bd2-a90c-8bd9beb1b4e1
+[I 18:00:39.652 NotebookApp] Kernel shutdown: 7d8f0a5a-c2e2-4b50-b695-3d5024bfc9e0
+[I 18:00:39.737 NotebookApp] Kernel shutdown: 03e6bd26-4e86-46f0-9ade-51916e947f4a
+[I 18:00:42.467 NotebookApp] Kernel shutdown: 07e82c2f-5719-4ae8-a2c9-64b54fd6c136
+[I 18:00:45.149 NotebookApp] Kernel shutdown: 936862fd-1052-4de5-ac6a-6acd75b3e65c
+[I 18:00:45.210 NotebookApp] Discarding 1 buffered messages for 82289429-dd4f-4e86-abcb-6bd331694297:a83e6e5dcab54e5ca41f7eb819ee5729
+[I 18:00:45.223 NotebookApp] Kernel shutdown: 82289429-dd4f-4e86-abcb-6bd331694297
+[I 18:00:45.228 NotebookApp] Kernel shutdown: 05fd2863-2bba-4d92-a243-c65f79e3e944
+[I 18:00:46.721 NotebookApp] Creating new notebook in 
+[W 18:00:50.298 NotebookApp] zmq message arrived on closed channel
+[W 18:00:50.311 NotebookApp] zmq message arrived on closed channel
+[W 18:00:50.314 NotebookApp] zmq message arrived on closed channel
+[I 18:00:53.007 NotebookApp] Creating new directory in 
+[I 18:00:53.721 NotebookApp] Kernel started: 59305882-9866-4cdc-9ffb-83a07aafd889, name: python3
+[I 18:01:12.792 NotebookApp] Creating new notebook in /Sisacao
+[I 18:01:14.531 NotebookApp] Kernel started: 3b6431cd-539f-425b-a590-4b2d79b1794b, name: python3
+2022-04-23 18:02:40.370203: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-04-23 18:02:40.372232: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 18:02:53.926 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:03:15.070 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-04-23 18:03:28.870993: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-04-23 18:03:28.873679: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 18:03:36.041 NotebookApp] Starting buffering for 59305882-9866-4cdc-9ffb-83a07aafd889:0f6781a0a6b645d09164b07978bde8f7
+[I 18:05:05.960 NotebookApp] Kernel interrupted: 3b6431cd-539f-425b-a590-4b2d79b1794b
+[I 18:05:11.182 NotebookApp] Starting buffering for 3b6431cd-539f-425b-a590-4b2d79b1794b:5d308a8f42d54200a1c8ab2649f0c41f
+[I 18:05:15.166 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 18:05:18.216 NotebookApp] Kernel restarted: 3b6431cd-539f-425b-a590-4b2d79b1794b
+[I 18:05:18.650 NotebookApp] Restoring connection for 3b6431cd-539f-425b-a590-4b2d79b1794b:5d308a8f42d54200a1c8ab2649f0c41f
+2022-04-23 18:05:46.916458: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-04-23 18:05:46.924632: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 18:07:30.511 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 18:12:22.606 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 18:17:02.442 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 18:21:42.417 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-04-23 18:56:22.861989: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-04-23 18:56:22.890193: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-04-23 18:56:23.111263: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 18:59:02.103 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:03:42.020 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 19:17:28.804 NotebookApp] Notebook ResultadoFuturo/Avaliando ABEV3.ipynb is not trusted
+[I 19:17:30.268 NotebookApp] Kernel started: 42df5cb3-266a-43ef-b6a5-3f957dc299b5, name: python3
+[I 19:22:21.980 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:22:45.545 NotebookApp] Starting buffering for 42df5cb3-266a-43ef-b6a5-3f957dc299b5:c305c7fa21e54b4089a319427f9b9745
+[I 19:27:01.563 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 19:29:44.463 NotebookApp] Notebook Curso Python/Map Lamba.ipynb is not trusted
+[I 19:29:45.354 NotebookApp] Kernel started: a3e7d711-b357-4414-a2d6-a805aa72079d, name: python3
+[W 19:30:23.772 NotebookApp] Notebook Curso Python/DataFrame.ipynb is not trusted
+[I 19:30:24.490 NotebookApp] Kernel started: cd114e69-2c23-4946-bc4b-32d619b40dbc, name: python3
+[I 19:30:35.280 NotebookApp] Starting buffering for cd114e69-2c23-4946-bc4b-32d619b40dbc:67277292a8594a2681f44eab0685f2c3
+[W 19:30:49.474 NotebookApp] delete /Curso Python/Pandas
+[W 19:30:55.012 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 19:30:55.774 NotebookApp] Kernel started: c7008a14-8409-4fee-a67f-8f8ff77e9bd1, name: python3
+[I 19:31:41.837 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:31:44.410 NotebookApp] Starting buffering for a3e7d711-b357-4414-a2d6-a805aa72079d:c84d949fb8e14d4fb6ea050201079c9a
+[I 19:36:21.859 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:41:01.524 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:45:41.688 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:46:47.774 NotebookApp] Starting buffering for c7008a14-8409-4fee-a67f-8f8ff77e9bd1:a0def94ba6d74158b4a34087eee163c8
+[I 19:50:21.786 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:53:08.855 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:53:10.168 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 19:53:12.041 NotebookApp] Starting buffering for 3b6431cd-539f-425b-a590-4b2d79b1794b:5d308a8f42d54200a1c8ab2649f0c41f
