@@ -2418,3 +2418,285 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 19:53:08.855 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
 [I 19:53:10.168 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
 [I 19:53:12.041 NotebookApp] Starting buffering for 3b6431cd-539f-425b-a590-4b2d79b1794b:5d308a8f42d54200a1c8ab2649f0c41f
+[I 14:40:39.209 NotebookApp] 302 GET / (127.0.0.1) 592.930000ms
+[I 14:41:03.930 NotebookApp] Creating new notebook in /Sisacao
+[I 14:41:11.666 NotebookApp] Kernel started: d2191d0c-e334-4850-a07a-ca39d237a29d, name: python3
+[I 14:43:11.077 NotebookApp] Saving file at /Sisacao/Untitled.ipynb
+[W 14:46:15.856 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:47:11.893 NotebookApp] Saving file at /Sisacao/Untitled.ipynb
+[I 14:48:18.242 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:48:18.261 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:50:18.021 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:50:18.031 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:52:18.145 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:52:18.146 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:54:17.948 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:54:17.949 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:55:05.327 NotebookApp] Starting buffering for 3b6431cd-539f-425b-a590-4b2d79b1794b:ef0b9cda053a4944897e3dc1a6c9fdd1
+[W 14:55:12.776 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:57:14.840 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:57:14.854 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 14:59:14.914 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 14:59:14.915 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 15:02:08.839 NotebookApp] Starting buffering for d2191d0c-e334-4850-a07a-ca39d237a29d:2be3344282db4ba3b12d50eacc0bab46
+[I 15:02:09.518 NotebookApp] Starting buffering for 3b6431cd-539f-425b-a590-4b2d79b1794b:156381f4e18742c29c1d43f0c8fa9075
+[I 18:13:08.435 NotebookApp] 302 GET / (127.0.0.1) 13.580000ms
+[I 18:13:21.151 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 18:13:25.092 NotebookApp] Kernel started: dc027ec8-8188-4ba5-8fbd-d83976cec9ee, name: python3
+[W 18:13:36.834 NotebookApp] Notebook Curso Python/Graficos/Animações.ipynb is not trusted
+[I 18:13:37.205 NotebookApp] Kernel started: cd5dfcc2-4543-42f9-9ff5-f4f6d075afca, name: python3
+[I 18:15:25.489 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:17:24.886 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:19:25.287 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:21:24.859 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:23:26.036 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:25:24.898 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:27:24.893 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:29:25.008 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[W 18:30:09.154 NotebookApp] Notebook Curso Python/Graficos/Subplot.ipynb is not trusted
+[I 18:30:10.315 NotebookApp] Kernel started: 364de39e-0703-4f3a-8396-ea9b895663fe, name: python3
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[IPKernelApp] ERROR | Exception in comm_msg for 3528023da0c84d1ea4fc54211d59e195
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/3131448106.py", line 8, in onclick
+    plt.gca().set_title('Event at pixel {}, {}, and data {},{}'.format(event.X,event.Y,'\n',event.xdata,event.ydata))
+AttributeError: 'MouseEvent' object has no attribute 'X'
+[I 18:31:25.100 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[IPKernelApp] ERROR | Exception in comm_msg for b7a3bcbf49fb4bf2bce8cb9fd5234eb3
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/figure.py", line 2257, in <lambda>
+    'button_press_event', lambda event: self.canvas.pick(event))
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1757, in pick
+    self.figure.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 541, in pick
+    a.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 541, in pick
+    a.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 527, in pick
+    self.figure.canvas.pick_event(mouseevent, self, **prop)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1835, in pick_event
+    self.callbacks.process(s, event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/1528680625.py", line 2, in onpick
+    origin = df.iloc[event.id[0]]['origin']
+AttributeError: 'PickEvent' object has no attribute 'id'
+[IPKernelApp] ERROR | Exception in comm_msg for b7a3bcbf49fb4bf2bce8cb9fd5234eb3
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/manager.py", line 109, in comm_msg
+    comm.handle_msg(msg)
+  File "/usr/local/lib/python3.8/dist-packages/ipykernel/comm/comm.py", line 161, in handle_msg
+    self._msg_callback(msg)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_nbagg.py", line 223, in on_message
+    self.manager.handle_json(message)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 492, in handle_json
+    self.canvas.handle_event(content)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 287, in handle_event
+    return handler(event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_webagg_core.py", line 317, in _handle_mouse
+    self.button_press_event(x, y, button, guiEvent=guiEvent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1872, in button_press_event
+    self.callbacks.process(s, mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/figure.py", line 2257, in <lambda>
+    'button_press_event', lambda event: self.canvas.pick(event))
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1757, in pick
+    self.figure.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 541, in pick
+    a.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 541, in pick
+    a.pick(mouseevent)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/artist.py", line 527, in pick
+    self.figure.canvas.pick_event(mouseevent, self, **prop)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1835, in pick_event
+    self.callbacks.process(s, event)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 292, in process
+    self.exception_handler(exc)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 96, in _exception_printer
+    raise exc
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/cbook/__init__.py", line 287, in process
+    func(*args, **kwargs)
+  File "/tmp/ipykernel_391986/1528680625.py", line 2, in onpick
+    origin = df.iloc[event.id[0]]['origin']
+AttributeError: 'PickEvent' object has no attribute 'id'
+[I 18:33:25.300 NotebookApp] Saving file at /Curso Python/Graficos/interatividade.ipynb
+[I 18:34:06.107 NotebookApp] Creating new notebook in /Curso Python/Graficos
+[I 18:34:09.091 NotebookApp] Kernel started: 0641b934-bc4b-473d-ac9f-5b4e012806be, name: python3
+[I 18:34:39.499 NotebookApp] Saving file at /Curso Python/Graficos/Plotagem com Pandas.ipynb
+[I 18:34:40.449 NotebookApp] Starting buffering for 0641b934-bc4b-473d-ac9f-5b4e012806be:c06008fc9b3c471abb69864eca262e33
+[I 18:34:41.134 NotebookApp] Starting buffering for 364de39e-0703-4f3a-8396-ea9b895663fe:ece29cb8fa3a42758cc8514d193cfb31
+[I 18:34:41.730 NotebookApp] Starting buffering for cd5dfcc2-4543-42f9-9ff5-f4f6d075afca:83b7fddfd7f74e03aa911a3833ff4cc4
+[I 18:34:42.413 NotebookApp] Starting buffering for dc027ec8-8188-4ba5-8fbd-d83976cec9ee:f3ee9f364f934a8f9610021109e866f5
