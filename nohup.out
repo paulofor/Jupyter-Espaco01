@@ -2798,3 +2798,45 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 11:39:41.836 NotebookApp] Saving file at /Sisacao/C4_W3_Lab_1_RNN.ipynb
 [I 11:39:43.578 NotebookApp] Saving file at /Sisacao/C4_W3_Lab_1_RNN.ipynb
 [I 11:39:45.002 NotebookApp] Starting buffering for 4dac8bc4-83ce-4389-9dc9-d04c89550120:5233b6be129e41bd8453fabbb485d8e1
+[I 07:07:28.696 NotebookApp] 302 GET / (127.0.0.1) 351.390000ms
+[I 07:07:56.676 NotebookApp] Creating new directory in /Curso Python
+[I 07:08:16.195 NotebookApp] Creating new notebook in /Curso Python/Grafico Pandas
+[I 07:08:21.979 NotebookApp] Kernel started: f072db87-d9f5-4520-828e-cc657c72d8a6, name: python3
+[I 07:10:21.487 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:12:21.513 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:14:21.387 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:16:21.383 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:18:21.756 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:20:21.468 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:22:21.651 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:24:21.789 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:26:21.915 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:28:21.979 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:30:21.864 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:30:46.817 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:30:48.115 NotebookApp] Saving file at /Curso Python/Grafico Pandas/Grafico Pandas.ipynb
+[I 07:30:49.414 NotebookApp] Starting buffering for f072db87-d9f5-4520-828e-cc657c72d8a6:6f337b86682d49ad8c52096a9e398b42
+[I 11:06:36.494 NotebookApp] 302 GET / (127.0.0.1) 36.650000ms
+[I 11:42:00.846 NotebookApp] 302 GET / (127.0.0.1) 1.180000ms
+[W 11:42:14.329 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 11:42:16.312 NotebookApp] Kernel started: 5abba9dc-38f6-48e1-8b28-af5d2af9e11e, name: python3
+[I 11:44:15.537 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 11:44:15.568 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 11:46:15.515 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 11:46:15.516 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 12:05:23.138 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:3bfcf22c521a4fd091e08327726424f5
+[I 17:29:55.692 NotebookApp] 302 GET / (127.0.0.1) 163.690000ms
+[W 17:30:19.713 NotebookApp] Notebook ResultadoFuturo/Cluster de Ticker.ipynb is not trusted
+[I 17:30:21.452 NotebookApp] Kernel started: afd5bfd9-24bc-4f58-9f24-f53e825a4c4d, name: python3
+[W 17:30:22.565 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 17:30:24.652 NotebookApp] Kernel started: 7be0cec0-bf00-478a-8c19-13c9067eb72e, name: python3
+[I 17:34:25.118 NotebookApp] Saving file at /ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb
+[W 17:34:25.233 NotebookApp] Notebook ResultadoFuturo/RegraProjecao - 260 Neg-100.ipynb is not trusted
+[I 17:36:16.447 NotebookApp] Starting buffering for afd5bfd9-24bc-4f58-9f24-f53e825a4c4d:5a4ac4c63f4c4dc6ba94aaa2ade7ae51
+[I 17:36:34.066 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 17:36:39.545 NotebookApp] Kernel started: c0c90cd1-0d74-4a80-8fec-95a5d03c112e, name: python3
+[I 17:38:39.409 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:40:39.406 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:42:39.013 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:44:30.842 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:5fe46cb0743e43f2979e5a33417ea389
+[I 17:44:33.568 NotebookApp] Starting buffering for 7be0cec0-bf00-478a-8c19-13c9067eb72e:8939dd972e854a98a235b822ecc38dd8
