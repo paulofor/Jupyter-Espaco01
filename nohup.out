@@ -2907,3 +2907,44 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [W 17:04:13.358 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
 [I 17:35:47.305 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:fba57c0d683240229e8dde51c843a4fd
 [I 17:35:48.647 NotebookApp] Starting buffering for b1fda98b-561b-48ae-989d-56e84c3b7af1:ed77928e577e4a60a2481434245c549b
+[I 16:03:29.559 NotebookApp] 302 GET / (127.0.0.1) 337.740000ms
+[W 16:03:50.849 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 16:21:52.018 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 16:21:52.023 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 16:23:52.294 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 16:23:52.294 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[W 16:25:10.942 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 16:25:51.959 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 16:25:51.960 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 16:29:55.134 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 16:29:55.254 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 16:31:52.708 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:33:52.423 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:35:52.280 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:37:51.929 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:39:22.331 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:41:51.844 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:43:56.695 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:44:54.484 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:45:53.310 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 16:47:52.883 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:43:51.339 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:44:55.029 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:45:04.495 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:f1601447033f4acd84f848a349fbfb23
+[I 17:45:51.320 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:47:51.291 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:53:41.688 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:53:48.833 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:54:01.578 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:a9337e97a333454aba01b1db9b7bd32e
+[I 17:54:04.690 NotebookApp] Kernel restarted: 5abba9dc-38f6-48e1-8b28-af5d2af9e11e
+[I 17:54:04.913 NotebookApp] Restoring connection for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:a9337e97a333454aba01b1db9b7bd32e
+[I 17:54:07.798 NotebookApp] Replaying 3 buffered messages
+[I 17:55:12.042 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:a9337e97a333454aba01b1db9b7bd32e
+[I 17:55:12.470 NotebookApp] Kernel restarted: 5abba9dc-38f6-48e1-8b28-af5d2af9e11e
+[I 17:55:12.571 NotebookApp] Restoring connection for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:a9337e97a333454aba01b1db9b7bd32e
+[I 17:55:14.088 NotebookApp] Replaying 3 buffered messages
+[I 17:55:16.874 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-01 17:55:54.859369: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-01 17:55:54.859471: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 17:57:06.039 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 17:57:18.400 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:a9337e97a333454aba01b1db9b7bd32e
