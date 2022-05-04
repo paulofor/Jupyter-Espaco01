@@ -3001,3 +3001,88 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 16:28:37.805 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
 [I 16:30:38.235 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
 [I 16:36:39.661 NotebookApp] Starting buffering for c38d1aa5-78df-4f82-94b5-d84842885ccf:846ee8fee5d044c88b6eb18ea8be9704
+[I 11:08:42.838 NotebookApp] 302 GET / (127.0.0.1) 247.320000ms
+[W 11:09:26.898 NotebookApp] delete /Untitled Folder
+[W 11:46:32.790 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 11:56:35.094 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 11:56:35.190 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 11:58:35.335 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 11:58:35.359 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 12:20:35.233 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 12:20:35.237 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 12:22:35.196 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 12:22:35.210 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 12:23:05.759 NotebookApp] Creating new notebook in /Sisacao
+[I 12:23:10.538 NotebookApp] Kernel started: a82a2702-02b8-4ebf-9f60-f2c78c27c644, name: python3
+[I 12:23:14.146 NotebookApp] Saving file at /Sisacao/Untitled.ipynb
+[W 12:23:25.481 NotebookApp] Notebook Sisacao/Untitled.ipynb is not trusted
+[W 12:23:26.117 NotebookApp] zmq message arrived on closed channel
+[W 12:23:26.127 NotebookApp] zmq message arrived on closed channel
+[W 12:23:26.222 NotebookApp] zmq message arrived on closed channel
+[W 12:23:26.249 NotebookApp] zmq message arrived on closed channel
+[W 12:23:26.358 NotebookApp] zmq message arrived on closed channel
+[W 12:23:26.369 NotebookApp] zmq message arrived on closed channel
+[W 12:23:45.840 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[W 12:23:53.544 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb04e88eee0>
+[W 12:23:58.034 NotebookApp] zmq message arrived on closed channel
+[W 12:23:58.039 NotebookApp] zmq message arrived on closed channel
+2022-05-03 12:24:33.598842: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-03 12:24:33.607847: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[W 12:24:38.479 NotebookApp] zmq message arrived on closed channel
+[I 12:25:26.998 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[W 12:27:24.921 NotebookApp] zmq message arrived on closed channel
+[I 12:29:18.136 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[W 12:30:52.627 NotebookApp] zmq message arrived on closed channel
+[W 12:30:52.641 NotebookApp] zmq message arrived on closed channel
+[W 12:30:53.304 NotebookApp] zmq message arrived on closed channel
+[W 12:30:53.306 NotebookApp] zmq message arrived on closed channel
+[W 12:31:06.459 NotebookApp] zmq message arrived on closed channel
+[W 12:31:06.460 NotebookApp] zmq message arrived on closed channel
+[W 12:31:06.521 NotebookApp] zmq message arrived on closed channel
+[W 12:31:40.223 NotebookApp] zmq message arrived on closed channel
+[W 12:31:40.224 NotebookApp] zmq message arrived on closed channel
+[W 12:31:53.293 NotebookApp] zmq message arrived on closed channel
+[W 12:31:53.301 NotebookApp] zmq message arrived on closed channel
+[I 12:32:34.294 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 12:32:34.309 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[W 12:32:43.459 NotebookApp] zmq message arrived on closed channel
+[W 12:32:43.460 NotebookApp] zmq message arrived on closed channel
+[I 12:32:46.642 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+2022-05-03 12:32:49.961845: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-03 12:32:49.988192: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-03 12:32:50.349927: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[W 12:32:50.861 NotebookApp] zmq message arrived on closed channel
+[W 12:32:58.577 NotebookApp] zmq message arrived on closed channel
+2022-05-03 12:33:00.002124: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[W 12:33:00.205 NotebookApp] zmq message arrived on closed channel
+2022-05-03 12:33:00.244553: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+2022-05-03 12:33:00.395104: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[W 12:33:00.491 NotebookApp] zmq message arrived on closed channel
+2022-05-03 12:33:02.750641: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[W 12:33:03.748 NotebookApp] zmq message arrived on closed channel
+2022-05-03 12:33:03.892086: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[W 12:33:04.095 NotebookApp] zmq message arrived on closed channel
+[W 12:33:30.770 NotebookApp] zmq message arrived on closed channel
+[W 12:33:58.217 NotebookApp] zmq message arrived on closed channel
+[W 12:33:58.218 NotebookApp] zmq message arrived on closed channel
+[W 12:33:59.354 NotebookApp] zmq message arrived on closed channel
+[W 12:33:59.411 NotebookApp] zmq message arrived on closed channel
+[W 12:33:59.465 NotebookApp] zmq message arrived on closed channel
+[I 12:34:36.663 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 12:34:36.794 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 12:36:17.027 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 12:49:40.998 NotebookApp] Starting buffering for a82a2702-02b8-4ebf-9f60-f2c78c27c644:3da475c6532446378b6f895171776470
+[I 12:49:42.275 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:73b4b04862f8431b99403414447537a7
+[I 19:40:53.090 NotebookApp] 302 GET / (127.0.0.1) 53.520000ms
+[W 19:41:25.473 NotebookApp] Notebook Sisacao/Executador de primeira.ipynb is not trusted
+[W 19:41:26.806 NotebookApp] zmq message arrived on closed channel
+[W 19:41:26.836 NotebookApp] zmq message arrived on closed channel
+[W 19:41:26.847 NotebookApp] zmq message arrived on closed channel
+[W 19:41:26.855 NotebookApp] zmq message arrived on closed channel
+[W 19:41:26.859 NotebookApp] zmq message arrived on closed channel
+[W 19:41:26.861 NotebookApp] zmq message arrived on closed channel
+[W 19:41:39.790 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 19:47:26.365 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 20:16:24.644 NotebookApp] Starting buffering for a82a2702-02b8-4ebf-9f60-f2c78c27c644:8a07b81bdd3c410b85eb173129ba5031
+[I 20:16:25.598 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:8dcb84ef8c594bac948d72f009efa67c
