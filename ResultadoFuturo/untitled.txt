@@ -1,3 +1,0 @@
-Consultas:
-
-http://vps-40d69db1.vps.ovh.ca:22001/api/CotacaoIntradayAcaoResultadoValors/obtemResultadoRegraData?codigoRegra=geral&diaNumInicial=20211201&diaNumFinal=20220131

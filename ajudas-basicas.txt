@@ -2,7 +2,8 @@
 
 dfRuim = df[df['saldoValidacao']<0]
 
-
+rslt_df = dataframe[(dataframe['Age'] == 21) &
+          dataframe['Stream'].isin(options)]
 
 2- escolher colunas:
 

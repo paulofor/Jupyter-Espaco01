@@ -3086,3 +3086,23 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 19:47:26.365 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 20:16:24.644 NotebookApp] Starting buffering for a82a2702-02b8-4ebf-9f60-f2c78c27c644:8a07b81bdd3c410b85eb173129ba5031
 [I 20:16:25.598 NotebookApp] Starting buffering for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:8dcb84ef8c594bac948d72f009efa67c
+[I 21:00:14.174 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 17:03:36.792 NotebookApp] 302 GET / (127.0.0.1) 417.390000ms
+[W 17:04:05.424 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[W 17:05:52.202 NotebookApp] delete /ResultadoFuturo/untitled.txt
+[I 17:06:07.035 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[W 17:06:07.043 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 17:08:06.290 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[W 17:08:06.291 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 17:10:06.379 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[W 17:10:06.385 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 17:12:06.485 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:14:08.162 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:16:06.969 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:24:06.494 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:26:06.107 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:27:19.626 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 17:28:06.070 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:30:06.093 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:32:06.071 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 17:44:57.808 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:2f684c28f90f4fbd822967f18b52e8c3
