@@ -3106,3 +3106,31 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 17:30:06.093 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
 [I 17:32:06.071 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
 [I 17:44:57.808 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:2f684c28f90f4fbd822967f18b52e8c3
+[W 00:46:30.310 NotebookApp] 404 GET /lab (127.0.0.1) 1307.390000ms referer=None
+[I 00:46:35.978 NotebookApp] 302 GET / (127.0.0.1) 7.640000ms
+[W 00:46:49.808 NotebookApp] Notebook Curso Python/Grafico Pandas/grafico seaborn.ipynb is not trusted
+[IPKernelApp] ERROR | KeyboardInterrupt caught in kernel.
+[I 00:46:53.462 NotebookApp] Starting buffering for c38d1aa5-78df-4f82-94b5-d84842885ccf:289dc3fa33e44d68808f232c1953f12b
+[I 00:46:55.881 NotebookApp] Kernel restarted: c38d1aa5-78df-4f82-94b5-d84842885ccf
+[I 00:46:55.953 NotebookApp] Restoring connection for c38d1aa5-78df-4f82-94b5-d84842885ccf:289dc3fa33e44d68808f232c1953f12b
+[I 00:46:58.673 NotebookApp] Replaying 10 buffered messages
+[I 00:47:02.789 NotebookApp] Starting buffering for c38d1aa5-78df-4f82-94b5-d84842885ccf:289dc3fa33e44d68808f232c1953f12b
+[I 00:47:03.134 NotebookApp] Kernel restarted: c38d1aa5-78df-4f82-94b5-d84842885ccf
+[I 00:47:03.213 NotebookApp] Restoring connection for c38d1aa5-78df-4f82-94b5-d84842885ccf:289dc3fa33e44d68808f232c1953f12b
+[I 00:47:05.474 NotebookApp] Replaying 3 buffered messages
+[I 00:48:51.608 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
+[I 00:52:56.804 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
+[I 00:54:50.806 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
+[I 00:56:51.659 NotebookApp] Saving file at /Curso Python/Grafico Pandas/grafico seaborn.ipynb
+[I 01:13:47.449 NotebookApp] Starting buffering for c38d1aa5-78df-4f82-94b5-d84842885ccf:289dc3fa33e44d68808f232c1953f12b
+[I 10:31:56.899 NotebookApp] 302 GET / (127.0.0.1) 291.650000ms
+[W 10:32:12.371 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 10:34:13.789 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 10:36:13.737 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[I 11:00:15.730 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:f06d0ed1844f4b7f86983ee52b494dd4
+[W 11:01:31.596 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 11:23:32.852 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[W 11:23:32.854 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 11:25:33.287 NotebookApp] Saving file at /ResultadoFuturo/Análise por Ticker.ipynb
+[W 11:25:33.287 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 11:30:01.855 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:5b3c540d481d4e6e9578c6ddf5ae2bcf
