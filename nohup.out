@@ -3138,3 +3138,28 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:47:18.689 NotebookApp] Starting buffering for 47971535-0752-40bd-8663-c4fe296c534a:76d3379695b14153a4dc670aca24fe82
 [I 16:02:55.611 NotebookApp] New terminal with automatic name: 1
 ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 12:24:46.995 NotebookApp] 302 GET / (127.0.0.1) 440.640000ms
+[W 12:25:02.615 NotebookApp] Notebook ResultadoFuturo/Compara Regra Projecao.ipynb is not trusted
+[I 12:25:03.823 NotebookApp] Kernel started: d9e52d04-6c88-490c-a79a-3f49f044cde3, name: python3
+[W 12:25:11.463 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 12:25:19.142 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 12:25:21.421 NotebookApp] Kernel started: 4c86b93e-8626-4209-9f97-7f32c37f3ee5, name: python3
+[I 12:27:22.309 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:29:21.419 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:31:21.682 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:32:47.217 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 12:33:21.357 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:34:02.413 NotebookApp] Starting buffering for d9e52d04-6c88-490c-a79a-3f49f044cde3:9f61674ea10347a88ec8f0cfd3b2a23f
+[I 12:35:21.923 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[W 12:36:48.290 NotebookApp] Notebook Curso Python/DataFrame.ipynb is not trusted
+[I 12:36:49.325 NotebookApp] Kernel started: 0761c608-d711-4cad-b200-3732ea5cad87, name: python3
+[W 12:37:20.533 NotebookApp] Notebook Curso Python/Apply.ipynb is not trusted
+[I 12:37:21.403 NotebookApp] Kernel started: b0ae6807-bdb9-4b4a-bcfa-e87513e07803, name: python3
+[I 12:39:21.869 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:41:21.834 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:43:21.294 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:45:21.251 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:47:21.248 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 13:53:06.390 NotebookApp] Starting buffering for 4c86b93e-8626-4209-9f97-7f32c37f3ee5:a3f1ba66d5734fe29a79c0bf4896b8a4
+[I 13:53:08.215 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:9c172e2028bb486f8b0e0aab7d309c01
+[I 13:53:10.613 NotebookApp] Starting buffering for b0ae6807-bdb9-4b4a-bcfa-e87513e07803:21e1d13074974e3fa7c460bfbb13c9c4

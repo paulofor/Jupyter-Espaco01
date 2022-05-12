@@ -2,8 +2,10 @@
 
 dfRuim = df[df['saldoValidacao']<0]
 
-rslt_df = dataframe[(dataframe['Age'] == 21) &
-          dataframe['Stream'].isin(options)]
+rslt_df = dataframe[(dataframe['Age'] == 21) & dataframe['Stream'].isin(options)]
+
+dfJan = df[(df['anoMesNum'] == 202101) & (df['codigoRegraProjecao']=='t10s15vy') ]
+
 
 2- escolher colunas:
 
