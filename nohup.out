@@ -3163,3 +3163,13 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 13:53:06.390 NotebookApp] Starting buffering for 4c86b93e-8626-4209-9f97-7f32c37f3ee5:a3f1ba66d5734fe29a79c0bf4896b8a4
 [I 13:53:08.215 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:9c172e2028bb486f8b0e0aab7d309c01
 [I 13:53:10.613 NotebookApp] Starting buffering for b0ae6807-bdb9-4b4a-bcfa-e87513e07803:21e1d13074974e3fa7c460bfbb13c9c4
+[I 23:19:51.924 NotebookApp] 302 GET / (127.0.0.1) 20.920000ms
+[I 23:20:40.367 NotebookApp] New terminal with automatic name: 2
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 23:21:35.521 NotebookApp] Creating new directory in 
+[I 23:21:55.769 NotebookApp] Creating new notebook in /Iot
+[I 23:22:00.261 NotebookApp] Kernel started: baada2af-6237-4c3a-99d6-7d246a22ffa3, name: python3
+[I 23:24:00.175 NotebookApp] Saving file at /Iot/Tuya - Exemplo.ipynb
+[I 23:27:59.940 NotebookApp] Saving file at /Iot/Tuya - Exemplo.ipynb
+[I 23:29:59.912 NotebookApp] Saving file at /Iot/Tuya - Exemplo.ipynb
+[I 23:30:34.656 NotebookApp] Starting buffering for baada2af-6237-4c3a-99d6-7d246a22ffa3:47cce7e1776c4f6d8d6bc0882385e0da
