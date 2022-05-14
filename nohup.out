@@ -3173,3 +3173,7 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 23:27:59.940 NotebookApp] Saving file at /Iot/Tuya - Exemplo.ipynb
 [I 23:29:59.912 NotebookApp] Saving file at /Iot/Tuya - Exemplo.ipynb
 [I 23:30:34.656 NotebookApp] Starting buffering for baada2af-6237-4c3a-99d6-7d246a22ffa3:47cce7e1776c4f6d8d6bc0882385e0da
+[W 23:11:10.261 NotebookApp] Notebook Curso Python/Merge Dataframe.ipynb is not trusted
+[I 23:11:11.310 NotebookApp] Kernel started: 0809ef6f-3e81-4b8f-9aa3-30eba1a2721f, name: python3
+[I 23:38:34.600 NotebookApp] Saving file at /ajudas-basicas.txt
+[I 23:41:02.733 NotebookApp] Starting buffering for 0809ef6f-3e81-4b8f-9aa3-30eba1a2721f:2b1b23ac6fec43508615f60a1e0d37f7

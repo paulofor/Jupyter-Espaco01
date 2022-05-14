@@ -49,3 +49,9 @@ dfTop5['anoMesNum'] = dfTop5['anoMesNum'].apply(lambda x: pd.to_datetime(str(x),
 --> Grafico
 dfTop5.plot(x="anoMesNum", y=["t10s17vy","t12s17vy","t14s17vy"], 
              figsize=(18,5))
+             
+             
+7- Merge
+
+pd.merge(staff_df,student_df, how='outer' , left_index=True, right_index=True)
+pd.merge(dfMun,dfMunicipio, how='left', left_on='ibge6' ,  right_on='CD_MUN_IBGE')
