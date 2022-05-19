@@ -3177,3 +3177,42 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 23:11:11.310 NotebookApp] Kernel started: 0809ef6f-3e81-4b8f-9aa3-30eba1a2721f, name: python3
 [I 23:38:34.600 NotebookApp] Saving file at /ajudas-basicas.txt
 [I 23:41:02.733 NotebookApp] Starting buffering for 0809ef6f-3e81-4b8f-9aa3-30eba1a2721f:2b1b23ac6fec43508615f60a1e0d37f7
+[I 12:37:28.753 NotebookApp] 302 GET / (127.0.0.1) 530.670000ms
+[W 12:38:04.821 NotebookApp] Notebook ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb is not trusted
+[I 12:40:05.901 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[W 12:40:05.913 NotebookApp] Notebook ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb is not trusted
+[I 12:42:05.833 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[W 12:42:05.833 NotebookApp] Notebook ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb is not trusted
+[I 12:44:05.857 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[W 12:44:05.857 NotebookApp] Notebook ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb is not trusted
+[I 12:46:05.815 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:48:05.801 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:50:05.815 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:52:05.961 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:53:51.308 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[I 12:56:05.865 NotebookApp] Saving file at /ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb
+[W 12:56:34.938 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 13:02:46.586 NotebookApp] Starting buffering for 4c86b93e-8626-4209-9f97-7f32c37f3ee5:a9e91d7ecd68429b85667ae9c5e1bdcf
+[I 13:02:47.648 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:c026880e3b74462381c44a8f82a0aa7b
+[I 14:14:34.766 NotebookApp] Creating new directory in /Curso Python
+[I 14:15:00.664 NotebookApp] Creating new notebook in /Curso Python/Machine Learning
+[I 14:15:10.291 NotebookApp] Kernel started: 01f9a236-dc7e-4415-966a-2d86b4f539a9, name: python3
+[I 14:17:21.865 NotebookApp] Saving file at /Curso Python/Machine Learning/Cluster - Frutas.ipynb
+[I 14:17:58.941 NotebookApp] Uploading file to /Curso Python/Machine Learning/Module1.ipynb
+[W 14:17:58.942 NotebookApp] Notebook Curso Python/Machine Learning/Module1.ipynb is not trusted
+[W 14:18:02.727 NotebookApp] Notebook Curso Python/Machine Learning/Module1.ipynb is not trusted
+[I 14:18:03.595 NotebookApp] Kernel started: 71d8e54b-e9f9-4b92-8d5c-c2a30548084a, name: python3
+[W 14:18:26.386 NotebookApp] 404 GET /notebooks/Curso%20Python/readonly (127.0.0.1): No such file or directory: Curso Python/readonly
+[W 14:18:26.433 NotebookApp] 404 GET /notebooks/Curso%20Python/readonly (127.0.0.1) 62.940000ms referer=None
+[I 14:18:26.484 NotebookApp] Starting buffering for 01f9a236-dc7e-4415-966a-2d86b4f539a9:01c3b6155591460682de9c677334abee
+[I 14:18:37.722 NotebookApp] Creating new directory in /Curso Python/Machine Learning
+[I 14:19:34.586 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[W 14:19:34.594 NotebookApp] Notebook Curso Python/Machine Learning/Module1.ipynb is not trusted
+[I 14:24:04.783 NotebookApp] Uploading file to /Curso Python/Machine Learning/Files (1).zip
+[I 14:25:19.678 NotebookApp] Saving file at /Curso Python/Machine Learning/Files (1).zip
+[I 14:25:58.497 NotebookApp] Uploading file to /Curso Python/Machine Learning/readonly/fruit_data_with_colors.txt
+[W 14:26:08.137 NotebookApp] Notebook Curso Python/Machine Learning/Module1.ipynb is not trusted
+[I 14:28:08.982 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 14:30:10.078 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 14:32:10.437 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 15:03:30.986 NotebookApp] Starting buffering for 71d8e54b-e9f9-4b92-8d5c-c2a30548084a:9a76ca861fda41b39d316d82ef4bfe93
