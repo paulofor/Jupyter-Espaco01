@@ -3216,3 +3216,45 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 14:30:10.078 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
 [I 14:32:10.437 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
 [I 15:03:30.986 NotebookApp] Starting buffering for 71d8e54b-e9f9-4b92-8d5c-c2a30548084a:9a76ca861fda41b39d316d82ef4bfe93
+[I 23:29:16.884 NotebookApp] 302 GET / (127.0.0.1) 512.450000ms
+[I 23:29:39.358 NotebookApp] Creating new notebook in /Exercicios
+[I 23:29:43.555 NotebookApp] Kernel started: 2e46e186-1d86-41c5-a432-c30fae81b4e8, name: python3
+2022-05-19 23:31:00.388127: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-19 23:31:00.388203: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 23:31:49.726 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 23:31:50.762 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+2022-05-19 23:32:38.693985: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-19 23:32:38.714535: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-19 23:32:39.228577: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 23:33:43.816 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+[I 23:34:59.310 NotebookApp] New terminal with automatic name: 3
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 23:35:24.168 NotebookApp] Starting buffering for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
+[I 23:35:27.306 NotebookApp] Kernel restarted: 2e46e186-1d86-41c5-a432-c30fae81b4e8
+[I 23:35:27.402 NotebookApp] Restoring connection for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
+[I 23:35:30.169 NotebookApp] Replaying 3 buffered messages
+[I 23:35:43.163 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+2022-05-19 23:35:50.873146: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-19 23:35:50.873223: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-05-19 23:36:54.034450: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-19 23:36:54.057495: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-19 23:36:55.061282: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 23:37:43.832 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+[I 23:38:54.868 NotebookApp] New terminal with automatic name: 4
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 23:39:12.613 NotebookApp] Starting buffering for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
+[I 23:39:15.448 NotebookApp] Kernel restarted: 2e46e186-1d86-41c5-a432-c30fae81b4e8
+[I 23:39:15.530 NotebookApp] Restoring connection for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
+[I 23:39:18.052 NotebookApp] Replaying 3 buffered messages
+2022-05-19 23:39:35.619599: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-19 23:39:35.619672: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 23:39:45.116 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+2022-05-19 23:40:27.828961: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-19 23:40:27.840956: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-19 23:40:28.098612: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 23:41:43.520 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+[I 23:43:43.120 NotebookApp] Saving file at /Exercicios/Keras.ipynb
+[I 00:19:23.146 NotebookApp] Starting buffering for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
