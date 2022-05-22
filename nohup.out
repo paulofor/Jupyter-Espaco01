@@ -3258,3 +3258,18 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:41:43.520 NotebookApp] Saving file at /Exercicios/Keras.ipynb
 [I 23:43:43.120 NotebookApp] Saving file at /Exercicios/Keras.ipynb
 [I 00:19:23.146 NotebookApp] Starting buffering for 2e46e186-1d86-41c5-a432-c30fae81b4e8:a6ca28c403fa43fc9b25fee9688e9223
+[I 15:06:54.955 NotebookApp] 302 GET / (127.0.0.1) 265.400000ms
+[W 15:07:16.580 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[W 15:08:19.555 NotebookApp] Notebook ResultadoFuturo/Validação de Resultado Futuro - Quantidades Iguais.ipynb is not trusted
+[I 15:09:06.333 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 15:09:08.234 NotebookApp] Kernel started: 9b3eb9fb-38a4-43c6-9638-d5334a4fe7f6, name: python3
+[I 15:11:08.125 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:13:09.477 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:15:09.064 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:19:08.080 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:21:08.059 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:23:08.096 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:25:08.924 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 17:16:52.230 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:4a6414dad7a447ab8db58ac55d8b302f
+[I 17:16:53.256 NotebookApp] Starting buffering for 4c86b93e-8626-4209-9f97-7f32c37f3ee5:00dc2862c6aa40e8a0d5135aa0612e71
+[I 17:16:54.470 NotebookApp] Starting buffering for 9b3eb9fb-38a4-43c6-9638-d5334a4fe7f6:5a22693e30574b7888feb7f7703b6482
