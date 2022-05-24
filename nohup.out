@@ -3273,3 +3273,72 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 17:16:52.230 NotebookApp] Starting buffering for c0c90cd1-0d74-4a80-8fec-95a5d03c112e:4a6414dad7a447ab8db58ac55d8b302f
 [I 17:16:53.256 NotebookApp] Starting buffering for 4c86b93e-8626-4209-9f97-7f32c37f3ee5:00dc2862c6aa40e8a0d5135aa0612e71
 [I 17:16:54.470 NotebookApp] Starting buffering for 9b3eb9fb-38a4-43c6-9638-d5334a4fe7f6:5a22693e30574b7888feb7f7703b6482
+[I 17:06:29.711 NotebookApp] 302 GET / (127.0.0.1) 217.310000ms
+[I 17:06:49.274 NotebookApp] EOF on FD 162; stopping reading
+[I 17:06:49.387 NotebookApp] Terminal 1 closed
+[I 17:06:50.372 NotebookApp] EOF on FD 221; stopping reading
+[I 17:06:50.482 NotebookApp] Terminal 2 closed
+[I 17:06:51.211 NotebookApp] EOF on FD 90; stopping reading
+[I 17:06:51.315 NotebookApp] Terminal 3 closed
+[I 17:06:51.943 NotebookApp] EOF on FD 280; stopping reading
+[I 17:06:52.049 NotebookApp] Terminal 4 closed
+[I 17:06:54.518 NotebookApp] Discarding 1 buffered messages for 4dac8bc4-83ce-4389-9dc9-d04c89550120:31f2afa11fdd410f842eb034788632b3
+[I 17:06:54.715 NotebookApp] Kernel shutdown: 4dac8bc4-83ce-4389-9dc9-d04c89550120
+[I 17:06:55.901 NotebookApp] Kernel shutdown: f072db87-d9f5-4520-828e-cc657c72d8a6
+[I 17:06:56.635 NotebookApp] Discarding 1 buffered messages for 5abba9dc-38f6-48e1-8b28-af5d2af9e11e:8dcb84ef8c594bac948d72f009efa67c
+[I 17:06:56.653 NotebookApp] Kernel shutdown: 5abba9dc-38f6-48e1-8b28-af5d2af9e11e
+[I 17:06:57.139 NotebookApp] Kernel shutdown: afd5bfd9-24bc-4f58-9f24-f53e825a4c4d
+[I 17:06:57.767 NotebookApp] Kernel shutdown: 7be0cec0-bf00-478a-8c19-13c9067eb72e
+[I 17:06:58.537 NotebookApp] Kernel shutdown: c0c90cd1-0d74-4a80-8fec-95a5d03c112e
+[I 17:07:01.294 NotebookApp] Kernel shutdown: 47971535-0752-40bd-8663-c4fe296c534a
+[I 17:07:01.589 NotebookApp] Kernel shutdown: b1fda98b-561b-48ae-989d-56e84c3b7af1
+[I 17:07:01.601 NotebookApp] Kernel shutdown: c38d1aa5-78df-4f82-94b5-d84842885ccf
+[I 17:07:06.948 NotebookApp] Kernel shutdown: a82a2702-02b8-4ebf-9f60-f2c78c27c644
+[I 17:07:07.089 NotebookApp] Kernel shutdown: d9e52d04-6c88-490c-a79a-3f49f044cde3
+[I 17:07:09.840 NotebookApp] Kernel shutdown: 4c86b93e-8626-4209-9f97-7f32c37f3ee5
+[I 17:07:09.841 NotebookApp] Kernel shutdown: 0761c608-d711-4cad-b200-3732ea5cad87
+[I 17:07:09.859 NotebookApp] Kernel shutdown: b0ae6807-bdb9-4b4a-bcfa-e87513e07803
+[I 17:07:09.907 NotebookApp] Kernel shutdown: baada2af-6237-4c3a-99d6-7d246a22ffa3
+[I 17:07:12.582 NotebookApp] Kernel shutdown: 0809ef6f-3e81-4b8f-9aa3-30eba1a2721f
+[I 17:07:15.305 NotebookApp] Kernel shutdown: 9b3eb9fb-38a4-43c6-9638-d5334a4fe7f6
+[I 17:07:15.346 NotebookApp] Kernel shutdown: 2e46e186-1d86-41c5-a432-c30fae81b4e8
+[W 17:07:17.836 NotebookApp] zmq message arrived on closed channel
+[I 17:07:18.028 NotebookApp] Kernel shutdown: 71d8e54b-e9f9-4b92-8d5c-c2a30548084a
+[I 17:07:18.061 NotebookApp] Kernel shutdown: 01f9a236-dc7e-4415-966a-2d86b4f539a9
+[I 17:07:34.702 NotebookApp] Kernel started: dea9d440-91b4-4dc5-8e75-f338fd0bf79e, name: python3
+[I 17:09:35.381 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:09:50.240 NotebookApp] New terminal with automatic name: 1
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[W 17:13:53.792 NotebookApp] Notebook Curso Python/Machine Learning/Files/home/jovyan/work/Module 1.ipynb is not trusted
+[I 17:13:55.559 NotebookApp] Kernel started: 980c7c7f-4950-46bf-9a9b-ffecb595c5e3, name: python3
+[I 17:15:56.082 NotebookApp] Saving file at /Curso Python/Machine Learning/Files/home/jovyan/work/Module 1.ipynb
+[I 17:16:34.819 NotebookApp] Copying Curso Python/Machine Learning/Files/home/jovyan/work/adspy_shared_utilities.py to /Curso Python/Machine Learning/Files/home/jovyan/work
+[I 17:18:38.372 NotebookApp] Saving file at /Curso Python/Machine Learning/adspy_shared_utilities.py
+[I 17:18:46.002 NotebookApp] Starting buffering for 980c7c7f-4950-46bf-9a9b-ffecb595c5e3:735e3b895c614b47bc5a6f5007e4a909
+[I 17:19:34.398 NotebookApp] Saving file at /Curso Python/Machine Learning/adspy_shared_utilities.py
+[I 17:19:44.825 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:20:02.019 NotebookApp] Starting buffering for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 17:20:04.967 NotebookApp] Kernel restarted: dea9d440-91b4-4dc5-8e75-f338fd0bf79e
+[I 17:20:05.115 NotebookApp] Restoring connection for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 17:20:07.794 NotebookApp] Replaying 7 buffered messages
+[IPKernelApp] WARNING | No such comm: a3282a073f004ca5a2b4d80a1c743411
+[IPKernelApp] WARNING | No such comm: ee2dbc4ed5274b668bd14798051543d3
+[I 17:20:34.298 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:21:35.924 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:21:58.930 NotebookApp] Saving file at /Curso Python/Machine Learning/adspy_shared_utilities.py
+[I 17:22:13.859 NotebookApp] Starting buffering for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 17:22:17.842 NotebookApp] Kernel restarted: dea9d440-91b4-4dc5-8e75-f338fd0bf79e
+[I 17:22:18.040 NotebookApp] Restoring connection for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 17:22:21.544 NotebookApp] Replaying 7 buffered messages
+[IPKernelApp] WARNING | No such comm: 8ce526c37d6d4ceca017d4fc63f6e517
+[IPKernelApp] WARNING | No such comm: 5f2a983b21034028a092664dcfc77772
+[IPKernelApp] WARNING | No such comm: 8ce526c37d6d4ceca017d4fc63f6e517
+[IPKernelApp] WARNING | No such comm: 5f2a983b21034028a092664dcfc77772
+[I 17:23:35.786 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:25:01.054 NotebookApp] EOF on FD 36; stopping reading
+[I 17:25:06.515 NotebookApp] Terminal 1 closed
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 17:25:38.821 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 17:27:48.125 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 18:21:47.353 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
+[I 18:52:58.187 NotebookApp] Starting buffering for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
