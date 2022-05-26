@@ -3342,3 +3342,9 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 17:27:48.125 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
 [I 18:21:47.353 NotebookApp] Saving file at /Curso Python/Machine Learning/Module1.ipynb
 [I 18:52:58.187 NotebookApp] Starting buffering for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 11:40:35.576 NotebookApp] 302 GET / (127.0.0.1) 320.710000ms
+[W 11:41:57.651 NotebookApp] Notebook ResultadoFuturo/2022-Mar-Abr-Mai.ipynb is not trusted
+[I 11:41:59.142 NotebookApp] Kernel started: 6f4239c9-c3c5-49db-96a2-86a924b5659b, name: python3
+[I 11:42:23.674 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:43:58.907 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 20:40:14.696 NotebookApp] Discarding 352 buffered messages for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
