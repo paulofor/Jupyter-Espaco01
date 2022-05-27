@@ -3348,3 +3348,29 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 11:42:23.674 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
 [I 11:43:58.907 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
 [I 20:40:14.696 NotebookApp] Discarding 352 buffered messages for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:624807b9892d466f84631f346d4d17b4
+[I 21:34:06.495 NotebookApp] Starting buffering for dea9d440-91b4-4dc5-8e75-f338fd0bf79e:7764d5783889421a9006a1e6e6ef15c2
+[W 00:08:37.051 NotebookApp] Notebook ResultadoFuturo/Análise por Ticker.ipynb is not trusted
+[I 00:08:38.598 NotebookApp] Kernel started: 062dc263-aabf-4bc7-9d6f-3c121f0f09e6, name: python3
+[I 00:08:55.087 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 00:08:57.576 NotebookApp] Kernel started: 2e5c3e68-49ca-4d9a-94c8-a77e73706234, name: python3
+[I 00:10:57.927 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:12:58.241 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:14:57.826 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:16:57.610 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:18:57.550 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:20:57.550 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:24:57.530 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 00:27:52.087 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 00:29:52.083 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 00:31:52.084 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 01:04:39.363 NotebookApp] Starting buffering for 6f4239c9-c3c5-49db-96a2-86a924b5659b:d237bcc76c5343f683dd4192acbf4f3e
+[I 01:06:03.762 NotebookApp] Starting buffering for 062dc263-aabf-4bc7-9d6f-3c121f0f09e6:c92efa0c23164d998cd5acc42edef406
+[I 01:22:17.379 NotebookApp] Starting buffering for 2e5c3e68-49ca-4d9a-94c8-a77e73706234:6e7a0cc9914d412f8d4f2757c6cdf42a
+[I 11:27:14.918 NotebookApp] 302 GET / (127.0.0.1) 394.040000ms
+[W 11:27:41.866 NotebookApp] Notebook ResultadoFuturo/2022-Mar-Abr-Mai.ipynb is not trusted
+[I 11:29:43.375 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:31:43.283 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:33:43.271 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:35:43.236 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:37:44.217 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 11:37:55.335 NotebookApp] Starting buffering for 6f4239c9-c3c5-49db-96a2-86a924b5659b:9821d686060f4938bfc6d764dbf7e036
