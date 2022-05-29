@@ -3377,3 +3377,49 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [I 00:58:47.488 NotebookApp] 302 GET / (127.0.0.1) 177.420000ms
 [I 00:59:51.920 NotebookApp] Kernel started: 17545a88-040c-4aec-b4aa-c61364d53ccc, name: python3
 [I 01:07:20.728 NotebookApp] Starting buffering for 17545a88-040c-4aec-b4aa-c61364d53ccc:0d3b8228432c4284876b3bf83494c81a
+[I 00:23:13.979 NotebookApp] 302 GET / (127.0.0.1) 346.680000ms
+[I 00:23:14.600 NotebookApp] 302 GET /tree? (127.0.0.1) 248.170000ms
+[I 00:25:03.868 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 90.890000ms
+[W 00:25:25.209 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 00:25:26.178 NotebookApp] Kernel started: ecb4cffe-67f3-49bf-a35d-ebffddcf6371, name: python3
+[I 00:33:25.918 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 00:33:25.938 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 00:33:44.020 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 00:33:44.023 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 00:33:59.798 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-28 00:34:09.702874: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-28 00:34:09.702962: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 00:34:18.565 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:ad07a4eb6f7f4bb5b2f025485879bfc0
+[I 00:34:21.621 NotebookApp] Kernel restarted: ecb4cffe-67f3-49bf-a35d-ebffddcf6371
+[I 00:34:21.740 NotebookApp] Restoring connection for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:ad07a4eb6f7f4bb5b2f025485879bfc0
+[I 00:34:25.029 NotebookApp] Replaying 6 buffered messages
+2022-05-28 00:34:31.176072: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-28 00:34:31.176126: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 00:35:25.974 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:37:26.780 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-28 00:39:08.020609: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-28 00:39:08.031632: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-28 00:39:08.155374: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-05-28 00:39:11.266784: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14400000 exceeds 10% of free system memory.
+2022-05-28 00:39:11.648623: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14400000 exceeds 10% of free system memory.
+2022-05-28 00:39:11.894968: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14400000 exceeds 10% of free system memory.
+2022-05-28 00:39:12.414173: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 8000000 exceeds 10% of free system memory.
+2022-05-28 00:39:12.446438: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 8000000 exceeds 10% of free system memory.
+[I 00:39:26.816 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:41:28.249 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:43:34.994 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:46:03.094 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:49:19.898 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:52:46.841 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 00:56:29.493 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:00:12.315 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:03:51.156 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:07:32.519 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:14:55.252 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:18:29.713 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:22:17.168 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:25:53.558 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:29:32.587 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 01:33:08.982 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 04:00:50.019 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:ad07a4eb6f7f4bb5b2f025485879bfc0
