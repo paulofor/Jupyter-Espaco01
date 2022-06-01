@@ -3643,3 +3643,84 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 04:53:01.500 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 04:53:02.811 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:315e6096eb304fd4927eaec87be39d26
 [I 08:00:43.829 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 08:39:46.831 NotebookApp] 302 GET / (127.0.0.1) 615.700000ms
+[W 08:40:15.825 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 08:40:16.704 NotebookApp] Discarding 1 buffered messages for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:ab35cc59149e43a88840be1ec9fd6a75
+[I 08:42:16.567 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 08:42:16.579 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 08:42:38.393 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 08:42:38.394 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 08:43:14.587 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:b9686cecfba5419581131e3ae1d927a8
+[I 08:43:17.303 NotebookApp] Kernel restarted: ecb4cffe-67f3-49bf-a35d-ebffddcf6371
+[I 08:43:17.392 NotebookApp] Restoring connection for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:b9686cecfba5419581131e3ae1d927a8
+[I 08:43:20.047 NotebookApp] Replaying 3 buffered messages
+2022-05-31 08:43:29.804588: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-31 08:43:29.804671: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 08:44:17.852 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:46:18.644 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-31 08:48:10.399559: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-31 08:48:10.417425: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-31 08:48:10.901176: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-05-31 08:48:18.904275: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+2022-05-31 08:48:19.554929: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+2022-05-31 08:48:20.181671: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[I 08:48:21.799 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:50:22.059 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-31 08:50:45.558477: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 38016000 exceeds 10% of free system memory.
+2022-05-31 08:51:17.782355: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 6480000 exceeds 10% of free system memory.
+[I 08:52:18.665 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:53:33.733 NotebookApp] Kernel interrupted: ecb4cffe-67f3-49bf-a35d-ebffddcf6371
+[I 08:54:16.826 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:55:02.510 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:57:10.800 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ecb4cffe-67f3-49bf-a35d-ebffddcf6371 restarted
+[I 08:57:11.489 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 08:57:26.289 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:b9686cecfba5419581131e3ae1d927a8
+[I 08:57:26.637 NotebookApp] Kernel restarted: ecb4cffe-67f3-49bf-a35d-ebffddcf6371
+[I 08:57:26.840 NotebookApp] Restoring connection for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:b9686cecfba5419581131e3ae1d927a8
+[I 08:57:27.901 NotebookApp] Replaying 3 buffered messages
+[I 08:57:50.796 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+2022-05-31 08:58:07.808689: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-05-31 08:58:07.808775: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-05-31 09:02:35.269934: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-05-31 09:02:35.304764: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-05-31 09:02:35.991627: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-05-31 09:02:39.765072: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-05-31 09:02:40.001292: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-05-31 09:02:40.113092: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-05-31 09:02:40.814879: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+2022-05-31 09:02:40.829560: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+[I 09:06:26.950 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[I 09:09:55.108 NotebookApp] 302 GET / (127.0.0.1) 724.480000ms
+[I 09:11:10.327 NotebookApp] Uploading file to /tensorflow-1-public-main.zip
+[I 09:14:14.908 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel ecb4cffe-67f3-49bf-a35d-ebffddcf6371 restarted
+[I 09:15:31.641 NotebookApp] Saving file at /Sisacao/PrimeiraRede.ipynb
+[W 09:17:05.995 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 10:59:11.157 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:b9686cecfba5419581131e3ae1d927a8
+[I 13:45:10.479 NotebookApp] 302 GET / (127.0.0.1) 8.270000ms
+[I 13:45:21.664 NotebookApp] Creating new notebook in /Validador
+[I 13:45:24.208 NotebookApp] Kernel started: 78ac4b9b-7f3c-456b-9e59-73685f2e51a2, name: python3
+[W 13:46:17.941 NotebookApp] Notebook ResultadoFuturo/2022-Mar-Abr-Mai.ipynb is not trusted
+[I 13:47:24.011 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 13:49:24.656 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 13:51:24.007 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 13:53:24.005 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 13:55:24.626 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 13:57:24.601 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 14:19:48.683 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 14:19:53.693 NotebookApp] Starting buffering for 6f4239c9-c3c5-49db-96a2-86a924b5659b:ef04c92508544ed4a79941767dd08ea0
+[W 14:19:58.056 NotebookApp] WebSocket ping timeout after 119977 ms.
+[I 14:20:03.057 NotebookApp] Starting buffering for 78ac4b9b-7f3c-456b-9e59-73685f2e51a2:1ccf7cce652a4262835ab8d23715e8fb
+[I 14:22:15.426 NotebookApp] Restoring connection for 78ac4b9b-7f3c-456b-9e59-73685f2e51a2:1ccf7cce652a4262835ab8d23715e8fb
+[I 14:22:15.506 NotebookApp] Restoring connection for 6f4239c9-c3c5-49db-96a2-86a924b5659b:ef04c92508544ed4a79941767dd08ea0
+[I 15:22:17.869 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:22:33.891 NotebookApp] Starting buffering for 6f4239c9-c3c5-49db-96a2-86a924b5659b:ef04c92508544ed4a79941767dd08ea0
+[I 15:22:37.006 NotebookApp] Kernel restarted: 6f4239c9-c3c5-49db-96a2-86a924b5659b
+[I 15:22:37.119 NotebookApp] Restoring connection for 6f4239c9-c3c5-49db-96a2-86a924b5659b:ef04c92508544ed4a79941767dd08ea0
+[I 15:22:41.266 NotebookApp] Replaying 3 buffered messages
+[I 15:24:17.831 NotebookApp] Saving file at /ResultadoFuturo/2022-Mar-Abr-Mai.ipynb
+[I 15:29:43.264 NotebookApp] Starting buffering for 78ac4b9b-7f3c-456b-9e59-73685f2e51a2:1ccf7cce652a4262835ab8d23715e8fb
+[I 15:32:52.496 NotebookApp] Starting buffering for 6f4239c9-c3c5-49db-96a2-86a924b5659b:ef04c92508544ed4a79941767dd08ea0
