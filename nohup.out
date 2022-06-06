@@ -3850,3 +3850,29 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 15:59:54.481 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 18:15:23.564 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:bbec3dddcaf347ac80ccc1f63149f71b
 [I 18:15:24.589 NotebookApp] Starting buffering for bef2628f-66ca-4d34-b405-63a7eaf32885:847ff3e5b457486c8750537596d797d7
+[I 23:19:56.294 NotebookApp] 302 GET / (127.0.0.1) 22.940000ms
+[W 23:20:04.353 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:22:04.962 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:22:04.980 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:24:04.920 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:24:04.920 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:26:05.489 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:26:05.490 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:30:05.418 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:30:05.419 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[W 23:32:37.554 NotebookApp] Notebook Validador/Melhores Maio-22.ipynb is not trusted
+[I 23:34:04.841 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:34:04.841 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:36:04.800 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:36:04.800 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:40:04.760 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:40:04.761 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:42:04.763 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:42:04.763 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:44:04.723 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:44:04.723 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:46:05.252 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[W 23:46:05.253 NotebookApp] Notebook Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb is not trusted
+[I 23:48:10.384 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
+[I 23:50:13.299 NotebookApp] Starting buffering for 9407a12c-af26-4198-8983-d40447d9e509:a740a9520dfb4996bc17d682fa0de9d5
+[I 23:50:13.981 NotebookApp] Starting buffering for 78ac4b9b-7f3c-456b-9e59-73685f2e51a2:26cd1341af42480b885a7f26957c416e
