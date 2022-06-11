@@ -3876,3 +3876,41 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:48:10.384 NotebookApp] Saving file at /Validador/Ticker que vai bem em um período segue bem em outro ?.ipynb
 [I 23:50:13.299 NotebookApp] Starting buffering for 9407a12c-af26-4198-8983-d40447d9e509:a740a9520dfb4996bc17d682fa0de9d5
 [I 23:50:13.981 NotebookApp] Starting buffering for 78ac4b9b-7f3c-456b-9e59-73685f2e51a2:26cd1341af42480b885a7f26957c416e
+[I 01:02:19.558 NotebookApp] 302 GET / (127.0.0.1) 271.270000ms
+[I 01:02:37.950 NotebookApp] Creating new directory in 
+[I 01:03:17.133 NotebookApp] Uploading file to /TensorFlow-Docs/beginner.ipynb
+[W 01:03:17.375 NotebookApp] Notebook TensorFlow-Docs/beginner.ipynb is not trusted
+[W 01:03:22.079 NotebookApp] Notebook TensorFlow-Docs/beginner.ipynb is not trusted
+[I 01:03:22.959 NotebookApp] Kernel started: 3df5bbb0-8ea5-400d-a1c4-92603eeb8ad9, name: python3
+2022-06-10 01:03:52.564973: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-06-10 01:03:52.565029: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 01:05:37.893 NotebookApp] Saving file at /TensorFlow-Docs/beginner.ipynb
+[I 01:05:40.619 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+2022-06-10 01:07:01.049553: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-06-10 01:07:01.122470: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-06-10 01:07:01.644067: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 01:08:40.961 NotebookApp] Saving file at /TensorFlow-Docs/beginner.ipynb
+[I 01:22:36.524 NotebookApp] Starting buffering for 3df5bbb0-8ea5-400d-a1c4-92603eeb8ad9:b357f0bb6f1846a698e3a44e302e058d
+[I 10:51:48.377 NotebookApp] 302 GET / (127.0.0.1) 310.540000ms
+[W 10:52:04.658 NotebookApp] Notebook Sisacao/Executador de primeira.ipynb is not trusted
+[I 10:52:12.937 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:763702ad29ae46359dac8cddd5a058e7
+[I 10:52:15.747 NotebookApp] Kernel restarted: cd711d2f-27d0-409a-80ce-26f26bb1e21d
+[I 10:52:15.831 NotebookApp] Restoring connection for cd711d2f-27d0-409a-80ce-26f26bb1e21d:763702ad29ae46359dac8cddd5a058e7
+[W 10:52:19.445 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb04e71cbb0>
+[I 10:52:19.457 NotebookApp] Replaying 3 buffered messages
+2022-06-10 10:52:30.086096: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-06-10 10:52:30.086166: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 10:54:06.078 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+2022-06-10 10:54:23.510525: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-06-10 10:54:23.585295: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-06-10 10:54:24.243969: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-06-10 10:54:29.638476: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-10 10:54:30.381237: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-10 10:54:30.607353: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-10 10:54:31.292507: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+2022-06-10 10:54:31.304627: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+[I 10:56:05.061 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:58:06.364 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:59:35.696 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:763702ad29ae46359dac8cddd5a058e7
