@@ -3914,3 +3914,6 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 10:56:05.061 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 10:58:06.364 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 10:59:35.696 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:763702ad29ae46359dac8cddd5a058e7
+[I 15:20:07.194 NotebookApp] 302 GET / (127.0.0.1) 205.960000ms
+[W 15:20:48.714 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 19:54:51.432 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:eef570bd41a74f039ed8f36a0cdbc520
