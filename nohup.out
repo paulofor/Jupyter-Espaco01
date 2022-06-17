@@ -3917,3 +3917,11 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 15:20:07.194 NotebookApp] 302 GET / (127.0.0.1) 205.960000ms
 [W 15:20:48.714 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
 [I 19:54:51.432 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:eef570bd41a74f039ed8f36a0cdbc520
+[I 17:32:29.227 NotebookApp] 302 GET / (127.0.0.1) 206.600000ms
+[I 17:33:50.744 NotebookApp] Uploading file to /Sisacao/treino1.ipynb
+[W 17:33:58.508 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 103.840000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[I 17:33:58.801 NotebookApp] Kernel started: e7872447-8e90-445d-9a23-3dbfbdde57ac, name: python3
+[I 17:35:59.059 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[W 17:36:37.934 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 18:14:57.398 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:9f90297d55fd42bd8c2af6d653c39ffc
+[I 18:14:57.845 NotebookApp] Starting buffering for e7872447-8e90-445d-9a23-3dbfbdde57ac:5c49e92d1d2341fe98c0f740907cb448
