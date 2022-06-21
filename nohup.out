@@ -3925,3 +3925,69 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [W 17:36:37.934 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
 [I 18:14:57.398 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:9f90297d55fd42bd8c2af6d653c39ffc
 [I 18:14:57.845 NotebookApp] Starting buffering for e7872447-8e90-445d-9a23-3dbfbdde57ac:5c49e92d1d2341fe98c0f740907cb448
+[I 08:17:42.663 NotebookApp] 302 GET / (127.0.0.1) 239.430000ms
+[I 08:17:57.012 NotebookApp] Kernel shutdown: e7872447-8e90-445d-9a23-3dbfbdde57ac
+[W 08:17:57.214 NotebookApp] delete /Sisacao/treino1.ipynb
+[I 08:18:20.665 NotebookApp] Uploading file to /Sisacao/treino1.ipynb
+[E 08:18:21.111 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': ['# Importacoes']}
+[E 08:18:25.573 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': '# Importacoes'}
+[W 08:18:25.965 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 58.490000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[I 08:18:26.074 NotebookApp] Kernel started: c9becd4e-09ad-4de9-973d-1d509ccdee80, name: python3
+2022-06-20 08:18:58.611904: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-06-20 08:18:58.611988: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[W 08:20:21.678 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 08:20:26.579 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:20:40.994 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:7d3149d5993c4cb28c8194ec5c177a84
+[I 08:22:26.763 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:24:26.471 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:33:59.677 NotebookApp] Kernel interrupted: c9becd4e-09ad-4de9-973d-1d509ccdee80
+[I 08:34:03.316 NotebookApp] Starting buffering for c9becd4e-09ad-4de9-973d-1d509ccdee80:04f37009cc5047eea7ff60775afb1843
+[I 08:34:10.231 NotebookApp] Kernel shutdown: c9becd4e-09ad-4de9-973d-1d509ccdee80
+[W 08:34:10.250 NotebookApp] delete /Sisacao/treino1.ipynb
+[I 08:34:33.300 NotebookApp] Uploading file to /Sisacao/treino1.ipynb
+[E 08:34:33.328 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': ['# Importacoes']}
+[E 08:34:38.025 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': '# Importacoes'}
+[W 08:34:38.475 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 66.150000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[I 08:34:38.573 NotebookApp] Kernel started: 06f844c3-5ff9-4cf1-aa0e-f5efa4eb86f3, name: python3
+2022-06-20 08:35:06.115660: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-06-20 08:35:06.115776: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 08:36:40.378 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:42:17.271 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[I 08:42:41.373 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:46:39.318 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:48:45.714 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:50:38.245 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 10:12:16.747 NotebookApp] Starting buffering for 06f844c3-5ff9-4cf1-aa0e-f5efa4eb86f3:ecd0925f7bdf4a1e9de859a961afe8dc
+[I 10:12:17.454 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:9cab5c7b5e0b4d29b7457e8d3357c98c
