@@ -3991,3 +3991,85 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 08:50:38.245 NotebookApp] Saving file at /Sisacao/treino1.ipynb
 [I 10:12:16.747 NotebookApp] Starting buffering for 06f844c3-5ff9-4cf1-aa0e-f5efa4eb86f3:ecd0925f7bdf4a1e9de859a961afe8dc
 [I 10:12:17.454 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:9cab5c7b5e0b4d29b7457e8d3357c98c
+[I 08:14:01.271 NotebookApp] 302 GET / (127.0.0.1) 189.030000ms
+[I 08:18:56.976 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[E 08:18:57.268 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': ['# Importacoes']}
+[E 08:19:02.968 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': '# Importacoes'}
+[W 08:19:03.418 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 33.910000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[W 08:20:01.576 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+[I 08:21:03.705 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:34:13.927 NotebookApp] Starting buffering for 06f844c3-5ff9-4cf1-aa0e-f5efa4eb86f3:92aa70f3e3b8494980de07d06aa46301
+[I 08:34:30.306 NotebookApp] Kernel shutdown: 06f844c3-5ff9-4cf1-aa0e-f5efa4eb86f3
+[W 08:34:30.320 NotebookApp] delete /Sisacao/treino1.ipynb
+[I 08:34:53.683 NotebookApp] Uploading file to /Sisacao/treino1.ipynb
+[E 08:34:53.702 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': ['# Importacoes']}
+[E 08:34:58.210 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': '# Importacoes'}
+[I 08:34:58.793 NotebookApp] Kernel started: 3f05201b-6a82-4364-96fa-a9c8ae8c9567, name: python3
+[W 08:34:58.804 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 8.840000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[I 08:36:17.861 NotebookApp] Starting buffering for 3f05201b-6a82-4364-96fa-a9c8ae8c9567:faffd46b63c84884a659816f58991ee1
+[I 08:36:31.934 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[E 08:36:31.972 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': ['# Importacoes']}
+[E 08:36:36.095 NotebookApp] Notebook JSON is invalid: Additional properties are not allowed ('outputs' was unexpected)
+    
+    Failed validating 'additionalProperties' in markdown_cell:
+    
+    On instance['cells'][0]:
+    {'cell_type': 'markdown',
+     'metadata': {},
+     'outputs': ['...0 outputs...'],
+     'source': '# Importacoes'}
+[W 08:36:36.704 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20220104132755 (127.0.0.1) 6.870000ms referer=http://localhost:8888/notebooks/Sisacao/treino1.ipynb
+[I 08:38:37.566 NotebookApp] Saving file at /Sisacao/treino1.ipynb
+[I 08:55:07.283 NotebookApp] Uploading file to /Sisacao/rede2.h5
+[I 08:56:10.975 NotebookApp] Saving file at /Sisacao/rede2.h5
+[I 08:58:20.962 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:19:52.505 NotebookApp] Starting buffering for ecb4cffe-67f3-49bf-a35d-ebffddcf6371:4b0bee7b380742e38b76a1ce58bbfbdc
+[I 10:19:53.548 NotebookApp] Starting buffering for 3f05201b-6a82-4364-96fa-a9c8ae8c9567:4253aef503164e4ab309295ac07be002
+[I 10:19:54.468 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:c13c2b02e16b4d04870462fa4c56394a
+[I 10:27:16.424 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:29:17.290 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:53:16.446 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 10:55:16.262 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 11:03:16.250 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 11:05:17.237 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 11:06:26.195 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:def337b6356241378e75dcb922e8d097
