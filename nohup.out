@@ -4073,3 +4073,6 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 11:03:16.250 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 11:05:17.237 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 11:06:26.195 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:def337b6356241378e75dcb922e8d097
+[I 05:17:38.682 NotebookApp] 302 GET / (127.0.0.1) 122.770000ms
+[I 05:19:50.583 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 06:14:55.238 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:9e2b4ff5ab9045888bcfa0a87b318701
