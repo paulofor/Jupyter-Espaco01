@@ -4084,3 +4084,63 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 08:05:43.328 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 08:09:43.714 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 08:30:56.463 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:89d959e331914f7bacb03cfdcf97f019
+[I 23:31:05.706 NotebookApp] 302 GET / (127.0.0.1) 182.190000ms
+[I 23:31:31.579 NotebookApp] Creating new notebook in /Sisacao
+[I 23:31:33.089 NotebookApp] Kernel started: 0e1eddb3-b332-4b53-8f12-57dd2ec43e45, name: python3
+[I 23:33:33.339 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-06-23 23:33:31.590846: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-06-23 23:33:31.590929: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 23:35:34.530 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 23:37:33.005 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 23:39:32.940 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 23:41:32.965 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 00:09:33.856 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 00:11:06.071 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:63efd0576b764a74b0d3994e0668252b
+[W 00:11:15.463 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:13:16.756 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:13:16.761 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:19:16.658 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:19:16.667 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:21:15.721 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:21:15.721 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:23:15.720 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:23:15.722 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+2022-06-24 00:23:51.329876: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-06-24 00:23:51.352206: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-06-24 00:23:51.819650: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-06-24 00:23:56.324395: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-24 00:23:57.252259: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-24 00:23:57.723074: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 7200000 exceeds 10% of free system memory.
+2022-06-24 00:23:58.636351: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+2022-06-24 00:23:58.646621: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 2000000 exceeds 10% of free system memory.
+[I 00:25:17.117 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:25:17.469 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:27:27.818 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:27:28.027 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:29:39.693 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:29:39.704 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:32:01.922 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:32:02.101 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:34:08.401 NotebookApp] Starting buffering for cd711d2f-27d0-409a-80ce-26f26bb1e21d:67d15e76e73a4aae80357ebd2f1b3778
+[I 00:34:17.061 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:34:17.062 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:34:20.172 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[W 00:34:20.173 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 00:34:22.824 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:37adec89a6bb427f85ae24596231ab1d
+[I 09:42:47.750 NotebookApp] 302 GET / (127.0.0.1) 432.360000ms
+[W 09:43:04.549 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 09:50:39.615 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 0e1eddb3-b332-4b53-8f12-57dd2ec43e45 restarted
+[W 09:50:46.157 NotebookApp] WebSocket ping timeout after 220895 ms.
+[I 09:50:46.545 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:58da5778e5a041d387af921fc4b2cf43
+[I 09:50:51.392 NotebookApp] Restoring connection for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:58da5778e5a041d387af921fc4b2cf43
+[W 09:50:56.473 NotebookApp] Nudge: attempt 10 on kernel 0e1eddb3-b332-4b53-8f12-57dd2ec43e45
+[W 09:50:58.647 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb050739610>
+[W 09:50:58.651 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fb050739610>
+[I 09:54:37.828 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:58da5778e5a041d387af921fc4b2cf43
+[W 10:11:05.808 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 16:00:57.960 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:a95ea68c9f19493790c08b8a1e98e9dc
+[I 20:06:15.396 NotebookApp] 302 GET / (127.0.0.1) 161.500000ms
+[W 20:06:29.687 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 20:08:00.118 NotebookApp] Starting buffering for 0e1eddb3-b332-4b53-8f12-57dd2ec43e45:e0423abb73dc46e58bfd967ecda7547d
