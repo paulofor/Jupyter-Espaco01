@@ -4812,3 +4812,52 @@ WARNING:root:kernel 0e1eddb3-b332-4b53-8f12-57dd2ec43e45 restarted
 [I 21:37:13.046 NotebookApp] Kernel shutdown: 3f05201b-6a82-4364-96fa-a9c8ae8c9567
 [I 21:37:13.083 NotebookApp] Kernel shutdown: 0e1eddb3-b332-4b53-8f12-57dd2ec43e45
 [I 21:37:13.278 NotebookApp] Shutting down 0 terminals
+[I 23:19:13.737 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 23:19:13.740 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 23:19:13.740 NotebookApp] http://localhost:8970/?token=207e0d3c58e18ff3b47b0ba21c133b55909c99ff009a6020
+[I 23:19:13.740 NotebookApp]  or http://127.0.0.1:8970/?token=207e0d3c58e18ff3b47b0ba21c133b55909c99ff009a6020
+[I 23:19:13.740 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:19:13.748 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-44934-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=207e0d3c58e18ff3b47b0ba21c133b55909c99ff009a6020
+     or http://127.0.0.1:8970/?token=207e0d3c58e18ff3b47b0ba21c133b55909c99ff009a6020
+[I 23:19:42.632 NotebookApp] 302 GET / (127.0.0.1) 1.010000ms
+[I 23:19:42.655 NotebookApp] 302 GET /tree? (127.0.0.1) 1.270000ms
+[W 23:21:09.948 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.810000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 23:21:28.437 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.370000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 23:22:23.048 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.860000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[W 23:22:27.227 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 1.670000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 23:23:09.296 NotebookApp] The port 8970 is already in use, trying another port.
+[I 23:23:09.299 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 23:23:09.300 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 23:23:09.300 NotebookApp] http://localhost:8971/?token=a951f25063dc0d392fef585d8c99cc132c3a7fb527143d00
+[I 23:23:09.300 NotebookApp]  or http://127.0.0.1:8971/?token=a951f25063dc0d392fef585d8c99cc132c3a7fb527143d00
+[I 23:23:09.300 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:23:09.306 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-45212-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8971/?token=a951f25063dc0d392fef585d8c99cc132c3a7fb527143d00
+     or http://127.0.0.1:8971/?token=a951f25063dc0d392fef585d8c99cc132c3a7fb527143d00
+[W 23:23:22.872 NotebookApp] 401 POST /login?next=%2Ftree%3F (127.0.0.1) 2.000000ms referer=http://localhost:8888/login?next=%2Ftree%3F
+[I 23:24:47.597 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.580000ms
+[W 23:25:06.092 NotebookApp] Notebook Sisacao/PrimeiraRede.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f7484509160>(<Future finis...978"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f7484509160>(<Future finis...978"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-44' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...6978"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:336>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f74863f1cd0>(<Future finis...978"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f74863f1cd0>(<Future finis...978"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-43' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...6978"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 23:25:06.810 NotebookApp] Kernel started: bf1f8c97-26ed-429d-b447-edd0ca492e42, name: python3
+[I 23:36:45.275 NotebookApp] Kernel interrupted: bf1f8c97-26ed-429d-b447-edd0ca492e42
+[I 23:36:48.523 NotebookApp] Starting buffering for bf1f8c97-26ed-429d-b447-edd0ca492e42:48383cd9ad2946d98f93786edb5be570
