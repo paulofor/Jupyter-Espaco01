@@ -4908,3 +4908,5 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 2022-06-29 11:23:12.408869: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
 [I 11:24:02.717 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
 [I 14:45:41.782 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:dca0578a684240ff8f6cefd4914263ee
+[I 08:07:51.730 NotebookApp] 302 GET / (127.0.0.1) 259.990000ms
+[I 11:20:52.051 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:0e270735a7904044b6dc940b5fe27a45
