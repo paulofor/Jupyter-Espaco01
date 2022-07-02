@@ -4910,3 +4910,199 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 14:45:41.782 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:dca0578a684240ff8f6cefd4914263ee
 [I 08:07:51.730 NotebookApp] 302 GET / (127.0.0.1) 259.990000ms
 [I 11:20:52.051 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:0e270735a7904044b6dc940b5fe27a45
+[I 00:32:21.662 NotebookApp] 302 GET / (127.0.0.1) 210.420000ms
+[I 09:24:29.883 NotebookApp] 302 GET / (127.0.0.1) 45.810000ms
+[I 09:25:05.326 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:25:08.033 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:25:08.090 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:25:10.736 NotebookApp] Replaying 3 buffered messages
+2022-07-01 09:25:14.834713: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 09:25:14.834781: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 09:26:41.427 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:28:40.928 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:30:41.254 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 09:31:09.038476: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 09:31:09.050402: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 09:31:09.111931: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 09:31:10.386330: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:31:10.596613: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:31:10.771011: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:31:11.071001: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 09:31:11.102659: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 09:32:41.235 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:33:00.981 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:33:04.094 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:33:04.374 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:33:07.403 NotebookApp] Replaying 3 buffered messages
+[I 09:33:20.738 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:33:21.070 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:33:21.129 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:33:22.096 NotebookApp] Replaying 3 buffered messages
+2022-07-01 09:33:29.427394: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 09:33:29.427463: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 09:33:45.173 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 09:34:20.179661: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 09:34:20.187178: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 09:34:20.254066: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 09:34:21.221913: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:34:21.507673: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:34:21.643492: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:34:22.097512: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 09:34:22.151383: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 09:34:42.140 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:40:41.239 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:42:40.816 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:43:55.279 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:43:58.660 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:43:58.884 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:44:01.797 NotebookApp] Replaying 3 buffered messages
+[I 09:44:08.383 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:44:08.728 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:44:08.785 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:44:09.799 NotebookApp] Replaying 3 buffered messages
+2022-07-01 09:44:14.305277: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 09:44:14.305334: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 09:44:40.899 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 09:45:36.196452: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 09:45:36.220216: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 09:45:36.321479: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 09:45:37.760028: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:45:37.883864: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:45:37.907908: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:45:38.069963: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 09:45:38.101108: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 09:46:41.260 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:48:10.472 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:48:13.384 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:48:13.519 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:48:15.774 NotebookApp] Replaying 3 buffered messages
+2022-07-01 09:48:17.983099: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 09:48:17.983163: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 09:48:25.390 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:48:40.715 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 09:49:07.720334: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 09:49:07.728873: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 09:49:07.792074: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 09:49:09.200402: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:49:09.470130: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:49:09.620085: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:49:10.303278: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 09:49:10.341873: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 09:50:41.172 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:51:33.139 NotebookApp] Kernel interrupted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:52:41.049 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:54:40.759 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 09:56:31.338 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:56:34.111 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 09:56:34.240 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 09:56:36.543 NotebookApp] Replaying 3 buffered messages
+[I 09:56:40.637 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 09:57:28.471123: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 09:57:28.471220: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-07-01 09:58:06.893757: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 09:58:06.902495: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 09:58:06.951241: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 09:58:08.201174: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:58:08.374713: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:58:08.549814: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 09:58:09.072784: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 09:58:09.115755: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 09:58:41.453 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:00:41.115 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:04:40.981 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:05:03.156 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:05:06.077 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 10:05:06.351 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:05:09.684 NotebookApp] Replaying 3 buffered messages
+2022-07-01 10:05:13.446194: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 10:05:13.446263: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-07-01 10:05:53.311113: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 10:05:53.329767: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 10:05:53.479603: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 10:05:55.143941: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:05:55.342141: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:05:55.608367: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:05:56.315200: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 10:05:56.348362: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 10:06:41.382 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:08:40.960 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:09:46.413 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:09:49.365 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 10:09:49.521 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:09:53.063 NotebookApp] Replaying 3 buffered messages
+2022-07-01 10:10:00.615694: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 10:10:00.615747: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 10:10:40.934 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 10:10:47.047825: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 10:10:47.053803: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 10:10:47.099232: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 10:10:47.847455: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:10:48.034828: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:10:48.135077: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:10:48.513715: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 10:10:48.540870: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 10:12:41.045 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:14:20.381 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:14:32.506 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:14:35.363 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 10:14:35.587 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:14:38.298 NotebookApp] Replaying 3 buffered messages
+[I 10:14:40.475 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 10:14:40.733580: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 10:14:40.733653: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-07-01 10:15:18.526868: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 10:15:18.537596: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 10:15:18.644656: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 10:15:20.077721: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:15:20.196642: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:15:20.457615: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:15:21.249039: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 10:15:21.355069: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 10:16:41.941 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:20:41.436 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:22:40.901 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:24:40.413 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:25:12.007 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 10:25:19.137 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:25:22.128 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 10:25:22.358 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 10:25:25.527 NotebookApp] Replaying 3 buffered messages
+2022-07-01 10:25:45.650898: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 10:25:45.650967: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-07-01 10:26:42.212936: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 10:26:42.239679: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 10:26:42.453787: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 10:26:42.678 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+2022-07-01 10:26:45.170555: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:26:45.523484: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:26:45.809353: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 10:26:46.193636: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 10:26:46.224483: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 10:28:40.741 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 11:44:47.040 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 11:44:50.241 NotebookApp] Kernel restarted: b7893132-ee7e-4787-9478-5e845df72650
+[I 11:44:50.574 NotebookApp] Restoring connection for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
+[I 11:44:53.102 NotebookApp] Replaying 3 buffered messages
+2022-07-01 11:45:03.605741: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-01 11:45:03.605810: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-07-01 11:45:40.498857: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-01 11:45:40.507303: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-01 11:45:40.570502: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-01 11:45:41.675072: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 11:45:41.946860: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 11:45:42.183708: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-07-01 11:45:42.848966: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-07-01 11:45:42.884761: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 11:46:40.227 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 11:48:40.183 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
+[I 12:58:26.873 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:09e63d1cd8d648ef8714af9fda094030
