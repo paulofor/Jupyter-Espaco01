@@ -5156,3 +5156,12 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:08:13.037 NotebookApp] Kernel restarted: 0a46eed0-5bf4-4aad-a3c0-864e1eecb813
 [I 23:08:13.109 NotebookApp] Restoring connection for 0a46eed0-5bf4-4aad-a3c0-864e1eecb813:9ff9cd518a4848c78d23fa317cb9c683
 [I 23:08:16.134 NotebookApp] Replaying 3 buffered messages
+[I 00:12:02.030 NotebookApp] Starting buffering for 0a46eed0-5bf4-4aad-a3c0-864e1eecb813:9ff9cd518a4848c78d23fa317cb9c683
+[I 23:33:36.198 NotebookApp] 302 GET / (127.0.0.1) 209.880000ms
+[I 23:34:20.513 NotebookApp] Creating new notebook in /Sugar
+[I 23:34:24.648 NotebookApp] Kernel started: ee95cab4-1e5e-41c9-81c9-5bef150b8d24, name: python3
+[I 23:36:24.545 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
+[I 23:38:24.358 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
+[I 23:40:24.378 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
+[I 23:42:24.318 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
+[I 23:56:49.140 NotebookApp] Starting buffering for ee95cab4-1e5e-41c9-81c9-5bef150b8d24:44efbdf9b466445b8ecdb8c20fb5edca
