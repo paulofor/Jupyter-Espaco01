@@ -5165,3 +5165,4 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:40:24.378 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
 [I 23:42:24.318 NotebookApp] Saving file at /Sugar/Integracao Formulario.ipynb
 [I 23:56:49.140 NotebookApp] Starting buffering for ee95cab4-1e5e-41c9-81c9-5bef150b8d24:44efbdf9b466445b8ecdb8c20fb5edca
+[I 20:38:13.461 NotebookApp] 302 GET / (127.0.0.1) 156.640000ms
