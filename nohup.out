@@ -5197,3 +5197,40 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 17:57:44.520 NotebookApp] Saving file at /Sisacao/ExecutadorLista.ipynb
 [I 17:57:45.404 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:6373bdaa480e4612990e601a691b941b
 [I 18:22:37.169 NotebookApp] 302 GET / (127.0.0.1) 20.880000ms
+[I 22:26:21.735 NotebookApp] 302 GET / (127.0.0.1) 106.190000ms
+[I 22:26:50.576 NotebookApp] Kernel started: b9e0d555-95fc-4af8-92b5-c62cb80a33b1, name: python3
+[I 22:33:27.871 NotebookApp] Starting buffering for b9e0d555-95fc-4af8-92b5-c62cb80a33b1:598e48b2a3df40388c63685e0832bdc3
+2022-07-13 22:44:44.676989: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-07-13 22:44:44.677069: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[W 22:46:09.208 NotebookApp] Notebook Sisacao/ExecutadorLista.ipynb is not trusted
+[I 22:46:17.648 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 22:48:17.696 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 22:50:17.213 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 22:52:17.580 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[W 22:52:34.791 NotebookApp] 400 GET /api/contents/Sisacao/pesos/treino_rede2.h5?type=file&format=text&_=1657763603025 (127.0.0.1): /root/notebook/meus-arquivos/Sisacao/pesos/treino_rede2.h5 is not UTF-8 encoded
+[W 22:52:36.858 NotebookApp] /root/notebook/meus-arquivos/Sisacao/pesos/treino_rede2.h5 is not UTF-8 encoded
+[W 22:52:37.256 NotebookApp] 400 GET /api/contents/Sisacao/pesos/treino_rede2.h5?type=file&format=text&_=1657763603025 (127.0.0.1) 17917.210000ms referer=http://localhost:8888/edit/Sisacao/pesos/treino_rede2.h5
+[I 22:52:49.185 NotebookApp] Uploading file to /Sisacao/pesos/best_model.h5
+[W 22:54:18.131 NotebookApp] delete /Sisacao/rede1.h5
+[W 22:54:18.224 NotebookApp] delete /Sisacao/rede2.h5
+[I 22:54:31.070 NotebookApp] Uploading file to /Sisacao/best_model.h5
+2022-07-13 22:54:54.316031: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-07-13 22:54:54.325018: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-07-13 22:54:54.421095: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-07-13 22:55:15.959617: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 626400 exceeds 10% of free system memory.
+2022-07-13 22:55:22.371314: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14745600 exceeds 10% of free system memory.
+2022-07-13 22:55:22.756710: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14745600 exceeds 10% of free system memory.
+2022-07-13 22:55:22.871988: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14745600 exceeds 10% of free system memory.
+2022-07-13 22:55:23.064326: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 14745600 exceeds 10% of free system memory.
+[I 22:56:17.493 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 22:58:17.146 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:00:17.542 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:08:17.093 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:10:17.460 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:12:17.020 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:14:17.011 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:18:16.966 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:20:17.297 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
+[I 23:30:10.270 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:c461819bf6954840b13ee512c2ef3427
+[I 23:31:23.545 NotebookApp] Starting buffering for b9e0d555-95fc-4af8-92b5-c62cb80a33b1:71f7eaa989ea4020a37d92113bb81883
