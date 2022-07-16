@@ -5234,3 +5234,66 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 23:20:17.297 NotebookApp] Saving file at /Sisacao/Executador de primeira.ipynb
 [I 23:30:10.270 NotebookApp] Starting buffering for b7893132-ee7e-4787-9478-5e845df72650:c461819bf6954840b13ee512c2ef3427
 [I 23:31:23.545 NotebookApp] Starting buffering for b9e0d555-95fc-4af8-92b5-c62cb80a33b1:71f7eaa989ea4020a37d92113bb81883
+[I 14:56:23.998 NotebookApp] 302 GET / (127.0.0.1) 369.430000ms
+[I 14:57:03.236 NotebookApp] Kernel started: 0454d0b0-7a72-46a2-98d1-6dfd65b85309, name: python3
+[I 14:59:03.326 NotebookApp] Saving file at /Curso Tensor Flow/C1_W3_Lab_2_exploring_convolutions.ipynb
+[I 15:01:59.505 NotebookApp] Starting buffering for 0454d0b0-7a72-46a2-98d1-6dfd65b85309:7135db826df447ba837c8c7916710d51
+[I 15:02:31.495 NotebookApp] Kernel started: e05c4df7-dbb4-4936-9b2e-cb7894bc9bad, name: python3
+[I 15:04:32.255 NotebookApp] Saving file at /Curso Tensor Flow/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb
+[I 16:15:14.785 NotebookApp] New terminal with automatic name: 1
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[W 16:17:03.561 NotebookApp] Notebook tensorflow-1-public-main/C1/W1/assignment/C1W1_Assignment.ipynb is not trusted
+[I 16:17:04.559 NotebookApp] Kernel started: 7033ea56-a046-4a89-973e-0c16acca2f60, name: python3
+[I 16:17:17.074 NotebookApp] Starting buffering for 7033ea56-a046-4a89-973e-0c16acca2f60:9f182a7fc6ff47c298b87fa71886f72e
+[W 16:17:26.735 NotebookApp] Notebook tensorflow-1-public-main/C1/W1/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb is not trusted
+[I 16:17:28.295 NotebookApp] Kernel started: 409e8ea2-a06b-4492-aa0c-7809fc9a402b, name: python3
+[W 16:18:00.482 NotebookApp] Notebook tensorflow-1-public-main/C2/W1/assignment/C2W1_Assignment.ipynb is not trusted
+[I 16:18:03.186 NotebookApp] Kernel started: 1f9a6048-a285-4654-bba4-b96db947958e, name: python3
+[W 16:18:03.368 NotebookApp] 404 GET /static/components/codemirror/mode/null/null.js?v=20220628231912 (127.0.0.1) 143.920000ms referer=http://localhost:8888/notebooks/tensorflow-1-public-main/C2/W1/assignment/C2W1_Assignment.ipynb
+[W 16:18:17.959 NotebookApp] Notebook tensorflow-1-public-main/C1/W2/assignment/C1W2_Assignment.ipynb is not trusted
+[I 16:18:19.567 NotebookApp] Kernel started: 5d9647f6-5b94-4d59-8a05-0a2bdd889cac, name: python3
+[W 16:18:43.992 NotebookApp] Notebook tensorflow-1-public-main/C1/W3/assignment/C1W3_Assignment.ipynb is not trusted
+[I 16:18:45.476 NotebookApp] Kernel started: fc96b765-6fed-49f5-819e-6249de4bb13f, name: python3
+[I 16:19:28.605 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W1/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb
+[I 16:19:32.842 NotebookApp] Kernel started: ef3712d0-bacf-4c8f-8e63-1339425c15a3, name: python3
+[I 16:20:03.631 NotebookApp] Saving file at /tensorflow-1-public-main/C2/W1/assignment/C2W1_Assignment.ipynb
+[I 16:20:12.539 NotebookApp] Kernel started: 06582623-8a3d-431f-9954-8089d9145efd, name: python3
+[I 16:20:19.751 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W2/assignment/C1W2_Assignment.ipynb
+[I 16:20:45.605 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W3/assignment/C1W3_Assignment.ipynb
+[I 16:21:33.582 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W3/ungraded_labs/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb
+[I 16:22:13.023 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W3/ungraded_labs/C1_W3_Lab_2_exploring_convolutions.ipynb
+[I 16:22:25.535 NotebookApp] Starting buffering for ef3712d0-bacf-4c8f-8e63-1339425c15a3:fd7279808c9a4950aa82a6609d914a2a
+[I 16:22:26.193 NotebookApp] Starting buffering for fc96b765-6fed-49f5-819e-6249de4bb13f:ce6131031de5445883b054089d6a423b
+[I 16:22:26.795 NotebookApp] Starting buffering for 5d9647f6-5b94-4d59-8a05-0a2bdd889cac:49b0fe3cd05e476f9dd47e5c6ebc300f
+[I 16:22:27.443 NotebookApp] Starting buffering for 1f9a6048-a285-4654-bba4-b96db947958e:221a522743404b1b8c8099cba52339a8
+[I 16:22:28.053 NotebookApp] Starting buffering for 409e8ea2-a06b-4492-aa0c-7809fc9a402b:5a314a4f4bc5459d9c5c2e8c214c7506
+[I 16:22:32.803 NotebookApp] EOF on FD 38; stopping reading
+[I 16:22:32.918 NotebookApp] Terminal 1 closed
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[I 16:22:40.529 NotebookApp] Starting buffering for e05c4df7-dbb4-4936-9b2e-cb7894bc9bad:b01c6d41639b40508aba6ca6fd94bd31
+[I 16:26:13.148 NotebookApp] Saving file at /tensorflow-1-public-main/C1/W3/ungraded_labs/C1_W3_Lab_2_exploring_convolutions.ipynb
+[I 16:33:32.164 NotebookApp] Starting buffering for 06582623-8a3d-431f-9954-8089d9145efd:896f86e08c9d4ac8aa026b1f8d439c4c
+[I 17:08:07.573 NotebookApp] 302 GET / (127.0.0.1) 11.800000ms
+[W 17:08:43.755 NotebookApp] Notebook ResultadoFuturo/2022-Mar-Abr-Mai.ipynb is not trusted
+[I 17:08:45.273 NotebookApp] Kernel started: ab492a5b-ce38-4ed5-8015-2fbca74b093c, name: python3
+[W 17:10:26.297 NotebookApp] Notebook ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb is not trusted
+[I 17:10:27.572 NotebookApp] Kernel started: 683a3cb7-b133-4c51-b3df-dac367db06e5, name: python3
+[I 17:10:42.384 NotebookApp] Starting buffering for 683a3cb7-b133-4c51-b3df-dac367db06e5:9b6054f73db14aeb865ca0e3d661de9d
+[I 17:10:42.991 NotebookApp] Kernel restarted: 683a3cb7-b133-4c51-b3df-dac367db06e5
+[I 17:10:43.053 NotebookApp] Restoring connection for 683a3cb7-b133-4c51-b3df-dac367db06e5:9b6054f73db14aeb865ca0e3d661de9d
+[I 17:10:46.753 NotebookApp] Replaying 3 buffered messages
+[I 17:12:27.648 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 17:14:14.156 NotebookApp] Creating new notebook in /ResultadoFuturo
+[I 17:14:17.608 NotebookApp] Kernel started: 3a9b6e08-e316-4d99-8c08-2b690f3fa5e1, name: python3
+[I 17:14:28.099 NotebookApp] Saving file at /ResultadoFuturo/Ranking Ticker - Mar e Abr-22.ipynb
+[I 17:16:17.266 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 17:18:18.048 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 19:39:22.543 NotebookApp] Starting buffering for ab492a5b-ce38-4ed5-8015-2fbca74b093c:d6746a092de44527b80daae915b9b9ad
+[I 19:40:15.976 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 19:42:16.811 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 19:44:15.957 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 19:46:16.816 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 19:56:15.831 NotebookApp] Saving file at /ResultadoFuturo/Analisando Média Dias.ipynb
+[I 20:00:19.364 NotebookApp] Starting buffering for 683a3cb7-b133-4c51-b3df-dac367db06e5:9b6054f73db14aeb865ca0e3d661de9d
+[I 20:00:20.519 NotebookApp] Starting buffering for 3a9b6e08-e316-4d99-8c08-2b690f3fa5e1:2b1907eb2ac643609c0dc90dd0101374
+[I 21:01:59.259 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
