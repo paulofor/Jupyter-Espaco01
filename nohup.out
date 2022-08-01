@@ -6115,3 +6115,9 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 04:01:01.667 NotebookApp] Saving file at /Sisacao/Executador-TreinoRede-Passado.ipynb
 [I 04:03:01.677 NotebookApp] Saving file at /Sisacao/Executador-TreinoRede-Passado.ipynb
 [I 04:22:10.302 NotebookApp] Starting buffering for 085acce5-1f59-4e14-a469-350e8a83c7d5:663ce3e63ed046b280e0903f67f10ab0
+[I 07:38:11.650 NotebookApp] 302 GET / (127.0.0.1) 166.000000ms
+[I 07:50:56.954 NotebookApp] Copying Sisacao/Executador-TreinoRede-Passado.ipynb to /Sisacao
+[I 07:51:32.017 NotebookApp] Kernel started: cea88366-5661-4cae-b284-e43c658783d1, name: python3
+[I 08:25:32.797 NotebookApp] Starting buffering for cf45fe17-e8b9-4fc8-9075-f451e2d3a462:c8c2bdaaec6d409f833957c00766f640
+[I 08:25:33.770 NotebookApp] Starting buffering for 085acce5-1f59-4e14-a469-350e8a83c7d5:db4fb3f41d5641d99540d478102d3a16
+[I 08:25:34.779 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:a7454501e7cd4f128117be0a2e1c6c29
