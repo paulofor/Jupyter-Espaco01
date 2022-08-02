@@ -6121,3 +6121,175 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 08:25:32.797 NotebookApp] Starting buffering for cf45fe17-e8b9-4fc8-9075-f451e2d3a462:c8c2bdaaec6d409f833957c00766f640
 [I 08:25:33.770 NotebookApp] Starting buffering for 085acce5-1f59-4e14-a469-350e8a83c7d5:db4fb3f41d5641d99540d478102d3a16
 [I 08:25:34.779 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:a7454501e7cd4f128117be0a2e1c6c29
+[I 08:51:37.909 NotebookApp] 302 GET / (127.0.0.1) 203.510000ms
+[I 08:52:19.829 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 08:52:26.110 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 08:54:00.973 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 08:55:54.598 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 08:57:38.946 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 08:57:54.884 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:b5161823ef9041d0a0e3858c688b29cb
+[I 08:57:57.598 NotebookApp] Kernel restarted: cea88366-5661-4cae-b284-e43c658783d1
+[I 08:57:57.675 NotebookApp] Restoring connection for cea88366-5661-4cae-b284-e43c658783d1:b5161823ef9041d0a0e3858c688b29cb
+[I 08:58:00.289 NotebookApp] Replaying 3 buffered messages
+2022-08-01 08:58:07.472572: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 08:58:07.472635: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 08:59:55.552 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 09:27:54.326 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 09:29:54.272 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 09:31:54.248 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 09:33:52.959 NotebookApp] Creating new notebook in /Sisacao
+[I 09:33:55.484 NotebookApp] Kernel started: e93dae69-43f4-4a10-a6e8-8fdbe92dac47, name: python3
+[I 09:35:56.545 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+2022-08-01 09:35:56.638813: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 09:35:56.638934: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 09:37:55.429 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:39:55.038 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:41:55.535 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:43:54.979 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:44:30.363 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:47:54.949 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:51:55.073 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 09:55:06.401 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:b5161823ef9041d0a0e3858c688b29cb
+[I 09:55:10.735 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:273d045223a34a1eb9bbb7b266e80498
+[I 19:30:20.726 NotebookApp] 302 GET / (127.0.0.1) 211.590000ms
+[W 19:30:41.956 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[W 19:30:46.110 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
+[I 19:32:42.569 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:32:42.579 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:34:42.507 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:34:42.507 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:34:45.982 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:34:45.983 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:36:04.693 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:36:04.693 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:36:42.488 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:36:42.490 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:37:40.761 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:37:40.762 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:38:12.542 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:38:12.543 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:38:35.018 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:38:35.018 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:38:43.296 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:38:43.297 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:40:43.320 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:40:43.320 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:52:52.321 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:52:52.326 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:56:42.372 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:56:42.440 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:58:42.345 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 19:58:42.345 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 19:58:47.527 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[W 19:58:47.528 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
+[I 20:00:43.127 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 20:00:43.127 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 20:02:27.241 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 20:02:27.241 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 20:02:43.125 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 20:02:43.126 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 20:03:34.283 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:04:15.360 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 20:04:15.361 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 20:06:39.316 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[W 20:06:39.319 NotebookApp] Notebook Sisacao/TreinoRede-Novo.ipynb is not trusted
+[I 20:06:55.583 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:06:58.415 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:06:58.547 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:07:00.717 NotebookApp] Replaying 3 buffered messages
+[I 20:07:27.041 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:11:24.500 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+2022-08-01 20:11:54.674740: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:11:54.674821: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:12:35.685 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:12:42.804 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:13:52.923 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:14:14.690 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:14:17.669 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:14:20.543 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:14:20.778 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:14:23.006 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:14:39.157962: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:14:39.158044: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:14:44.120 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:15:38.952 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:16:42.573 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:18:07.879 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:18:19.092 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:18:21.918 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:18:22.069 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:18:24.588 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:18:35.303857: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:18:35.303922: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:18:42.826 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:19:32.127 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:20:22.338 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:20:25.614 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:20:29.725 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:20:32.781 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:20:32.996 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:20:35.418 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:20:39.821465: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:20:39.821520: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:20:44.076 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:22:43.178 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:22:59.688 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:23:34.118 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:23:45.500 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:23:48.285 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:23:48.413 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:23:49.844 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:23:59.596086: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:23:59.596167: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:24:44.512 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:26:42.868 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:28:27.512 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:28:38.810 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:28:41.707 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:28:41.858 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:28:42.032 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:28:43.504 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:28:49.289124: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:28:49.289199: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-08-01 20:29:21.656989: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-08-01 20:29:21.821887: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-08-01 20:29:23.160871: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-08-01 20:29:27.281442: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:29:27.746866: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:29:28.292800: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:29:29.023559: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-08-01 20:29:29.053127: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 20:30:22.211 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:30:42.184 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:31:48.037 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:32:33.553 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:32:53.612 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:32:58.159 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:33:01.084 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:33:01.236 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:33:03.186 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:33:15.816242: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:33:15.816297: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 20:34:03.219 NotebookApp] Kernel interrupted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:34:16.680 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:34:26.834 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:34:30.026 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:34:32.870 NotebookApp] Kernel restarted: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 20:34:33.033 NotebookApp] Restoring connection for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:34:35.051 NotebookApp] Replaying 3 buffered messages
+2022-08-01 20:34:43.634305: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-01 20:34:43.634381: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-08-01 20:35:16.965732: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-08-01 20:35:17.001232: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-08-01 20:35:17.092686: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-08-01 20:35:20.299027: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:35:20.611385: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:35:21.456787: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-08-01 20:35:22.504490: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-08-01 20:35:22.536757: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 20:36:04.062 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
+[I 20:37:15.273 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:10d16596146d47cdaea352b989e499e7
+[I 20:37:16.046 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:c8cb103d3cb941759a75e90862cb1cd6
+[I 21:00:51.757 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
