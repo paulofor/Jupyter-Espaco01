@@ -6423,3 +6423,6 @@ WARNING:root:kernel e93dae69-43f4-4a10-a6e8-8fdbe92dac47 restarted
 [I 08:18:05.172 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
 [I 08:18:19.012 NotebookApp] Saving file at /Sisacao/TreinoRede-Novo.ipynb
 [I 08:18:22.423 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:1fa7d11d39ba4952bb0234237e99bcbf
+[I 07:32:16.995 NotebookApp] 302 GET / (127.0.0.1) 180.660000ms
+[I 07:50:41.529 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:8d4286c3383f44c5863c76a406d315c7
+[I 08:33:47.731 NotebookApp] 302 GET / (127.0.0.1) 16.010000ms
