@@ -6426,3 +6426,56 @@ WARNING:root:kernel e93dae69-43f4-4a10-a6e8-8fdbe92dac47 restarted
 [I 07:32:16.995 NotebookApp] 302 GET / (127.0.0.1) 180.660000ms
 [I 07:50:41.529 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:8d4286c3383f44c5863c76a406d315c7
 [I 08:33:47.731 NotebookApp] 302 GET / (127.0.0.1) 16.010000ms
+[I 10:49:03.284 NotebookApp] 302 GET / (127.0.0.1) 184.620000ms
+[I 10:49:50.477 NotebookApp] Creating new notebook in /Estudo-Keras
+[I 10:49:54.016 NotebookApp] Kernel started: b5f58058-56b1-47f0-a509-0bb279a73897, name: python3
+[I 10:49:56.864 NotebookApp] Saving file at /Estudo-Keras/Untitled.ipynb
+[I 10:50:23.073 NotebookApp] New terminal with automatic name: 1
+ERROR:terminado.websocket:not able to serialize: expected string or bytes-like object
+[W 10:51:20.861 NotebookApp] Forbidden
+[W 10:51:20.865 NotebookApp] 403 GET /api/sessions?_=1659621061285 (127.0.0.1) 8.720000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:51:20.869 NotebookApp] Forbidden
+[W 10:51:20.869 NotebookApp] 403 GET /api/terminals?_=1659621061286 (127.0.0.1) 2.820000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:51:51.813 NotebookApp] Forbidden
+[W 10:51:51.814 NotebookApp] 403 GET /api/sessions?_=1659621061287 (127.0.0.1) 1.670000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:51:51.819 NotebookApp] Forbidden
+[W 10:51:51.820 NotebookApp] 403 GET /api/terminals?_=1659621061288 (127.0.0.1) 2.060000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:51:53.693 NotebookApp] Forbidden
+[W 10:51:53.693 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109359 (127.0.0.1) 1.490000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:51:53.730 NotebookApp] Forbidden
+[W 10:51:53.733 NotebookApp] 403 PUT /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb (127.0.0.1) 4.730000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:52:48.005 NotebookApp] Forbidden
+[W 10:52:48.005 NotebookApp] 403 GET /api/sessions?_=1659621061289 (127.0.0.1) 1.690000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:52:48.011 NotebookApp] Forbidden
+[W 10:52:48.011 NotebookApp] 403 GET /api/terminals?_=1659621061290 (127.0.0.1) 1.320000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:53:09.544 NotebookApp] Forbidden
+[W 10:53:09.545 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109360 (127.0.0.1) 1.930000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:53:09.575 NotebookApp] Forbidden
+[W 10:53:09.575 NotebookApp] 403 PUT /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb (127.0.0.1) 3.320000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:53:18.875 NotebookApp] Forbidden
+[W 10:53:18.876 NotebookApp] 403 GET /api/terminals?_=1659621061292 (127.0.0.1) 3.880000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:53:18.876 NotebookApp] Forbidden
+[W 10:53:18.876 NotebookApp] 403 GET /api/sessions?_=1659621061291 (127.0.0.1) 2.400000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:53:54.563 NotebookApp] Forbidden
+[W 10:53:54.564 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109361 (127.0.0.1) 1.600000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:53:54.628 NotebookApp] Forbidden
+[W 10:53:54.628 NotebookApp] 403 PUT /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb (127.0.0.1) 1.800000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:54:52.608 NotebookApp] Forbidden
+[W 10:54:52.609 NotebookApp] 403 GET /api/sessions?_=1659621061293 (127.0.0.1) 1.810000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:54:52.612 NotebookApp] Forbidden
+[W 10:54:52.612 NotebookApp] 403 GET /api/terminals?_=1659621061294 (127.0.0.1) 1.340000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:55:54.545 NotebookApp] Forbidden
+[W 10:55:54.548 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109362 (127.0.0.1) 4.180000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:55:54.614 NotebookApp] Forbidden
+[W 10:55:54.615 NotebookApp] 403 PUT /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb (127.0.0.1) 1.920000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:56:57.002 NotebookApp] Forbidden
+[W 10:56:57.003 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109363 (127.0.0.1) 1.400000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:56:57.029 NotebookApp] Forbidden
+[W 10:56:57.030 NotebookApp] 403 PUT /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb (127.0.0.1) 1.630000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[W 10:57:00.687 NotebookApp] Forbidden
+[W 10:57:00.689 NotebookApp] 403 GET /api/contents/Estudo-Keras/Binary-Cross-Entropy.ipynb?content=0&_=1659621109364 (127.0.0.1) 2.150000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 10:57:00.733 NotebookApp] Starting buffering for b5f58058-56b1-47f0-a509-0bb279a73897:129468dad5044deda9fa32d4bf3a491c
+[W 10:57:00.735 NotebookApp] Forbidden
+[W 10:57:00.736 NotebookApp] 403 GET /api/sessions?_=1659621061295 (127.0.0.1) 1.380000ms referer=http://localhost:8888/tree/Estudo-Keras
+[W 10:57:00.785 NotebookApp] Forbidden
+[W 10:57:00.785 NotebookApp] 403 GET /api/terminals?_=1659621061296 (127.0.0.1) 1.370000ms referer=http://localhost:8888/tree/Estudo-Keras
