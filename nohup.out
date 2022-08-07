@@ -6479,3 +6479,9 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [W 10:57:00.736 NotebookApp] 403 GET /api/sessions?_=1659621061295 (127.0.0.1) 1.380000ms referer=http://localhost:8888/tree/Estudo-Keras
 [W 10:57:00.785 NotebookApp] Forbidden
 [W 10:57:00.785 NotebookApp] 403 GET /api/terminals?_=1659621061296 (127.0.0.1) 1.370000ms referer=http://localhost:8888/tree/Estudo-Keras
+[I 08:40:29.110 NotebookApp] 302 GET / (127.0.0.1) 199.780000ms
+[I 08:40:29.448 NotebookApp] 302 GET /tree? (127.0.0.1) 83.000000ms
+[I 08:40:46.580 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 112.560000ms
+[W 08:45:25.719 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
+[I 09:30:26.006 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:6c50ea84364347e783e871e8ba1f01ea
+[I 09:30:31.013 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:88e237cda6984ffabd7d2ae39df04690
