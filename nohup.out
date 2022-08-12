@@ -6485,3 +6485,22 @@ ERROR:terminado.websocket:not able to serialize: expected string or bytes-like o
 [W 08:45:25.719 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
 [I 09:30:26.006 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:6c50ea84364347e783e871e8ba1f01ea
 [I 09:30:31.013 NotebookApp] Starting buffering for e93dae69-43f4-4a10-a6e8-8fdbe92dac47:88e237cda6984ffabd7d2ae39df04690
+[I 15:10:17.071 NotebookApp] 302 GET / (127.0.0.1) 310.800000ms
+[W 15:10:31.971 NotebookApp] Notebook Estudo-Keras/Binary-Cross-Entropy.ipynb is not trusted
+[W 15:11:09.827 NotebookApp] Notebook Estudo-Keras/Funções.ipynb is not trusted
+2022-08-11 15:12:29.417926: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-11 15:12:29.418440: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 15:12:32.292 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:14:32.350 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:16:32.542 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+2022-08-11 15:17:03.097482: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-08-11 15:17:03.121024: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-08-11 15:17:03.159404: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 15:18:32.237 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:22:32.270 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:26:32.869 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:28:32.152 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:30:32.734 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
+[I 15:30:53.626 NotebookApp] Starting buffering for b5f58058-56b1-47f0-a509-0bb279a73897:4a0655ee973d418884e09b3d4214b863
+[I 15:30:54.925 NotebookApp] Starting buffering for 5d154aa5-e349-4f9d-8061-6a5b41766d8a:1c25303f53c24dc3aef49c126d6ab8c4
