@@ -6504,3 +6504,6 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 15:30:32.734 NotebookApp] Saving file at /Estudo-Keras/Binary-Cross-Entropy.ipynb
 [I 15:30:53.626 NotebookApp] Starting buffering for b5f58058-56b1-47f0-a509-0bb279a73897:4a0655ee973d418884e09b3d4214b863
 [I 15:30:54.925 NotebookApp] Starting buffering for 5d154aa5-e349-4f9d-8061-6a5b41766d8a:1c25303f53c24dc3aef49c126d6ab8c4
+[I 11:37:58.858 NotebookApp] 302 GET / (127.0.0.1) 173.880000ms
+[W 11:39:06.038 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
+[I 13:03:13.203 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:e29cd273a0ad480098a9790fc099304d
