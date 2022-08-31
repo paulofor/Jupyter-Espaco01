@@ -6507,3 +6507,64 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 11:37:58.858 NotebookApp] 302 GET / (127.0.0.1) 173.880000ms
 [W 11:39:06.038 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
 [I 13:03:13.203 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:e29cd273a0ad480098a9790fc099304d
+[I 11:38:56.905 NotebookApp] 302 GET / (127.0.0.1) 694.590000ms
+[W 11:39:30.003 NotebookApp] Notebook Sisacao/Executador-PrevisaoTeste.ipynb is not trusted
+[W 11:39:37.839 NotebookApp] Nudge: attempt 10 on kernel cea88366-5661-4cae-b284-e43c658783d1
+[W 11:39:42.986 NotebookApp] Nudge: attempt 20 on kernel cea88366-5661-4cae-b284-e43c658783d1
+[W 11:39:47.645 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f7482f47c10>
+[W 11:39:48.059 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f7482f47c10>
+[I 11:41:39.956 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 11:50:49.642 NotebookApp] Kernel interrupted: cea88366-5661-4cae-b284-e43c658783d1
+[I 11:51:05.153 NotebookApp] Creating new notebook in /Sisacao
+[I 11:51:08.974 NotebookApp] Kernel started: 71f2a02b-a134-40c2-83be-c6af68712b5f, name: python3
+2022-08-30 11:51:43.867543: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-30 11:51:43.868738: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 11:52:33.193 NotebookApp] Saving file at /Sisacao/Executador-PrevisaoTeste.ipynb
+[I 11:53:11.027 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 11:53:58.565 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 11:55:09.681 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 11:57:08.779 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 11:59:08.758 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 12:01:12.215 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 12:07:25.318 NotebookApp] Kernel shutdown: cf45fe17-e8b9-4fc8-9075-f451e2d3a462
+[I 12:07:29.673 NotebookApp] Discarding 1 buffered messages for 085acce5-1f59-4e14-a469-350e8a83c7d5:db4fb3f41d5641d99540d478102d3a16
+[I 12:10:15.521 NotebookApp] Kernel shutdown: 085acce5-1f59-4e14-a469-350e8a83c7d5
+[I 12:10:16.401 NotebookApp] Kernel shutdown: 480cbba1-c927-4809-b6d7-799370944e1a
+[I 12:10:16.411 NotebookApp] Kernel shutdown: 5d154aa5-e349-4f9d-8061-6a5b41766d8a
+[I 12:10:16.425 NotebookApp] Kernel shutdown: cea88366-5661-4cae-b284-e43c658783d1
+[I 12:10:16.440 NotebookApp] Kernel shutdown: e93dae69-43f4-4a10-a6e8-8fdbe92dac47
+[I 12:10:16.608 NotebookApp] Starting buffering for 71f2a02b-a134-40c2-83be-c6af68712b5f:8a465a3417f648c3a902484813139aa7
+[I 12:10:16.625 NotebookApp] Starting buffering for cea88366-5661-4cae-b284-e43c658783d1:24b065ea73694f5a9f692c1a8b8a448a
+[I 12:10:30.031 NotebookApp] Kernel shutdown: b5f58058-56b1-47f0-a509-0bb279a73897
+[I 12:10:32.721 NotebookApp] Kernel shutdown: 71f2a02b-a134-40c2-83be-c6af68712b5f
+[I 12:10:32.898 NotebookApp] Kernel shutdown: cf45fe17-e8b9-4fc8-9075-f451e2d3a462
+[I 12:10:33.002 NotebookApp] EOF on FD 112; stopping reading
+[I 12:10:33.129 NotebookApp] Terminal 1 closed
+[W 12:10:33.134 NotebookApp] 404 DELETE /api/sessions/d07be854-7b57-4c1e-8f46-e43102b6e0f9 (127.0.0.1): Session not found: session_id='d07be854-7b57-4c1e-8f46-e43102b6e0f9'
+[W 12:10:33.135 NotebookApp] Session not found: session_id='d07be854-7b57-4c1e-8f46-e43102b6e0f9'
+[W 12:10:33.137 NotebookApp] 404 DELETE /api/sessions/d07be854-7b57-4c1e-8f46-e43102b6e0f9 (127.0.0.1) 5.350000ms referer=http://localhost:8888/tree/Sisacao
+[I 12:10:33.184 NotebookApp] Kernel shutdown: cf45fe17-e8b9-4fc8-9075-f451e2d3a462
+[I 12:10:33.292 NotebookApp] Kernel shutdown: cf45fe17-e8b9-4fc8-9075-f451e2d3a462
+[W 12:10:33.329 NotebookApp] 404 DELETE /api/sessions/d07be854-7b57-4c1e-8f46-e43102b6e0f9 (127.0.0.1): Session not found: session_id='d07be854-7b57-4c1e-8f46-e43102b6e0f9'
+[W 12:10:33.329 NotebookApp] Session not found: session_id='d07be854-7b57-4c1e-8f46-e43102b6e0f9'
+[W 12:10:33.330 NotebookApp] 404 DELETE /api/sessions/d07be854-7b57-4c1e-8f46-e43102b6e0f9 (127.0.0.1) 2.480000ms referer=http://localhost:8888/tree/Sisacao
+[I 12:10:34.840 NotebookApp] Kernel shutdown: cf45fe17-e8b9-4fc8-9075-f451e2d3a462
+[W 13:13:57.634 NotebookApp] Notebook Sisacao/Previsao-Teste.ipynb is not trusted
+[I 13:13:58.845 NotebookApp] Kernel started: ca9e647b-b02b-4553-9597-7419c5123552, name: python3
+2022-08-30 13:14:30.495386: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-08-30 13:14:30.495465: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 13:15:58.333 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 13:17:58.295 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 13:19:58.302 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 13:21:58.244 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 13:24:00.937 NotebookApp] Saving file at /Sisacao/Previsao-Teste.ipynb
+[I 13:40:41.337 NotebookApp] Starting buffering for ca9e647b-b02b-4553-9597-7419c5123552:e3e2873448cb474182dad632cd7e775c
+[I 18:08:31.081 NotebookApp] 302 GET / (127.0.0.1) 149.970000ms
+[I 18:08:59.281 NotebookApp] Creating new notebook in /Sisacao
+[I 18:09:02.934 NotebookApp] Kernel started: 1d68d655-d0c7-43ed-ab05-f1a59c0a32d7, name: python3
+[I 18:11:03.216 NotebookApp] Saving file at /Sisacao/Untitled.ipynb
+[W 18:11:42.338 NotebookApp] Notebook Sisacao/Previsao-Teste.ipynb is not trusted
+[I 18:13:02.919 NotebookApp] Saving file at /Sisacao/Exercicio.ipynb
+[I 18:17:09.729 NotebookApp] Saving file at /Sisacao/Exercicio.ipynb
+[I 19:54:50.870 NotebookApp] Starting buffering for ca9e647b-b02b-4553-9597-7419c5123552:0b16d2543f1c4be29f6c6dd20d23373c
+[I 19:54:51.368 NotebookApp] Starting buffering for 1d68d655-d0c7-43ed-ab05-f1a59c0a32d7:6423f6f85bc944ac9c598af2fa5e6357
