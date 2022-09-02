@@ -6568,3 +6568,26 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 18:17:09.729 NotebookApp] Saving file at /Sisacao/Exercicio.ipynb
 [I 19:54:50.870 NotebookApp] Starting buffering for ca9e647b-b02b-4553-9597-7419c5123552:0b16d2543f1c4be29f6c6dd20d23373c
 [I 19:54:51.368 NotebookApp] Starting buffering for 1d68d655-d0c7-43ed-ab05-f1a59c0a32d7:6423f6f85bc944ac9c598af2fa5e6357
+[I 21:27:27.467 NotebookApp] 302 GET / (127.0.0.1) 108.360000ms
+[I 21:27:38.279 NotebookApp] Creating new notebook in /Estudo-Keras
+[I 21:27:42.024 NotebookApp] Kernel started: ae79ca54-da3e-49f8-9e9f-0e102d0bdf2d, name: python3
+[W 21:28:12.799 NotebookApp] Notebook Estudo-Keras/Model.ipynb is not trusted
+[I 21:28:13.799 NotebookApp] Kernel started: 0f3382fa-e3f0-45a9-9bad-04b324a58571, name: python3
+2022-09-01 21:28:26.215676: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-09-01 21:28:26.215747: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2022-09-01 21:28:46.245211: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-09-01 21:28:46.257634: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-09-01 21:28:46.665614: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 21:29:42.495 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[I 21:32:14.453 NotebookApp] Saving file at /Estudo-Keras/Model.ipynb
+[I 21:33:41.667 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[W 21:34:24.710 NotebookApp] Notebook Sisacao/treino-rede.ipynb is not trusted
+[I 21:34:26.407 NotebookApp] Kernel started: 077e1997-ae4e-4892-b8aa-226141280e4b, name: python3
+[I 21:37:41.664 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[I 21:41:41.598 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[I 21:43:42.296 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[I 21:45:42.280 NotebookApp] Saving file at /Estudo-Keras/Conv1D.ipynb
+[I 23:28:42.341 NotebookApp] Starting buffering for ae79ca54-da3e-49f8-9e9f-0e102d0bdf2d:5880b81af77d4a008092770ea663bb0e
+[I 23:28:42.498 NotebookApp] Starting buffering for 0f3382fa-e3f0-45a9-9bad-04b324a58571:4536be5a69e04249816a0aa6011dcc18
+[I 23:28:42.520 NotebookApp] Starting buffering for 077e1997-ae4e-4892-b8aa-226141280e4b:1faaf9a77b0b4dce8dbfcf91b160559d
