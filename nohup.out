@@ -6929,3 +6929,50 @@ Arguments: ()
         http://localhost:8970/?token=46c6b9315f70435268788502a0e3583e0b224f88216bb8be
      or http://127.0.0.1:8970/?token=46c6b9315f70435268788502a0e3583e0b224f88216bb8be
 [I 13:11:24.626 NotebookApp] 302 GET / (127.0.0.1) 1.070000ms
+[C 21:26:28.573 NotebookApp] received signal 15, stopping
+[I 21:26:31.014 NotebookApp] Shutting down 0 kernels
+[I 21:26:31.547 NotebookApp] Shutting down 0 terminals
+[I 23:49:20.899 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 23:49:20.906 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 23:49:20.906 NotebookApp] http://localhost:8970/?token=84c2d43c1a315304bc594f697d1b46338e89852026f0549d
+[I 23:49:20.906 NotebookApp]  or http://127.0.0.1:8970/?token=84c2d43c1a315304bc594f697d1b46338e89852026f0549d
+[I 23:49:20.906 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:49:20.918 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-6098-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=84c2d43c1a315304bc594f697d1b46338e89852026f0549d
+     or http://127.0.0.1:8970/?token=84c2d43c1a315304bc594f697d1b46338e89852026f0549d
+[I 23:50:02.977 NotebookApp] 302 GET / (127.0.0.1) 1.140000ms
+[I 23:50:03.052 NotebookApp] 302 GET /tree? (127.0.0.1) 1.350000ms
+[I 23:50:51.253 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 1.980000ms
+[W 23:51:58.428 NotebookApp] Notebook Sisacao/Previsao-Teste.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f8559642610>(<Future finis...efd"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f8559642610>(<Future finis...efd"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-8' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...3efd"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f8559eed0a0>(<Future finis...efd"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f8559eed0a0>(<Future finis...efd"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-11' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...3efd"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 23:51:59.003 NotebookApp] Kernel started: adeab1d3-cf76-4b8e-b197-68264b80b96f, name: python3
+[I 23:52:58.827 NotebookApp] Creating new directory in 
+[I 23:53:22.802 NotebookApp] Creating new notebook in /PrevisaoPython
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f855b4b7700>(<Future finis...efd"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f855b4b7700>(<Future finis...efd"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...3efd"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-79' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 23:53:24.222 NotebookApp] Kernel started: 432cf9b4-bb11-465d-9709-730ecbc96f6b, name: python3
+[I 23:55:24.341 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
+2022-11-08 23:56:18.771984: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-11-08 23:56:18.780218: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 23:57:24.916 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
+[I 23:57:56.437 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
+[I 23:59:24.372 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
