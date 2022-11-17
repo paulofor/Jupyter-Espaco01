@@ -6980,3 +6980,14 @@ RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1Serv
 [I 00:03:51.100 NotebookApp] Starting buffering for adeab1d3-cf76-4b8e-b197-68264b80b96f:23d49d096f6a49d68c0fb9fc89c5c7f7
 [I 00:05:24.132 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
 [I 00:25:01.055 NotebookApp] Starting buffering for 432cf9b4-bb11-465d-9709-730ecbc96f6b:449e63abba634d1c891d328b0f8290fe
+[I 03:58:21.248 NotebookApp] 302 GET / (127.0.0.1) 193.710000ms
+[W 03:58:52.083 NotebookApp] Notebook PrevisaoPython/Untitled.ipynb is not trusted
+[I 03:59:02.696 NotebookApp] Starting buffering for 432cf9b4-bb11-465d-9709-730ecbc96f6b:9f34d6a467a94423bbc8da0c7e7238ed
+[I 04:01:00.967 NotebookApp] Creating new notebook in /PrevisaoPython
+[I 04:01:36.925 NotebookApp] Kernel started: d408ff59-36cd-412a-b953-b2b53816ccf8, name: python3
+2022-11-16 04:02:26.536419: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-11-16 04:02:26.539212: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 04:03:35.767 NotebookApp] Saving file at /PrevisaoPython/previsao-teste.ipynb
+[I 04:03:41.828 NotebookApp] Saving file at /PrevisaoPython/previsao-teste.ipynb
+[I 04:06:32.410 NotebookApp] Saving file at /PrevisaoPython/previsao-teste.ipynb
+[I 04:23:37.229 NotebookApp] Starting buffering for d408ff59-36cd-412a-b953-b2b53816ccf8:8960ee83d90a4c1686fc94eac1bbdeed
