@@ -6991,3 +6991,25 @@ RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1Serv
 [I 04:03:41.828 NotebookApp] Saving file at /PrevisaoPython/previsao-teste.ipynb
 [I 04:06:32.410 NotebookApp] Saving file at /PrevisaoPython/previsao-teste.ipynb
 [I 04:23:37.229 NotebookApp] Starting buffering for d408ff59-36cd-412a-b953-b2b53816ccf8:8960ee83d90a4c1686fc94eac1bbdeed
+[I 23:39:30.052 NotebookApp] 302 GET / (127.0.0.1) 134.750000ms
+[W 23:39:44.446 NotebookApp] Notebook Estudo-Keras/Conv1D.ipynb is not trusted
+[I 23:39:45.102 NotebookApp] Kernel started: 256efcac-18f7-43ce-b738-205035c0482b, name: python3
+[I 23:40:22.851 NotebookApp] Creating new directory in /Estudo-Keras
+[I 23:40:49.284 NotebookApp] Creating new notebook in /Estudo-Keras/Conv1D
+[I 23:40:50.571 NotebookApp] Kernel started: 25f13472-f3e3-425f-920a-e91a6eb69fb9, name: python3
+2022-11-24 23:41:14.794810: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-11-24 23:41:14.797038: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 23:42:51.586 NotebookApp] Saving file at /Estudo-Keras/Conv1D/Versao1.ipynb
+2022-11-24 23:43:28.490638: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-11-24 23:43:28.504198: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-11-24 23:43:28.760150: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 23:44:50.615 NotebookApp] Saving file at /Estudo-Keras/Conv1D/Versao1.ipynb
+[I 23:46:50.539 NotebookApp] Saving file at /Estudo-Keras/Conv1D/Versao1.ipynb
+[I 23:48:50.520 NotebookApp] Saving file at /Estudo-Keras/Conv1D/Versao1.ipynb
+[I 23:54:50.466 NotebookApp] Saving file at /Estudo-Keras/Conv1D/Versao1.ipynb
+2022-11-24 23:58:00.751442: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 22988800 exceeds 10% of free system memory.
+2022-11-24 23:58:01.220967: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 22988800 exceeds 10% of free system memory.
+2022-11-24 23:58:01.802665: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 22988800 exceeds 10% of free system memory.
+[I 23:58:24.093 NotebookApp] Starting buffering for 256efcac-18f7-43ce-b738-205035c0482b:bd3a43b49ef642e28712c9551b2c7ab0
+[I 23:58:48.160 NotebookApp] Starting buffering for 25f13472-f3e3-425f-920a-e91a6eb69fb9:e95a7a7560764c15b1a302c920d409d1
