@@ -7013,3 +7013,73 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 2022-11-24 23:58:01.802665: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 22988800 exceeds 10% of free system memory.
 [I 23:58:24.093 NotebookApp] Starting buffering for 256efcac-18f7-43ce-b738-205035c0482b:bd3a43b49ef642e28712c9551b2c7ab0
 [I 23:58:48.160 NotebookApp] Starting buffering for 25f13472-f3e3-425f-920a-e91a6eb69fb9:e95a7a7560764c15b1a302c920d409d1
+[I 01:28:06.712 NotebookApp] 302 GET / (127.0.0.1) 133.380000ms
+[W 01:28:20.073 NotebookApp] Notebook PrevisaoPython/Untitled.ipynb is not trusted
+[I 01:29:01.071 NotebookApp] Starting buffering for 432cf9b4-bb11-465d-9709-730ecbc96f6b:e0d565709ff04f80880f1045bbefe99d
+[I 01:29:03.790 NotebookApp] Kernel restarted: 432cf9b4-bb11-465d-9709-730ecbc96f6b
+[I 01:29:03.864 NotebookApp] Restoring connection for 432cf9b4-bb11-465d-9709-730ecbc96f6b:e0d565709ff04f80880f1045bbefe99d
+[I 01:29:06.029 NotebookApp] Replaying 3 buffered messages
+[I 01:30:21.925 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
+[I 01:30:37.244 NotebookApp] Saving file at /PrevisaoPython/Untitled.ipynb
+2022-11-28 01:31:36.204788: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2022-11-28 01:31:36.205163: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[E 01:32:01.401 NotebookApp] Uncaught exception PATCH /api/contents/PrevisaoPython/Untitled.ipynb (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='PATCH', uri='/api/contents/PrevisaoPython/Untitled.ipynb', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/usr/local/lib/python3.8/dist-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/handlers.py", line 130, in patch
+        model = yield maybe_future(cm.update(model, path))
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py", line 296, in update
+        self.rename(path, new_path)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py", line 284, in rename
+        self.rename_file(old_path, new_path)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/filemanager.py", line 565, in rename_file
+        if os.path.exists(new_os_path) and not samefile(old_os_path, new_os_path):
+      File "/usr/lib/python3.8/genericpath.py", line 100, in samefile
+        s1 = os.stat(f1)
+    FileNotFoundError: [Errno 2] No such file or directory: '/root/notebook/meus-arquivos/PrevisaoPython/Untitled.ipynb'
+[W 01:32:02.534 NotebookApp] Unhandled error
+[E 01:32:02.566 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "43",
+      "Sec-Ch-Ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|9add6da7|f536bdf91daa5e21e1e605c48edeb710|1668581901",
+      "Sec-Ch-Ua-Platform": "\"Linux\"",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/PrevisaoPython/Untitled.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6",
+      "Cookie": "username-localhost-8888=\"2|1:0|10:1667962251|23:username-localhost-8888|44:YjM4NDZkZGM2MjdkNDllNTkzMDhiZmY0MjE4ZDdiMDc=|9d165811adb64ec8338ec944ad101d10f4d81e0cc82899e11aba30132e553efd\"; _xsrf=2|9add6da7|f536bdf91daa5e21e1e605c48edeb710|1668581901"
+    }
+[E 01:32:02.567 NotebookApp] 500 PATCH /api/contents/PrevisaoPython/Untitled.ipynb (127.0.0.1) 1449.460000ms referer=http://localhost:8888/notebooks/PrevisaoPython/Untitled.ipynb
+[I 01:32:23.182 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:32:46.897 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+2022-11-28 01:33:12.139877: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2022-11-28 01:33:12.146311: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2022-11-28 01:33:12.211457: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-11-28 01:33:15.474195: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-11-28 01:33:15.855078: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-11-28 01:33:16.383412: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 12960000 exceeds 10% of free system memory.
+2022-11-28 01:33:17.047347: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+2022-11-28 01:33:17.075999: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 10080000 exceeds 10% of free system memory.
+[I 01:34:09.107 NotebookApp] Kernel interrupted: 432cf9b4-bb11-465d-9709-730ecbc96f6b
+[I 01:34:21.652 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:34:52.568 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:36:21.898 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:38:29.013 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:38:49.693 NotebookApp] Kernel interrupted: 432cf9b4-bb11-465d-9709-730ecbc96f6b
+[I 01:40:22.939 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 01:45:51.083 NotebookApp] Starting buffering for 432cf9b4-bb11-465d-9709-730ecbc96f6b:e0d565709ff04f80880f1045bbefe99d
