@@ -7089,3 +7089,15 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 17:27:01.026 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 86.260000ms
 [W 17:27:31.961 NotebookApp] Notebook Estudo-Keras/Conv1D/Versao1.ipynb is not trusted
 [I 17:33:16.400 NotebookApp] Starting buffering for 25f13472-f3e3-425f-920a-e91a6eb69fb9:9d5366aa737f4ad980907b4b412b2b4d
+[I 12:16:37.269 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 12:16:37.276 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 12:16:37.277 NotebookApp] http://localhost:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
+[I 12:16:37.277 NotebookApp]  or http://127.0.0.1:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
+[I 12:16:37.277 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:16:37.291 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-27255-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
+     or http://127.0.0.1:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
