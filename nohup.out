@@ -7101,3 +7101,19 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
     Or copy and paste one of these URLs:
         http://localhost:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
      or http://127.0.0.1:8970/?token=eb2a3ae84a7e0dac19a62b428fd9d0e7fc1b3b0cdd17d95b
+[I 00:53:06.456 NotebookApp] 302 GET / (127.0.0.1) 305.030000ms
+[W 00:54:42.733 NotebookApp] Notebook Estudo-Keras/Conv1D/Versao1.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fe33279e610>(<Future finis...1987\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fe33279e610>(<Future finis...1987\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-7' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...81987\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7fe3332b9640>(<Future finis...1987\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7fe3332b9640>(<Future finis...1987\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-8' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...81987\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 00:54:44.082 NotebookApp] Kernel started: 9a227376-be99-4e22-a78c-6f254046f865, name: python3
+[I 01:01:56.229 NotebookApp] Starting buffering for 9a227376-be99-4e22-a78c-6f254046f865:825d9d28ac684d979b26848f23efb1dd
