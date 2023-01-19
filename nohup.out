@@ -7142,3 +7142,39 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 2023-01-17 01:04:43.985019: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 4766280 exceeds 10% of free system memory.
 [I 01:05:11.995 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
 [I 01:07:22.197 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:42aef21bc6d94b6284d75dc307e785ec
+[I 00:28:22.482 NotebookApp] 302 GET / (127.0.0.1) 211.620000ms
+[W 00:28:38.898 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:30:40.404 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:30:40.412 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:38:40.223 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:38:40.600 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:40:39.791 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:40:39.942 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:42:40.359 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:42:40.372 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:43:21.988 NotebookApp] 302 GET / (127.0.0.1) 13.770000ms
+[W 00:43:44.597 NotebookApp] Notebook PrevisaoPython/treino-rede.ipynb is not trusted
+[I 00:43:46.298 NotebookApp] Kernel started: 2d234ca0-9728-4537-9f17-bffd326d00f8, name: python3
+[I 00:47:26.818 NotebookApp] Starting buffering for 2d234ca0-9728-4537-9f17-bffd326d00f8:7bca53d50ae4476e840407292efc78a3
+[I 00:47:30.011 NotebookApp] Kernel restarted: 2d234ca0-9728-4537-9f17-bffd326d00f8
+[I 00:47:30.246 NotebookApp] Restoring connection for 2d234ca0-9728-4537-9f17-bffd326d00f8:7bca53d50ae4476e840407292efc78a3
+[I 00:47:33.771 NotebookApp] Replaying 3 buffered messages
+2023-01-18 00:47:43.814327: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-18 00:47:43.814410: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 00:47:46.733 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 00:49:45.966 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 00:51:45.897 NotebookApp] Saving file at /PrevisaoPython/treino-rede.ipynb
+[I 00:52:39.577 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:52:39.649 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:54:09.792 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:54:09.802 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:54:39.511 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:54:39.516 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:54:44.696 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:54:44.701 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:56:27.812 NotebookApp] Starting buffering for 2d234ca0-9728-4537-9f17-bffd326d00f8:7bca53d50ae4476e840407292efc78a3
+[I 00:56:40.187 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:56:40.285 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:58:40.202 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:58:40.344 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 01:01:31.228 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:4f2e2126b1464eb98c159a8ce1ef7b88
