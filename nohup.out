@@ -7178,3 +7178,49 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 00:58:40.202 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
 [W 00:58:40.344 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
 [I 01:01:31.228 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:4f2e2126b1464eb98c159a8ce1ef7b88
+[I 00:06:30.304 NotebookApp] 302 GET / (127.0.0.1) 535.650000ms
+[W 00:07:12.324 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:15:55.713 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:b72380bedc84474a9358acde9ef31cf9
+[W 00:16:41.956 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:17:43.208 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:9bed81df4a434f8c8d91cdcee449929c
+[W 00:17:58.665 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:20:00.346 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:20:00.360 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:21:16.571 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:21:16.599 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:22:00.724 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:22:00.727 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 00:26:00.805 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 00:26:00.813 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[W 00:26:57.337 NotebookApp] Notebook Estudo-Keras/Conv1D.ipynb is not trusted
+[I 00:26:58.575 NotebookApp] Kernel started: 3b2af142-5c23-435e-8ae6-23c97cb0fc9a, name: python3
+[I 00:27:15.881 NotebookApp] Creating new notebook in /Estudo-Keras
+[I 00:27:19.397 NotebookApp] Kernel started: 4dd3edca-eb51-497b-92f4-ee3f1ace8367, name: python3
+2023-01-19 00:29:16.434178: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-19 00:29:16.434269: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 00:29:21.518 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:29:27.082 NotebookApp] Starting buffering for 3b2af142-5c23-435e-8ae6-23c97cb0fc9a:fb80e07f832b4ff78881b8ead9594b7f
+[I 00:29:40.349 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:ac560c8242be4d3bb57bdfad1f5054be
+[I 00:30:41.895 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+2023-01-19 00:31:02.991746: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-01-19 00:31:03.004920: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-01-19 00:31:03.186094: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 00:33:05.702 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:35:24.018 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:40:03.946 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:42:24.647 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:44:23.370 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:7e35e9162bea4da19697ae2b399eabaf
+[I 18:14:21.134 NotebookApp] 302 GET / (127.0.0.1) 281.930000ms
+[W 18:14:41.938 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:18:44.333 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 18:22:43.645 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:32:42.549 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:34:42.505 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:36:42.442 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:40:42.472 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:41:10.860 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:42:42.384 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:44:43.384 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 20:48:45.459 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 21:19:27.880 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:acbafe0b6f024e748744560488e52e5f
