@@ -7235,3 +7235,26 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 20:30:32.923 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
 [I 20:42:33.617 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
 [I 20:49:18.673 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:955e3b67d5c74f6a93bbbc849b252619
+[W 18:01:11.197 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[W 18:01:15.740 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:03:12.500 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 18:03:12.519 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 18:05:12.691 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 18:05:12.807 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 18:16:21.761 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:3da6e7db37aa415480eb4a228704e85d
+[I 18:16:26.692 NotebookApp] Kernel restarted: 4dd3edca-eb51-497b-92f4-ee3f1ace8367
+[I 18:16:27.134 NotebookApp] Restoring connection for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:3da6e7db37aa415480eb4a228704e85d
+[W 18:16:31.122 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7fe3328bc790>
+[I 18:16:31.186 NotebookApp] Replaying 3 buffered messages
+2023-01-21 18:16:44.762004: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-21 18:16:44.762095: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 18:17:10.978 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+2023-01-21 18:18:57.528105: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-01-21 18:18:57.538404: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-01-21 18:18:57.635751: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 18:19:18.783 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 18:21:18.603 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 18:23:18.068 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 18:30:31.997 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:3da6e7db37aa415480eb4a228704e85d
+[I 18:30:32.981 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:4ae05c07e5c64b88a79fb1e711c61b4d
