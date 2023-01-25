@@ -7261,3 +7261,57 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 17:42:15.562 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
 [I 17:44:14.371 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
 [I 17:46:14.970 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:32:14.833 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:34:14.348 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:36:13.683 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:38:14.303 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[I 00:46:36.858 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:cc2eb0fd9bae4e9685e10b02891e8a65
+[W 18:33:11.093 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:43:13.103 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 18:43:13.116 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:45:13.065 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 18:45:13.066 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:47:13.090 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 18:47:13.091 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 18:49:13.505 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 18:49:13.506 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[W 19:10:46.307 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:12:47.958 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:12:47.968 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:14:48.409 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:14:48.601 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:17:13.190 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 19:17:13.203 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 19:18:47.965 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:18:47.967 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:20:48.452 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:20:48.452 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:22:48.445 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:22:48.446 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:24:47.950 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:24:47.955 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:26:47.952 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:26:47.952 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:28:47.962 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:28:47.965 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:30:48.240 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:30:48.278 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:31:32.304 NotebookApp] Kernel interrupted: 0de90eff-ea34-45b5-b641-9322f2cadb8d
+[I 19:32:48.001 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:32:48.036 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:34:48.575 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:34:48.749 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:36:47.958 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:36:47.972 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:36:55.549 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:36:55.550 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:38:47.959 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:38:47.967 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:39:18.218 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:39:18.228 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:39:53.516 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:39:53.532 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:40:47.957 NotebookApp] Saving file at /Estudo-Keras/Trend01.ipynb
+[W 19:40:47.967 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[I 19:42:13.188 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:97d0021db1554a1b9c7d2421e773e519
+[I 19:42:23.491 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:5b39605463bb43138ab7da4d4e468b21
