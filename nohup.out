@@ -7315,3 +7315,7 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [W 19:40:47.967 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
 [I 19:42:13.188 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:97d0021db1554a1b9c7d2421e773e519
 [I 19:42:23.491 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:5b39605463bb43138ab7da4d4e468b21
+[W 19:37:46.940 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 19:39:49.073 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
+[W 19:39:49.081 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[I 20:05:05.752 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:bd44cbe6f1d14caa91470a140d7329a4
