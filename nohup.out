@@ -7319,3 +7319,41 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 19:39:49.073 NotebookApp] Saving file at /Estudo-Keras/SimpleRNN.ipynb
 [W 19:39:49.081 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
 [I 20:05:05.752 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:bd44cbe6f1d14caa91470a140d7329a4
+[W 03:58:03.710 NotebookApp] Notebook Estudo-Keras/SimpleRNN.ipynb is not trusted
+[W 03:59:10.099 NotebookApp] Notebook Estudo-Keras/Trend01.ipynb is not trusted
+[W 03:59:18.384 NotebookApp] Nudge: attempt 10 on kernel 0de90eff-ea34-45b5-b641-9322f2cadb8d
+[I 04:02:33.217 NotebookApp] Starting buffering for 4dd3edca-eb51-497b-92f4-ee3f1ace8367:ccbff8f42bee4a4689287fcd346d74ca
+[I 04:10:51.091 NotebookApp] 302 GET /notebooks/Estudo-Keras/ (127.0.0.1) 4.540000ms
+[I 04:10:51.146 NotebookApp] 302 GET /notebooks/Estudo-Keras (127.0.0.1) 7.840000ms
+[I 04:10:51.790 NotebookApp] Starting buffering for 0de90eff-ea34-45b5-b641-9322f2cadb8d:5898577afa1644c88cc1166ffa3d8686
+[I 04:11:55.940 NotebookApp] Kernel shutdown: 0de90eff-ea34-45b5-b641-9322f2cadb8d
+[I 11:50:46.685 NotebookApp] 302 GET / (127.0.0.1) 27.660000ms
+[I 11:51:11.978 NotebookApp] Uploading file to /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 11:51:12.013 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[W 11:51:22.719 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[W 11:51:26.038 NotebookApp] 404 GET /static/components/codemirror/mode/%20/%20.js?v=20221223121636 (127.0.0.1) 636.970000ms referer=http://localhost:8888/notebooks/Estudo-Keras/Teste_SimpleRNN.ipynb
+[I 11:51:26.099 NotebookApp] Kernel started: c5f2057d-90f9-4d77-81dc-bd68ccdc7bbf, name: python3
+2023-01-31 11:51:34.072078: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-01-31 11:51:34.072167: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 11:53:28.807 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 11:53:28.949 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+2023-01-31 11:53:38.500824: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-01-31 11:53:38.515085: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-01-31 11:53:38.819600: I tensorflow/core/platform/cpu_feature_guard.cc:151] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-01-31 11:54:33.661371: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 9399600 exceeds 10% of free system memory.
+[I 11:55:25.760 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 11:55:25.998 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+2023-01-31 11:56:57.499411: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 4915200 exceeds 10% of free system memory.
+2023-01-31 11:56:57.997255: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 4915200 exceeds 10% of free system memory.
+2023-01-31 11:56:59.635365: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 4915200 exceeds 10% of free system memory.
+2023-01-31 11:56:59.638181: W tensorflow/core/framework/cpu_allocator_impl.cc:82] Allocation of 4915200 exceeds 10% of free system memory.
+[I 11:57:25.369 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 11:57:25.706 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[I 11:59:25.965 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 11:59:25.982 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[I 12:01:25.937 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 12:01:25.938 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[I 12:03:25.937 NotebookApp] Saving file at /Estudo-Keras/Teste_SimpleRNN.ipynb
+[W 12:03:25.938 NotebookApp] Notebook Estudo-Keras/Teste_SimpleRNN.ipynb is not trusted
+[I 17:14:43.189 NotebookApp] Starting buffering for c5f2057d-90f9-4d77-81dc-bd68ccdc7bbf:8cfc04a0d5614b56bbd37c59de5ecc88
