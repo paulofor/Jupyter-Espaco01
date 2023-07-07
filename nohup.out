@@ -7555,3 +7555,112 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 09:19:01.181 NotebookApp] Kernel shutdown: 4dd3edca-eb51-497b-92f4-ee3f1ace8367
 [I 09:19:01.235 NotebookApp] Kernel shutdown: c5f2057d-90f9-4d77-81dc-bd68ccdc7bbf
 [I 09:19:01.334 NotebookApp] Shutting down 0 terminals
+[I 17:08:19.157 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 17:08:19.197 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 17:08:19.198 NotebookApp] http://localhost:8970/?token=5dba6b4771846864716523f282627ae7ce53ed0e6e8ccb13
+[I 17:08:19.198 NotebookApp]  or http://127.0.0.1:8970/?token=5dba6b4771846864716523f282627ae7ce53ed0e6e8ccb13
+[I 17:08:19.198 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:08:19.280 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-2512745-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=5dba6b4771846864716523f282627ae7ce53ed0e6e8ccb13
+     or http://127.0.0.1:8970/?token=5dba6b4771846864716523f282627ae7ce53ed0e6e8ccb13
+[I 17:09:27.364 NotebookApp] 302 GET / (127.0.0.1) 1859.280000ms
+[I 17:09:29.307 NotebookApp] 302 GET /tree? (127.0.0.1) 782.870000ms
+[I 17:09:51.672 NotebookApp] 302 GET /tree (127.0.0.1) 16.100000ms
+[I 17:09:56.323 NotebookApp] 302 POST /login?next=%2Ftree (127.0.0.1) 335.700000ms
+[I 17:10:45.959 NotebookApp] Creating new notebook in /PrevisaoPython
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f308cee20>(<Future finis...a55"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f308cee20>(<Future finis...a55"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-1' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...4a55"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:332>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f308ced60>(<Future finis...a55"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f308ced60>(<Future finis...a55"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-30' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...4a55"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:332>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f308ce610>(<Future finis...a55"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f308ce610>(<Future finis...a55"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-31' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...4a55"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:336>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f308cef10>(<Future finis...a55"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f308cef10>(<Future finis...a55"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...4a55"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:336>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f308e4250>(<Future finis... GMT\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f308e4250>(<Future finis... GMT\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-29' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /static...7 GMT\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:336>> is being executed.
+[I 17:12:07.807 NotebookApp] Kernel started: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9, name: python3
+[W 17:12:08.315 NotebookApp] Notebook PrevisaoPython/previsao-teste.ipynb is not trusted
+[I 17:12:09.249 NotebookApp] Kernel started: 3670e877-a2ef-4834-87ee-47ed5326e0fb, name: python3
+[E 17:12:30.419 NotebookApp] Uncaught exception PATCH /api/contents/PrevisaoPython/Untitled.ipynb (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='localhost:8888', method='PATCH', uri='/api/contents/PrevisaoPython/Untitled.ipynb', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/web.py", line 1704, in _execute
+        result = await result
+      File "/usr/local/lib/python3.8/dist-packages/tornado/gen.py", line 234, in wrapper
+        yielded = ctx_run(next, result)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/handlers.py", line 130, in patch
+        model = yield maybe_future(cm.update(model, path))
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py", line 296, in update
+        self.rename(path, new_path)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/manager.py", line 284, in rename
+        self.rename_file(old_path, new_path)
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/contents/filemanager.py", line 565, in rename_file
+        if os.path.exists(new_os_path) and not samefile(old_os_path, new_os_path):
+      File "/usr/lib/python3.8/genericpath.py", line 100, in samefile
+        s1 = os.stat(f1)
+    FileNotFoundError: [Errno 2] No such file or directory: '/root/notebook/meus-arquivos/PrevisaoPython/Untitled.ipynb'
+[W 17:12:31.364 NotebookApp] Unhandled error
+[E 17:12:31.396 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "46",
+      "Sec-Ch-Ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|f91c240f|219678ee266146569bd8a0136c2a02f6|1688674169",
+      "Sec-Ch-Ua-Platform": "\"Linux\"",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/PrevisaoPython/Untitled.ipynb?kernel_name=python3",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7,es;q=0.6",
+      "Cookie": "_xsrf=2|f91c240f|219678ee266146569bd8a0136c2a02f6|1688674169; username-localhost-8888=\"2|1:0|10:1688674196|23:username-localhost-8888|44:NDFjM2YzYjk4ZDk1NDE4MTg0YWNkY2JkMDA3MmIwNmE=|e59bc7bc895b946bd0c74e50251466b60d99964102abd73818211f8bbcac4a55\""
+    }
+[E 17:12:31.396 NotebookApp] 500 PATCH /api/contents/PrevisaoPython/Untitled.ipynb (127.0.0.1) 1746.790000ms referer=http://localhost:8888/notebooks/PrevisaoPython/Untitled.ipynb?kernel_name=python3
+2023-07-06 17:13:10.788219: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-06 17:13:24.201210: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-06 17:13:24.205203: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 17:14:13.950 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:15:11.227 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:15:16.453 NotebookApp] Starting buffering for 3670e877-a2ef-4834-87ee-47ed5326e0fb:ce22054c4d94412bb19e8803ade367f6
+[I 17:16:38.322 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f9f2fef3a90>(<Future finis...a55"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f9f2fef3a90>(<Future finis...a55"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-6' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...4a55"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-315' coro=<RequestHandler._execute() running at /usr/local/lib/python3.8/dist-packages/tornado/web.py:1702> cb=[_HandlerDelegate.execute.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/web.py:2326]> is being executed.
+[I 17:19:05.350 NotebookApp] Kernel interrupted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 17:20:24.142 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[W 17:38:59.509 NotebookApp] WebSocket ping timeout after 119976 ms.
+[I 17:39:04.565 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:20fd9b456f904fd5857ea2c20385b355
