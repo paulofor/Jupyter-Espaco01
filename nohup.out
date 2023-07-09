@@ -7664,3 +7664,536 @@ RuntimeError: Cannot enter into task <Task pending name='Task-6' coro=<HTTP1Serv
 [I 17:20:24.142 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
 [W 17:38:59.509 NotebookApp] WebSocket ping timeout after 119976 ms.
 [I 17:39:04.565 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:20fd9b456f904fd5857ea2c20385b355
+[I 03:43:38.198 NotebookApp] 302 GET / (127.0.0.1) 168.870000ms
+[I 03:45:22.818 NotebookApp] 302 GET / (127.0.0.1) 3.860000ms
+[W 03:48:07.883 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+2023-07-08 03:48:35.239324: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 03:48:35.240648: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 03:48:35.240679: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 03:50:09.899 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 03:58:08.724 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:00:08.735 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:02:08.697 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 04:02:09.405846: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 04:02:09.422862: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 04:02:09.506713: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 04:04:08.805 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:06:08.798 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:08:09.003 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:14:56.513 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:16:08.748 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:18:08.721 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:22:10.702 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:24:08.851 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:26:11.117 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:30:16.380 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:32:14.309 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:33:17.969 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:36:13.335 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:38:19.254 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:39:34.086 NotebookApp] Kernel interrupted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 04:39:38.414 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:39:44.878 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:eb0b1741105647b5b9d7c5c8ba460afc
+[I 04:39:48.760 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 04:39:49.262 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:eb0b1741105647b5b9d7c5c8ba460afc
+2023-07-08 04:40:02.506333: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 04:40:16.859264: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 04:40:16.859335: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 04:41:01.517 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:41:52.247 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:42:24.957 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:eb0b1741105647b5b9d7c5c8ba460afc
+[I 04:42:31.731 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 04:42:32.577 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:eb0b1741105647b5b9d7c5c8ba460afc
+2023-07-08 04:42:38.303621: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 04:42:45.623097: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 04:42:45.623162: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 04:43:06.312736: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 04:43:06.313499: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 04:43:06.313518: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 04:43:28.190 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[W 04:43:31.899 NotebookApp] Timeout waiting for kernel_info_reply: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 04:44:33.623 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:45:25.076 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 04:45:53.726 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+ERROR:asyncio:Future exception was never retrieved
+future: <Future finished exception=TimeoutError('Timeout waiting for restart')>
+TimeoutError: Timeout waiting for restart
+2023-07-08 04:46:06.224514: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 04:46:06.235508: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 04:46:06.310111: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 04:48:24.283 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[W 10:27:02.727 NotebookApp] WebSocket ping timeout after 119975 ms.
+[I 10:27:07.980 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:eb0b1741105647b5b9d7c5c8ba460afc
+[I 11:14:39.994 NotebookApp] 302 GET / (127.0.0.1) 177.590000ms
+[W 11:14:53.828 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+[I 11:15:00.271 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:15:02.974 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 11:15:03.036 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:15:07.062 NotebookApp] Replaying 3 buffered messages
+2023-07-08 11:15:10.038034: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 11:15:15.705226: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 11:15:15.705301: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 11:15:30.485769: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:15:30.487881: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:15:30.487918: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 11:16:40.546542: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 11:16:40.583330: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 11:16:40.747809: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 11:16:54.794 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:18:54.809 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:20:54.442 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:21:09.056 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:22:28.172 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:22:59.755 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:24:54.482 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:26:54.423 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:27:30.988 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:27:54.507 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:28:54.089 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:28:56.958 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 11:28:57.151 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:28:59.717 NotebookApp] Replaying 3 buffered messages
+2023-07-08 11:29:10.672651: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 11:29:13.538814: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 11:29:13.538896: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 11:29:25.168175: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:29:25.170741: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:29:25.170764: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 11:30:54.903 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 11:32:46.061691: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 11:32:46.073490: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 11:32:46.272110: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 11:32:54.468 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 11:33:11.461960: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 11:33:29.638 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 11:33:46.460780: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:33:46.492365: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:33:46.834647: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:33:46.919580: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 11:34:54.799 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:35:47.905 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:35:50.983 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 11:35:51.193 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 11:35:53.519 NotebookApp] Replaying 3 buffered messages
+2023-07-08 11:35:57.489907: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 11:35:59.657226: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 11:35:59.657305: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 11:36:08.156618: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:36:08.168154: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 11:36:08.168194: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 11:36:54.718 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:37:35.487 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:38:01.916 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:38:22.372 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 11:39:44.292710: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 11:39:44.300206: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 11:39:44.363682: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 11:40:34.229399: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:40:34.447379: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:40:34.895221: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 11:40:35.310209: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+2023-07-08 11:40:35.310990: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 11:40:55.018 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:42:54.742 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:50:54.608 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 11:53:41.418 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 12:02:15.120 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 12:02:20.597 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 12:02:23.473 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 12:02:23.678 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 12:02:26.727 NotebookApp] Replaying 3 buffered messages
+[I 12:02:54.374 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 12:02:58.118713: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 12:03:01.450669: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 12:03:01.450744: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 12:03:16.954429: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 12:03:16.960356: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 12:03:16.960396: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 12:03:57.847899: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 12:03:57.871243: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 12:03:57.981817: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 12:04:28.653194: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 12:04:55.487 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 12:05:13.568237: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 12:05:13.713237: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 12:05:14.118729: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 12:05:14.175685: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 12:06:55.184 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 13:10:54.976 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 13:11:09.512 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 13:11:16.304 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 13:11:19.246 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 13:11:19.495 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 13:11:22.213 NotebookApp] Replaying 3 buffered messages
+2023-07-08 13:12:24.141268: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 13:12:28.723593: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 13:12:28.723666: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 13:12:44.348996: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 13:12:44.353161: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 13:12:44.353200: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 13:12:54.685 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 13:13:37.342503: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 13:13:37.355749: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 13:13:37.447085: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 13:14:04.337875: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 13:14:43.963691: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:14:44.013697: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:14:44.235698: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:14:44.338458: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[W 13:15:49.525 NotebookApp] WebSocket ping timeout after 108533 ms.
+[I 13:15:54.671 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 13:20:50.652 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 13:25:02.693 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 13:25:03.025 NotebookApp] Replaying 6 buffered messages
+[I 13:26:56.480 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 13:42:33.772 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 13:42:36.568 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 13:42:36.628 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[W 13:42:39.726 NotebookApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7f9f2fdfd6d0>
+[I 13:42:39.768 NotebookApp] Replaying 3 buffered messages
+2023-07-08 13:42:50.126068: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 13:42:52.090256: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 13:42:52.090346: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 13:42:54.578 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 13:42:58.463063: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 13:42:58.464185: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 13:42:58.464216: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 13:43:14.872899: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 13:43:14.885932: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 13:43:15.157740: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 13:43:45.126822: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 13:44:14.114592: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:44:14.310824: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:44:14.978665: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 13:44:15.033128: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[W 13:47:06.676 NotebookApp] WebSocket ping timeout after 108049 ms.
+[I 13:47:11.835 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:a0808f84d7d544c984f757a19e48cf55
+[I 14:33:19.297 NotebookApp] 302 GET / (127.0.0.1) 146.870000ms
+[W 14:33:29.241 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+[I 14:33:39.769 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:33:42.516 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 14:33:42.575 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:33:45.025 NotebookApp] Replaying 3 buffered messages
+2023-07-08 14:33:51.180486: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:33:53.558829: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 14:33:53.558884: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 14:33:59.727646: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:33:59.727979: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:33:59.727991: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 14:34:15.260714: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 14:34:15.329480: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 14:34:15.671203: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 14:35:29.585 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:35:51.809 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:35:54.738 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 14:35:54.910 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:35:57.211 NotebookApp] Replaying 3 buffered messages
+2023-07-08 14:36:05.023326: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:36:07.102783: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 14:36:07.102865: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 14:36:12.723313: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:36:12.724357: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:36:12.724386: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 14:36:28.333274: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 14:36:28.343186: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 14:36:28.630221: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:37:30.244439: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:37:30.289826: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:37:31.594225: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:37:31.669348: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+2023-07-08 14:37:31.670164: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 14:37:34.938 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:39:29.580 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:39:41.485 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:43:53.817 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:44:00.631 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:44:03.545 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 14:44:03.704 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:44:06.331 NotebookApp] Replaying 3 buffered messages
+2023-07-08 14:44:14.201582: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:44:16.163368: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 14:44:16.163438: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 14:44:22.600154: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:44:22.601316: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:44:22.601352: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 14:44:42.992108: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 14:44:43.005643: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 14:44:43.524336: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 14:45:33.847 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 14:45:51.002305: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:45:51.115148: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:45:51.973405: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:45:52.032236: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+2023-07-08 14:45:52.033619: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 14:47:31.205 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:52:44.650 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:52:47.641 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 14:52:47.795 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:52:50.659 NotebookApp] Replaying 3 buffered messages
+2023-07-08 14:52:55.360722: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:52:58.663844: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 14:52:58.663935: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 14:53:15.440689: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:53:15.446157: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:53:15.446192: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 14:53:31.917 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 14:53:39.236101: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 14:53:39.249962: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 14:53:39.562065: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:54:05.472853: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 14:54:31.559597: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:54:31.638704: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:54:32.612908: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 14:54:32.734432: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 14:55:29.556 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:57:30.449 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 14:58:33.699 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:58:36.558 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 14:58:36.789 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 14:58:39.824 NotebookApp] Replaying 3 buffered messages
+2023-07-08 14:58:47.394338: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 14:58:49.596680: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 14:58:49.596764: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 14:58:56.264015: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:58:56.264830: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 14:58:56.264853: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 14:59:18.832305: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 14:59:18.845077: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 14:59:19.429067: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 14:59:31.625 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 14:59:55.409232: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 15:00:22.499759: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:00:22.524683: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:00:24.983760: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:00:25.124555: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 15:01:30.415 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:03:30.495 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:04:12.637 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:04:15.545 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:04:15.798 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:04:18.329 NotebookApp] Replaying 3 buffered messages
+2023-07-08 15:04:24.280109: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:04:25.991935: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 15:04:25.991992: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 15:04:31.684115: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:04:31.684716: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:04:31.684733: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 15:04:53.627767: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 15:04:53.807725: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 15:04:54.379779: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:05:23.869931: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 15:05:32.104 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 15:05:53.925797: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:05:53.946867: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:05:54.689951: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:05:54.917815: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 15:07:31.053 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:31:30.126 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:34:13.442 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:34:16.404 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:34:16.595 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:34:18.952 NotebookApp] Replaying 3 buffered messages
+2023-07-08 15:34:19.185103: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:34:21.325174: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 15:34:21.325238: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 15:34:27.624518: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:34:27.625773: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:34:27.625808: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 15:34:43.456822: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 15:34:43.466785: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 15:34:43.783248: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:35:13.183606: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 15:35:31.829 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 15:35:39.185070: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:35:39.219282: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:35:42.150153: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:35:42.658987: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 15:37:29.847 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:43:29.520 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:43:44.828 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:43:55.397 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:44:10.156 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:44:13.106 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:44:13.240 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:44:15.658 NotebookApp] Replaying 3 buffered messages
+2023-07-08 15:44:15.800520: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:44:17.503132: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 15:44:17.503199: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 15:44:22.962768: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:44:22.963753: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:44:22.963791: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 15:44:38.959537: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 15:44:38.972046: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 15:44:39.353634: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 15:45:30.474 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:46:41.584 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:46:44.522 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:46:44.718 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:46:47.242 NotebookApp] Replaying 3 buffered messages
+2023-07-08 15:46:47.400088: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:46:49.161310: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 15:46:49.161388: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 15:46:55.053353: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:46:55.053904: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:46:55.053919: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 15:47:14.111727: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 15:47:14.130339: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 15:47:14.550381: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 15:47:29.551 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 15:47:44.300702: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 15:47:51.095 NotebookApp] Kernel interrupted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:47:53.214 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:47:57.885 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:48:00.760 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 15:48:00.930 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 15:48:03.174 NotebookApp] Replaying 5 buffered messages
+2023-07-08 15:48:03.300701: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:48:04.900088: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 15:48:04.900168: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 15:48:10.453725: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:48:10.454102: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 15:48:10.454117: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 15:48:27.544076: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 15:48:27.556550: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 15:48:28.024345: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 15:49:00.250588: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 15:49:24.538375: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:49:24.591993: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:49:27.812557: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 15:49:28.121909: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 15:49:31.156 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:51:29.850 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 15:52:24.735 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:25:30.035 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:27:29.395 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:29:05.150 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:29:08.098 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 17:29:08.336 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:29:10.896 NotebookApp] Replaying 3 buffered messages
+2023-07-08 17:29:20.622783: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:29:22.838200: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 17:29:22.838325: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 17:29:28.801172: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:29:28.803981: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:29:28.804025: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 17:29:30.551 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 17:29:57.071482: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 17:29:57.128625: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 17:29:57.488570: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:30:23.338870: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+2023-07-08 17:30:49.298614: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:30:49.349970: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:30:49.629122: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:30:49.745610: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 17:31:31.276 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:33:29.542 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:36:53.881 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:36:56.853 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 17:36:57.065 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:36:59.295 NotebookApp] Replaying 3 buffered messages
+2023-07-08 17:37:05.974497: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:37:07.753129: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 17:37:07.753180: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 17:37:14.121524: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:37:14.122018: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:37:14.122031: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 17:37:34.161934: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 17:37:34.174971: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 17:37:35.324659: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[I 17:37:37.516 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 17:38:32.277473: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:38:32.292157: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:38:32.779555: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:38:32.873675: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+2023-07-08 17:38:32.874746: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 17:39:31.159 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:41:29.544 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:43:27.165 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:43:40.668 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:43:43.549 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 17:43:43.745 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:43:46.142 NotebookApp] Replaying 3 buffered messages
+2023-07-08 17:44:26.431418: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:44:28.101942: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 17:44:28.102007: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 17:44:34.327928: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:44:34.328875: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:44:34.328896: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 17:44:57.920441: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 17:44:57.940049: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 17:44:58.612313: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:45:24.939737: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 17:45:32.790 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 17:45:48.272660: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:45:48.419169: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:45:49.230701: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:45:49.303020: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 17:47:29.947 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:49:29.509 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:50:20.511 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:50:23.348 NotebookApp] Kernel restarted: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 17:50:23.519 NotebookApp] Restoring connection for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
+[I 17:50:25.619 NotebookApp] Replaying 3 buffered messages
+2023-07-08 17:50:33.664124: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:50:35.746391: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-07-08 17:50:35.746450: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-07-08 17:50:43.029938: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:50:43.030613: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-07-08 17:50:43.030633: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+2023-07-08 17:50:58.191230: E tensorflow/compiler/xla/stream_executor/cuda/cuda_driver.cc:267] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2023-07-08 17:50:58.202751: I tensorflow/compiler/xla/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (vps34755): /proc/driver/nvidia/version does not exist
+2023-07-08 17:50:58.559261: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-07-08 17:51:24.051311: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 11520000 exceeds 10% of free system memory.
+[I 17:51:31.945 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+2023-07-08 17:51:48.449015: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:51:48.469385: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:51:51.037136: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-08 17:51:51.201470: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 17:53:30.646 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:55:29.653 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 17:57:31.355 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[I 18:00:21.705 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:7fb5d796921a4fc48a645ed9377a4d04
