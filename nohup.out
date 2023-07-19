@@ -8262,3 +8262,29 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 18:09:29.247 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
 [I 18:10:00.369 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
 [I 18:11:30.173 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 01:02:44.493 NotebookApp] Starting buffering for fae15fd6-3b6b-4289-b8c6-261f573700f8:6295cfe8b6a54d578cb71e77f6e7e10f
+[I 01:02:44.737 NotebookApp] Starting buffering for 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9:3b481df342fa49eca0c2eb105ad53b11
+[I 01:02:44.763 NotebookApp] Starting buffering for 3670e877-a2ef-4834-87ee-47ed5326e0fb:a2883fba2c4d4ce387786fb8ff86b95c
+[I 01:02:44.785 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:7095ec1d7bbd4e5584768c2c88f49436
+[I 12:15:45.965 NotebookApp] 302 GET / (127.0.0.1) 398.860000ms
+[W 12:16:03.319 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 12:18:03.844 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 12:18:03.850 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 12:54:03.785 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 12:55:32.959 NotebookApp] Notebook PrevisaoPython/previsao-teste.ipynb is not trusted
+[I 12:56:03.757 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 12:58:07.074 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+2023-07-18 12:58:14.058633: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-18 12:58:14.108253: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-18 12:58:14.302948: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 2457600 exceeds 10% of free system memory.
+2023-07-18 12:58:14.479867: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+2023-07-18 12:58:14.481354: W tensorflow/tsl/framework/cpu_allocator_impl.cc:82] Allocation of 1228800 exceeds 10% of free system memory.
+[I 13:00:03.790 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:02:04.354 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:04:03.766 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:06:04.390 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:08:03.794 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:10:03.785 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:12:04.330 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[I 13:48:36.230 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:f88c8fcfce4945158b14332147f9966c
+[I 14:35:12.821 NotebookApp] Starting buffering for 3670e877-a2ef-4834-87ee-47ed5326e0fb:a986b8b98a9e49f3883ffd7c7ddf8a35
