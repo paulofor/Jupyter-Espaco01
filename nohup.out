@@ -8288,3 +8288,28 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [I 13:12:04.330 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
 [I 13:48:36.230 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:f88c8fcfce4945158b14332147f9966c
 [I 14:35:12.821 NotebookApp] Starting buffering for 3670e877-a2ef-4834-87ee-47ed5326e0fb:a986b8b98a9e49f3883ffd7c7ddf8a35
+[I 16:45:44.695 NotebookApp] 302 GET / (127.0.0.1) 314.940000ms
+[W 16:46:05.395 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[W 16:50:32.050 NotebookApp] Notebook PrevisaoPython/dado-sintetico-scores.ipynb is not trusted
+[I 16:52:06.824 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 16:52:06.825 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 16:54:06.815 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 16:54:06.820 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 16:56:06.818 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 16:56:06.818 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 16:57:31.999 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 16:57:32.000 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:04:06.801 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 17:04:06.804 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:04:12.578 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 17:04:12.579 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:18:57.458 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:d8014e4dc87e49dd830df63df9d58100
+[W 17:23:13.852 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:25:15.599 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 17:25:15.601 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:29:15.580 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 17:29:15.580 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 17:33:15.571 NotebookApp] Saving file at /PrevisaoPython/PreRede Treinada sem Funções.ipynb
+[W 17:33:15.572 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[I 23:23:09.915 NotebookApp] Starting buffering for fae15fd6-3b6b-4289-b8c6-261f573700f8:eaa1892b3ab34c2bbb42a92de74c6b85
+[I 23:23:16.219 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:6f444ab77c2d4b88835452319f3b02c9
