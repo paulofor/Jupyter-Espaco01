@@ -8313,3 +8313,177 @@ To enable them in other operations, rebuild TensorFlow with the appropriate comp
 [W 17:33:15.572 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
 [I 23:23:09.915 NotebookApp] Starting buffering for fae15fd6-3b6b-4289-b8c6-261f573700f8:eaa1892b3ab34c2bbb42a92de74c6b85
 [I 23:23:16.219 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:6f444ab77c2d4b88835452319f3b02c9
+[I 11:25:54.443 NotebookApp] 302 GET / (127.0.0.1) 192.070000ms
+[W 11:26:07.635 NotebookApp] Notebook PrevisaoPython/PreRede Treinada sem Funções.ipynb is not trusted
+[C 12:07:55.234 NotebookApp] received signal 15, stopping
+[I 12:07:57.194 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel d53573ae-9046-49d7-b347-d7bb39a80b10 restarted
+[E 12:07:57.493 NotebookApp] KernelRestarter: restart callback <bound method ZMQChannelsHandler.on_kernel_restarted of ZMQChannelsHandler(d53573ae-9046-49d7-b347-d7bb39a80b10)> failed
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/restarter.py", line 91, in _fire_callbacks
+        callback()
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/kernels/handlers.py", line 607, in on_kernel_restarted
+        self._send_status_message('restarting')
+      File "/usr/local/lib/python3.8/dist-packages/notebook/services/kernels/handlers.py", line 603, in _send_status_message
+        self.write_message(json.dumps(msg, default=json_default))
+      File "/usr/local/lib/python3.8/dist-packages/tornado/websocket.py", line 337, in write_message
+        raise WebSocketClosedError()
+    tornado.websocket.WebSocketClosedError
+[I 12:07:58.154 NotebookApp] Starting buffering for d53573ae-9046-49d7-b347-d7bb39a80b10:c2b2541af8534750802bfda490776425
+[E 12:07:58.338 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x7f9f2e9918b0>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/ioloop.py", line 905, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/restarter.py", line 127, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 478, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 437, in _async_shutdown_kernel
+        await ensure_async(self._kill_kernel())
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 68, in run_until_complete
+        raise RuntimeError(
+    RuntimeError: Event loop stopped before Future completed.
+[I 12:07:58.718 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 12:07:58.731 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x7f9f308ced30>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/ioloop.py", line 905, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/restarter.py", line 127, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 478, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 437, in _async_shutdown_kernel
+        await ensure_async(self._kill_kernel())
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 68, in run_until_complete
+        raise RuntimeError(
+    RuntimeError: Event loop stopped before Future completed.
+[I 12:07:58.738 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 12:07:58.744 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x7f9f308ce400>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/ioloop.py", line 905, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/restarter.py", line 127, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 478, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 437, in _async_shutdown_kernel
+        await ensure_async(self._kill_kernel())
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 68, in run_until_complete
+        raise RuntimeError(
+    RuntimeError: Event loop stopped before Future completed.
+[I 12:07:58.749 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+[E 12:07:58.750 NotebookApp] Exception in callback <bound method KernelRestarter.poll of <jupyter_client.ioloop.restarter.IOLoopKernelRestarter object at 0x7f9f2ff5e040>>
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.8/dist-packages/tornado/ioloop.py", line 905, in _run
+        return self.callback()
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/restarter.py", line 127, in poll
+        self.kernel_manager.restart_kernel(now=True, newports=newports)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 478, in _async_restart_kernel
+        await ensure_async(self.shutdown_kernel(now=now, restart=True))
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 70, in run_until_complete
+        return f.result()
+      File "/usr/lib/python3.8/asyncio/futures.py", line 178, in result
+        raise self._exception
+      File "/usr/lib/python3.8/asyncio/tasks.py", line 280, in __step
+        result = coro.send(None)
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py", line 437, in _async_shutdown_kernel
+        await ensure_async(self._kill_kernel())
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 26, in wrapped
+        raise e
+      File "/usr/local/lib/python3.8/dist-packages/jupyter_client/utils.py", line 23, in wrapped
+        return loop.run_until_complete(future)
+      File "/usr/local/lib/python3.8/dist-packages/nest_asyncio.py", line 68, in run_until_complete
+        raise RuntimeError(
+    RuntimeError: Event loop stopped before Future completed.
+[I 12:07:58.805 NotebookApp] Shutting down 4 kernels
+[I 12:07:59.387 NotebookApp] Kernel shutdown: 452bceca-1179-44ab-8d6e-d9cf7dfe7ab9
+[I 12:07:59.665 NotebookApp] Kernel shutdown: 3670e877-a2ef-4834-87ee-47ed5326e0fb
+[I 12:07:59.708 NotebookApp] Kernel shutdown: fae15fd6-3b6b-4289-b8c6-261f573700f8
+[I 12:07:59.753 NotebookApp] Kernel shutdown: d53573ae-9046-49d7-b347-d7bb39a80b10
+[I 12:07:59.801 NotebookApp] Shutting down 0 terminals
