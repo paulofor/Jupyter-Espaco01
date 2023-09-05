@@ -8487,3 +8487,89 @@ WARNING:root:kernel d53573ae-9046-49d7-b347-d7bb39a80b10 restarted
 [I 12:07:59.708 NotebookApp] Kernel shutdown: fae15fd6-3b6b-4289-b8c6-261f573700f8
 [I 12:07:59.753 NotebookApp] Kernel shutdown: d53573ae-9046-49d7-b347-d7bb39a80b10
 [I 12:07:59.801 NotebookApp] Shutting down 0 terminals
+[I 14:45:23.969 NotebookApp] Serving notebooks from local directory: /root/notebook/meus-arquivos
+[I 14:45:23.981 NotebookApp] Jupyter Notebook 6.4.5 is running at:
+[I 14:45:23.981 NotebookApp] http://localhost:8970/?token=6debea838b36cdc08fa291dbb5c2fa3583ab99094348fd1e
+[I 14:45:23.981 NotebookApp]  or http://127.0.0.1:8970/?token=6debea838b36cdc08fa291dbb5c2fa3583ab99094348fd1e
+[I 14:45:23.981 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:45:23.998 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///root/.local/share/jupyter/runtime/nbserver-1651840-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8970/?token=6debea838b36cdc08fa291dbb5c2fa3583ab99094348fd1e
+     or http://127.0.0.1:8970/?token=6debea838b36cdc08fa291dbb5c2fa3583ab99094348fd1e
+[I 14:46:05.662 NotebookApp] 302 GET / (127.0.0.1) 6.080000ms
+[I 14:46:05.754 NotebookApp] 302 GET /tree? (127.0.0.1) 1.870000ms
+[I 14:46:11.002 NotebookApp] 302 GET / (127.0.0.1) 0.960000ms
+[I 14:46:11.089 NotebookApp] 302 GET /tree? (127.0.0.1) 1.360000ms
+[I 14:46:42.015 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 2.370000ms
+[W 14:47:11.039 NotebookApp] Notebook PrevisaoPython/dado-sintetico-scores.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskStepMethWrapper object at 0x7f675d909d90>()
+handle: <Handle <TaskStepMethWrapper object at 0x7f675d909d90>()>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-6' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:840> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-66' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f675d8fdee0>(<Future finis...c6a"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f675d8fdee0>(<Future finis...c6a"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-10' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...1c6a"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-2' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+[I 14:47:12.418 NotebookApp] Kernel started: 8c9294f9-a753-4f6a-82f1-5af3817bf027, name: python3
+[W 14:47:32.434 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f675d8fd8b0>(<Future finis...c6a"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f675d8fd8b0>(<Future finis...c6a"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-14' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...1c6a"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-43' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:695]> is being executed.
+[I 14:47:34.024 NotebookApp] Kernel started: 5f977289-06c8-49e1-9f6e-729d0a1cdba1, name: python3
+[I 14:50:09.673 NotebookApp] Starting buffering for 8c9294f9-a753-4f6a-82f1-5af3817bf027:5036e0fd06e245a1b771b54acd7b11e4
+[W 14:50:48.002 NotebookApp] Notebook PrevisaoPython/previsao-teste.ipynb is not trusted
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f675d854190>(<Future finis...c6a"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f675d854190>(<Future finis...c6a"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-15' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /api/co...1c6a"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-214' coro=<KernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/manager.py:337>> is being executed.
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f675b9faf40>(<Future finis...c6a"\r\n\r\n'>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f675b9faf40>(<Future finis...c6a"\r\n\r\n'>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-13' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=b'GET /kernel...1c6a"\r\n\r\n'> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-212' coro=<MappingKernelManager.start_kernel() running at /usr/local/lib/python3.8/dist-packages/notebook/services/kernels/kernelmanager.py:176> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:695]> is being executed.
+[I 14:50:49.027 NotebookApp] Kernel started: 18983c6c-058a-42aa-adb7-1f7983d3da74, name: python3
+[I 14:50:54.371 NotebookApp] Starting buffering for 18983c6c-058a-42aa-adb7-1f7983d3da74:0faab5e3c07543f592b684914d7aa3a9
+[I 14:50:59.409 NotebookApp] Creating new notebook in /PrevisaoPython
+ERROR:asyncio:Exception in callback <TaskWakeupMethWrapper object at 0x7f675b9a7dc0>(<Future finished result=None>)
+handle: <Handle <TaskWakeupMethWrapper object at 0x7f675b9a7dc0>(<Future finished result=None>)>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+RuntimeError: Cannot enter into task <Task pending name='Task-2' coro=<HTTP1ServerConnection._server_request_loop() running at /usr/local/lib/python3.8/dist-packages/tornado/http1connection.py:823> wait_for=<Future finished result=None> cb=[IOLoop.add_future.<locals>.<lambda>() at /usr/local/lib/python3.8/dist-packages/tornado/ioloop.py:688]> while another task <Task pending name='Task-267' coro=<MultiKernelManager._async_start_kernel() running at /usr/local/lib/python3.8/dist-packages/jupyter_client/multikernelmanager.py:186>> is being executed.
+[I 14:51:02.544 NotebookApp] Kernel started: f66779fc-5cb6-4d7a-a4b1-4993c6470300, name: python3
+2023-09-04 14:51:40.168508: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-04 14:51:55.096487: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-09-04 14:51:55.110312: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-09-04 14:52:24.277440: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-09-04 14:52:24.285247: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-09-04 14:52:24.285318: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 14:53:15.002 NotebookApp] Saving file at /PrevisaoPython/ExperimentoGeraScoreSintetico.ipynb
+[I 14:55:47.967 NotebookApp] Saving file at /PrevisaoPython/ExperimentoGeraScoreSintetico.ipynb
+[I 15:03:17.127 NotebookApp] Saving file at /PrevisaoPython/ExperimentoGeraScoreSintetico.ipynb
+[I 16:09:55.414 NotebookApp] Starting buffering for f66779fc-5cb6-4d7a-a4b1-4993c6470300:9f63157888c24ae18921d3b2ac8eecfe
+2023-09-04 16:26:52.892793: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-04 16:26:59.793167: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-09-04 16:26:59.805117: I tensorflow/compiler/xla/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+2023-09-04 16:27:21.005596: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory
+2023-09-04 16:27:21.009184: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory
+2023-09-04 16:27:21.009224: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+[I 16:27:40.382 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[W 16:27:41.163 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+[I 16:29:35.121 NotebookApp] Saving file at /PrevisaoPython/dado-sintetico.ipynb
+[W 16:29:35.258 NotebookApp] Notebook PrevisaoPython/dado-sintetico.ipynb is not trusted
+[I 23:18:40.919 NotebookApp] Starting buffering for 5f977289-06c8-49e1-9f6e-729d0a1cdba1:1e93c003c1b84e7a9618f232edfdd8d5
